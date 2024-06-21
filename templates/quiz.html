@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Who Episode Recommender</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Doctor Who Episode Recommender</h1>
+        <form id="searchForm">
+            <label for="classicWho">Classic Who:</label>
+            <input type="checkbox" id="classicWho" name="classicWho">
+
+            <label for="doctor">Doctor:</label>
+            <select id="doctor" name="doctor">
+                <option value="">None</option>
+                <option value="1st">First Doctor - William Hartnell</option>
+                <option value="2nd">Second Doctor - Patrick Troughton</option>
+                <!-- Add more options for other doctors here -->
+            </select>
+
+            <label for="season">Season:</label>
+            <select id="season" name="season">
+                <option value="">None</option>
+                <!-- Seasons will be populated dynamically -->
+            </select>
+
+            <label for="writer">Writer:</label>
+            <select id="writer" name="writer">
+                <option value="">None</option>
+                <!-- Writers will be populated dynamically -->
+            </select>
+
+            <label for="director">Director:</label>
+            <select id="director" name="director">
+                <option value="">None</option>
+                <!-- Directors will be populated dynamically -->
+            </select>
+
+            <label for="year">Year:</label>
+            <select id="year" name="year">
+                <option value="">None</option>
+                <!-- Years will be populated dynamically -->
+            </select>
+
+            <label for="enemy">Enemy:</label>
+            <select id="enemy" name="enemy">
+                <option value="">None</option>
+                <!-- Enemies will be populated dynamically -->
+            </select>
+
+            <label for="companion">Companion:</label>
+            <select id="companion" name="companion">
+                <option value="">None</option>
+                <!-- Companions will be populated dynamically -->
+            </select>
+
+            <div class="button-container">
+                <button type="submit">Search</button>
+            </div>
+        </form>
+
+        <div class="results">
+            <h2>Recommended Episodes</h2>
+            <div id="resultsList"></div>
+        </div>
+
+        <div class="end">
+            <div>
+                <label for="storyline">Storyline:</label>
+                <select id="storyline"></select>
+                <div id="storylineDescription">Description: None</div>
+            </div>
+        </div>
+    </div>
+    <br><br><br><br>
+    <script src="/static/script.js"></script>
+</body>
+</html>

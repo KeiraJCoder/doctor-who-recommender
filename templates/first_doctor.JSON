@@ -1,0 +1,1609 @@
+[
+  {
+    "doctor": "First Doctor",
+    "actor": "William Hartnell",
+    "description": "The first incarnation of the Doctor was portrayed by William Hartnell. During Hartnell's tenure, the episodes were a mixture of stories set on Earth of the future with extraterrestrial influence, on alien planets, and in historical events without extraterrestrial influence, such as Marco Polo, one of the lost serials. In his last story, The Tenth Planet, the Doctor gradually grew weaker to the point of collapsing at the end of the fourth episode, leading to his regeneration.",
+    "seasons":  [
+          {
+              "season": 1,
+              "year": "1963-1964",
+              "episodes": [
+                  {
+                      "story_number": 1,
+                      "serial_title": "An Unearthly Child",
+                      "description": "The Doctor and his companions arrive in prehistoric Earth and get involved with a tribe struggling to make fire.",
+                      "number_of_episodes": 4,
+                      "episodes": [
+                          {
+                              "title": "An Unearthly Child",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "Anthony Coburn and C. E. Webber (uncredited)",
+                              "original_air_date": "1963-11-23",
+                              "mood": "Mysterious",
+                              "missing": false,
+                              "enemies": ["Tribe of Gum"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Cave of Skulls",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "Anthony Coburn",
+                              "original_air_date": "1963-11-30",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Tribe of Gum"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Forest of Fear",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "Anthony Coburn",
+                              "original_air_date": "1963-12-07",
+                              "mood": "Thrilling",
+                              "missing": false,
+                              "enemies": ["Tribe of Gum"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Firemaker",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "Anthony Coburn",
+                              "original_air_date": "1963-12-14",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Tribe of Gum"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                      "story_number": 2,
+                      "serial_title": "The Daleks",
+                      "description": "The TARDIS crew lands on a dead planet and discovers the Daleks, who have survived a war with the Thals.",
+                      "number_of_episodes": 7,
+                      "episodes": [
+                          {
+                              "title": "The Dead Planet",
+                              "directed_by": "Christopher Barry",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1963-12-21",
+                              "mood": "Adventurous",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Survivors",
+                              "directed_by": "Christopher Barry",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1963-12-28",
+                              "mood": "Tense",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Escape",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-01-04",
+                              "mood": "Exciting",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Ambush",
+                              "directed_by": "Christopher Barry",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-01-11",
+                              "mood": "Action-packed",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Expedition",
+                              "directed_by": "Christopher Barry",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-01-18",
+                              "mood": "Thrilling",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Ordeal",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-01-25",
+                              "mood": "Intense",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Rescue",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-02-01",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                      "story_number": 3,
+                      "serial_title": "The Edge of Destruction",
+                      "description": "The TARDIS malfunctions and the crew members suspect each other of sabotage.",
+                      "number_of_episodes": 2,
+                      "episodes": [
+                          {
+                              "title": "The Edge of Destruction",
+                              "directed_by": "Richard Martin",
+                              "written_by": "David Whitaker",
+                              "original_air_date": "1964-02-08",
+                              "mood": "Mystery",
+                              "missing": false,
+                              "enemies": ["None"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Brink of Disaster",
+                              "directed_by": "Frank Cox",
+                              "written_by": "David Whitaker",
+                              "original_air_date": "1964-02-15",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["None"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                      "story_number": 4,
+                      "serial_title": "Marco Polo",
+                      "description": "The TARDIS crew joins Marco Polo on his journey across 13th century China.",
+                      "number_of_episodes": 7,
+                      "episodes": [
+                          {
+                              "title": "The Roof of the World",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-02-22",
+                              "mood": "Adventurous",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Singing Sands",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-02-29",
+                              "mood": "Atmospheric",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Five Hundred Eyes",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-03-07",
+                              "mood": "Suspenseful",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Wall of Lies",
+                              "directed_by": "John Crockett",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-03-14",
+                              "mood": "Dramatic",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Rider from Shang-Tu",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-03-21",
+                              "mood": "Adventurous",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Mighty Kublai Khan",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-03-28",
+                              "mood": "Dramatic",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Assassin at Peking",
+                              "directed_by": "Waris Hussein",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-04-04",
+                              "mood": "Suspenseful",
+                              "missing": true,
+                              "enemies": ["Tegana"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                      "story_number": 5,
+                      "serial_title": "The Keys of Marinus",
+                      "description": "The Doctor and his companions search for the keys to the Conscience of Marinus.",
+                      "number_of_episodes": 6,
+                      "episodes": [
+                          {
+                              "title": "The Sea of Death",
+                              "directed_by": "John Gorrie",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-04-11",
+                              "mood": "Adventurous",
+                              "missing": false,
+                              "enemies": ["Voord"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Velvet Web",
+                              "directed_by": "John Gorrie",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-04-18",
+                              "mood": "Mysterious",
+                              "missing": false,
+                              "enemies": ["Brains of Morphoton"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Screaming Jungle",
+                              "directed_by": "John Gorrie",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-04-25",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Vegetable creatures"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Snows of Terror",
+                              "directed_by": "John Gorrie",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-05-02",
+                              "mood": "Thrilling",
+                              "missing": false,
+                              "enemies": ["Ice Soldiers"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Sentence of Death",
+                              "directed_by": "John Gorrie",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-05-09",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Yartek"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Keys of Marinus",
+                              "directed_by": "John Gorrie",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-05-16",
+                              "mood": "Climactic",
+                              "missing": false,
+                              "enemies": ["Voord"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                      "story_number": 6,
+                      "serial_title": "The Aztecs",
+                      "description": "The TARDIS lands in Mexico during the time of the Aztecs. Barbara is mistaken for a goddess.",
+                      "number_of_episodes": 4,
+                      "episodes": [
+                          {
+                              "title": "The Temple of Evil",
+                              "directed_by": "John Crockett",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-05-23",
+                              "mood": "Historical",
+                              "missing": false,
+                              "enemies": ["Tlotoxl"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Warriors of Death",
+                              "directed_by": "John Crockett",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-05-30",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Tlotoxl"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Bride of Sacrifice",
+                              "directed_by": "John Crockett",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-06-06",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Tlotoxl"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Day of Darkness",
+                              "directed_by": "John Crockett",
+                              "written_by": "John Lucarotti",
+                              "original_air_date": "1964-06-13",
+                              "mood": "Climactic",
+                              "missing": false,
+                              "enemies": ["Tlotoxl"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                    "story_number": 7,
+                    "serial_title": "The Sensorites",
+                    "description": "The TARDIS crew encounters the Sensorites, an alien race that can read minds.",
+                    "number_of_episodes": 6,
+                      "episodes": [
+                          {
+                              "title": "Strangers in Space",
+                              "directed_by": "Mervyn Pinfield",
+                              "written_by": "Peter R. Newman",
+                              "original_air_date": "1964-06-20",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Sensorites"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Unwilling Warriors",
+                              "directed_by": "Mervyn Pinfield",
+                              "written_by": "Peter R. Newman",
+                              "original_air_date": "1964-06-27",
+                              "mood": "Tense",
+                              "missing": false,
+                              "enemies": ["Sensorites"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Hidden Danger",
+                              "directed_by": "Mervyn Pinfield",
+                              "written_by": "Peter R. Newman",
+                              "original_air_date": "1964-07-11",
+                              "mood": "Mysterious",
+                              "missing": false,
+                              "enemies": ["Sensorites"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "A Race Against Death",
+                              "directed_by": "Mervyn Pinfield",
+                              "written_by": "Peter R. Newman",
+                              "original_air_date": "1964-07-18",
+                              "mood": "Thrilling",
+                              "missing": false,
+                              "enemies": ["Sensorites"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Kidnap",
+                              "directed_by": "Frank Cox",
+                              "written_by": "Peter R. Newman",
+                              "original_air_date": "1964-07-25",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Sensorites"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "A Desperate Venture",
+                              "directed_by": "Frank Cox",
+                              "written_by": "Peter R. Newman",
+                              "original_air_date": "1964-08-01",
+                              "mood": "Climactic",
+                              "missing": false,
+                              "enemies": ["Sensorites"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                    "story_number": 8,
+                    "serial_title": "The Reign of Terror",
+                    "description": "The TARDIS crew arrives in France during the French Revolution.",
+                    "number_of_episodes": 6,
+                      "episodes": [
+                          {
+                              "title": "A Land of Fear",
+                              "directed_by": "Henric Hirsch",
+                              "written_by": "Dennis Spooner",
+                              "original_air_date": "1964-08-08",
+                              "mood": "Historical",
+                              "missing": true,
+                              "enemies": ["French Revolutionaries"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Guests of Madame Guillotine",
+                              "directed_by": "Henric Hirsch",
+                              "written_by": "Dennis Spooner",
+                              "original_air_date": "1964-08-15",
+                              "mood": "Suspenseful",
+                              "missing": true,
+                              "enemies": ["French Revolutionaries"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "A Change of Identity",
+                              "directed_by": "Henric Hirsch",
+                              "written_by": "Dennis Spooner",
+                              "original_air_date": "1964-08-22",
+                              "mood": "Mysterious",
+                              "missing": true,
+                              "enemies": ["French Revolutionaries"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Tyrant of France",
+                              "directed_by": "Henric Hirsch",
+                              "written_by": "Dennis Spooner",
+                              "original_air_date": "1964-08-29",
+                              "mood": "Dramatic",
+                              "missing": true,
+                              "enemies": ["French Revolutionaries"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "A Bargain of Necessity",
+                              "directed_by": "Henric Hirsch",
+                              "written_by": "Dennis Spooner",
+                              "original_air_date": "1964-09-05",
+                              "mood": "Tense",
+                              "missing": true,
+                              "enemies": ["French Revolutionaries"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Prisoners of Conciergerie",
+                              "directed_by": "Henric Hirsch",
+                              "written_by": "Dennis Spooner",
+                              "original_air_date": "1964-09-12",
+                              "mood": "Climactic",
+                              "missing": true,
+                              "enemies": ["French Revolutionaries"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "season": 2,
+              "year": "1964-1965",
+              "episodes": [
+                  {
+                    "story_number": 9,
+                    "serial_title": "Planet of Giants",
+                    "description": "The TARDIS crew is miniaturized and must stop a deadly pesticide from being released.",
+                    "number_of_episodes": 3,
+                      "episodes": [
+                          {
+                              "title": "Planet of Giants",
+                              "directed_by": "Mervyn Pinfield",
+                              "written_by": "Louis Marks",
+                              "original_air_date": "1964-10-31",
+                              "mood": "Adventurous",
+                              "missing": false,
+                              "enemies": ["Farrows"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Dangerous Journey",
+                              "directed_by": "Mervyn Pinfield",
+                              "written_by": "Louis Marks",
+                              "original_air_date": "1964-11-07",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Farrows"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Crisis",
+                              "directed_by": "Douglas Camfield",
+                              "written_by": "Louis Marks",
+                              "original_air_date": "1964-11-14",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Farrows"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                    "story_number": 10,
+                    "serial_title": "The Dalek Invasion of Earth",
+                    "description": "The Daleks invade Earth and the TARDIS crew must stop them.",
+                    "number_of_episodes": 6,
+                      "episodes": [
+                          {
+                              "title": "World's End",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-11-21",
+                              "mood": "Dystopian",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Daleks",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-11-28",
+                              "mood": "Thrilling",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Day of Reckoning",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-12-05",
+                              "mood": "Action-packed",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The End of Tomorrow",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-12-12",
+                              "mood": "Dramatic",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "The Waking Ally",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-12-19",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          },
+                          {
+                              "title": "Flashpoint",
+                              "directed_by": "Richard Martin",
+                              "written_by": "Terry Nation",
+                              "original_air_date": "1964-12-26",
+                              "mood": "Climactic",
+                              "missing": false,
+                              "enemies": ["Daleks"],
+                              "companions": ["Susan Foreman", "Ian Chesterton", "Barbara Wright"]
+                          }
+                      ]
+                  },
+                  {
+                      "story_number": 11,
+                      "serial_title": "The Rescue",
+                      "description": "The Doctor and his companions land on Dido and encounter a young girl named Vicki.",
+                      "number_of_episodes": 2,
+                      "episodes": [
+                          {
+                              "title": "The Powerful Enemy",
+                              "directed_by": "Christopher Barry",
+                              "written_by": "David Whitaker",
+                              "original_air_date": "1965-01-02",
+                              "mood": "Suspenseful",
+                              "missing": false,
+                              "enemies": ["Koquillion"],
+                              "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                          },
+                          {
+                              "title": "Desperate Measures",
+                              "directed_by": "Christopher Barry",
+                              "written_by": "David Whitaker",
+                              "original_air_date": "1965-01-09",
+                              "mood": "Climactic",
+                              "missing": false,
+                              "enemies": ["Koquillion"],
+                              "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                          }
+                      ]
+                  },
+                  {
+                    "story_number": 12,
+                    "serial_title": "The Romans",
+                    "description": "The TARDIS crew is caught in the intrigues of the Roman Empire.",
+                    "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "The Slave Traders",
+                            "directed_by": "Christopher Barry",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-01-16",
+                            "mood": "Historical",
+                            "missing": false,
+                            "enemies": ["Nero"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "All Roads Lead to Rome",
+                            "directed_by": "Christopher Barry",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-01-23",
+                            "mood": "Adventurous",
+                            "missing": false,
+                            "enemies": ["Nero"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Conspiracy",
+                            "directed_by": "Christopher Barry",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-01-30",
+                            "mood": "Suspenseful",
+                            "missing": false,
+                            "enemies": ["Nero"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Inferno",
+                            "directed_by": "Christopher Barry",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-02-06",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["Nero"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 13,
+                  "serial_title": "The Web Planet",
+                  "description": "The TARDIS is captured by the Zarbi on the planet Vortis.",
+                  "number_of_episodes": 6,
+                    "episodes": [
+                        {
+                            "title": "The Web Planet",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Bill Strutton",
+                            "original_air_date": "1965-02-13",
+                            "mood": "Adventurous",
+                            "missing": false,
+                            "enemies": ["Zarbi"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Zarbi",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Bill Strutton",
+                            "original_air_date": "1965-02-20",
+                            "mood": "Suspenseful",
+                            "missing": false,
+                            "enemies": ["Zarbi"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Escape to Danger",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Bill Strutton",
+                            "original_air_date": "1965-02-27",
+                            "mood": "Exciting",
+                            "missing": false,
+                            "enemies": ["Zarbi"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Crater of Needles",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Bill Strutton",
+                            "original_air_date": "1965-03-06",
+                            "mood": "Dramatic",
+                            "missing": false,
+                            "enemies": ["Zarbi"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Invasion",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Bill Strutton",
+                            "original_air_date": "1965-03-13",
+                            "mood": "Thrilling",
+                            "missing": false,
+                            "enemies": ["Zarbi"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Centre",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Bill Strutton",
+                            "original_air_date": "1965-03-20",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["Zarbi"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 14,
+                  "serial_title": "The Crusade",
+                  "description": "The Doctor and his companions find themselves caught in the midst of the Crusades.",
+                  "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "The Lion",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "David Whitaker",
+                            "original_air_date": "1965-03-27",
+                            "mood": "Historical",
+                            "missing": true,
+                            "enemies": ["Saladin"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Knight of Jaffa",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "David Whitaker",
+                            "original_air_date": "1965-04-03",
+                            "mood": "Adventurous",
+                            "missing": true,
+                            "enemies": ["Saladin"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Wheel of Fortune",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "David Whitaker",
+                            "original_air_date": "1965-04-10",
+                            "mood": "Dramatic",
+                            "missing": false,
+                            "enemies": ["Saladin"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Warlords",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "David Whitaker",
+                            "original_air_date": "1965-04-17",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["Saladin"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 15,
+                  "serial_title": "The Space Museum",
+                  "description": "The TARDIS crew becomes exhibits in a futuristic museum.",
+                  "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "The Space Museum",
+                            "directed_by": "Mervyn Pinfield",
+                            "written_by": "Glyn Jones",
+                            "original_air_date": "1965-04-24",
+                            "mood": "Mysterious",
+                            "missing": false,
+                            "enemies": ["Moroks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Dimensions of Time",
+                            "directed_by": "Mervyn Pinfield",
+                            "written_by": "Glyn Jones",
+                            "original_air_date": "1965-05-01",
+                            "mood": "Suspenseful",
+                            "missing": false,
+                            "enemies": ["Moroks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Search",
+                            "directed_by": "Mervyn Pinfield",
+                            "written_by": "Glyn Jones",
+                            "original_air_date": "1965-05-08",
+                            "mood": "Thrilling",
+                            "missing": false,
+                            "enemies": ["Moroks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Final Phase",
+                            "directed_by": "Mervyn Pinfield",
+                            "written_by": "Glyn Jones",
+                            "original_air_date": "1965-05-15",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["Moroks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 16,
+                  "serial_title": "The Chase",
+                  "description": "The Daleks pursue the TARDIS across time and space.",
+                  "number_of_episodes": 6,
+                    "episodes": [
+                        {
+                            "title": "The Executioners",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-05-22",
+                            "mood": "Adventurous",
+                            "missing": false,
+                            "enemies": ["Daleks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Death of Time",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-05-29",
+                            "mood": "Suspenseful",
+                            "missing": false,
+                            "enemies": ["Daleks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Flight Through Eternity",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-06-05",
+                            "mood": "Exciting",
+                            "missing": false,
+                            "enemies": ["Daleks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "Journey into Terror",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-06-12",
+                            "mood": "Thrilling",
+                            "missing": false,
+                            "enemies": ["Daleks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Death of Doctor Who",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-06-19",
+                            "mood": "Dramatic",
+                            "missing": false,
+                            "enemies": ["Daleks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        },
+                        {
+                            "title": "The Planet of Decision",
+                            "directed_by": "Richard Martin",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-06-26",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["Daleks"],
+                            "companions": ["Ian Chesterton", "Barbara Wright", "Vicki"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 17,
+                  "serial_title": "The Time Meddler",
+                  "description": "The Doctor encounters another Time Lord, the Monk, who is meddling with history.",
+                  "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "The Watcher",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-07-03",
+                            "mood": "Historical",
+                            "missing": false,
+                            "enemies": ["The Monk"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "The Meddling Monk",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-07-10",
+                            "mood": "Adventurous",
+                            "missing": false,
+                            "enemies": ["The Monk"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "A Battle of Wits",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-07-17",
+                            "mood": "Suspenseful",
+                            "missing": false,
+                            "enemies": ["The Monk"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "Checkmate",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1965-07-24",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["The Monk"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                          }
+                        ]
+                    }
+                ]
+          },
+          {
+            "season": 3,
+            "year": "1965-1966",
+            "episodes": [
+                  
+              {
+                "story_number": 18,
+                "serial_title": "Galaxy 4",
+                "description": "The Doctor and his companions land on a planet where two races, the Drahvins and the Rills, are at war.",
+                "number_of_episodes": 4,
+                "episodes": [
+                        {
+                            "title": "Four Hundred Dawns",
+                            "directed_by": "Derek Martinus",
+                            "written_by": "William Emms",
+                            "original_air_date": "1965-09-11",
+                            "mood": "Adventurous",
+                            "missing": true,
+                            "enemies": ["Drahvins"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "Trap of Steel",
+                            "directed_by": "Derek Martinus",
+                            "written_by": "William Emms",
+                            "original_air_date": "1965-09-18",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Drahvins"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "Air Lock",
+                            "directed_by": "Derek Martinus",
+                            "written_by": "William Emms",
+                            "original_air_date": "1965-09-25",
+                            "mood": "Thrilling",
+                            "missing": true,
+                            "enemies": ["Drahvins"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "The Exploding Planet",
+                            "directed_by": "Derek Martinus",
+                            "written_by": "William Emms",
+                            "original_air_date": "1965-10-02",
+                            "mood": "Climactic",
+                            "missing": true,
+                            "enemies": ["Drahvins"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 19,
+                  "serial_title": "Mission to the Unknown",
+                  "description": "A standalone episode featuring the Daleks plotting their invasion of the solar system.",
+                  "number_of_episodes": 1,
+                    "episodes": [
+                        {
+                            "title": "Mission to the Unknown",
+                            "directed_by": "Derek Martinus",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-10-09",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": []
+                        }
+                    ]
+                },
+                {
+                  "story_number": 20,
+                  "serial_title": "The Myth Makers",
+                  "description": "The Doctor and his companions become involved in the events of the Trojan War.",
+                  "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "Temple of Secrets",
+                            "directed_by": "Michael Leeston-Smith",
+                            "written_by": "Donald Cotton",
+                            "original_air_date": "1965-10-16",
+                            "mood": "Historical",
+                            "missing": true,
+                            "enemies": ["Greeks", "Trojans"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "Small Prophet, Quick Return",
+                            "directed_by": "Michael Leeston-Smith",
+                            "written_by": "Donald Cotton",
+                            "original_air_date": "1965-10-23",
+                            "mood": "Dramatic",
+                            "missing": true,
+                            "enemies": ["Greeks", "Trojans"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "Death of a Spy",
+                            "directed_by": "Michael Leeston-Smith",
+                            "written_by": "Donald Cotton",
+                            "original_air_date": "1965-10-30",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Greeks", "Trojans"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        },
+                        {
+                            "title": "Horse of Destruction",
+                            "directed_by": "Michael Leeston-Smith",
+                            "written_by": "Donald Cotton",
+                            "original_air_date": "1965-11-06",
+                            "mood": "Climactic",
+                            "missing": true,
+                            "enemies": ["Greeks", "Trojans"],
+                            "companions": ["Vicki", "Steven Taylor"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 21,
+                  "serial_title": "The Daleks' Master Plan",
+                  "description": "The Daleks have a master plan to conquer the universe, and the Doctor must stop them.",
+                  "number_of_episodes": 12,
+                    "episodes": [
+                        {
+                            "title": "The Nightmare Begins",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-11-13",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Katarina"]
+                        },
+                        {
+                            "title": "Day of Armageddon",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-11-20",
+                            "mood": "Thrilling",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Katarina"]
+                        },
+                        {
+                            "title": "Devil's Planet",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-11-27",
+                            "mood": "Dramatic",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Katarina"]
+                        },
+                        {
+                            "title": "The Traitors",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-12-04",
+                            "mood": "Climactic",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Katarina"]
+                        },
+                        {
+                            "title": "Counter Plot",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-12-11",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "Coronas of the Sun",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-12-18",
+                            "mood": "Thrilling",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "The Feast of Steven",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Terry Nation",
+                            "original_air_date": "1965-12-25",
+                            "mood": "Festive",
+                            "missing": true,
+                            "enemies": ["None"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "Volcano",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1966-01-01",
+                            "mood": "Dramatic",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "Golden Death",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1966-01-08",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "Escape Switch",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1966-01-15",
+                            "mood": "Thrilling",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "The Abandoned Planet",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1966-01-22",
+                            "mood": "Dramatic",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        },
+                        {
+                            "title": "Destruction of Time",
+                            "directed_by": "Douglas Camfield",
+                            "written_by": "Dennis Spooner",
+                            "original_air_date": "1966-01-29",
+                            "mood": "Climactic",
+                            "missing": true,
+                            "enemies": ["Daleks"],
+                            "companions": ["Steven Taylor", "Sara Kingdom"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 22,
+                  "serial_title": "The Massacre",
+                  "description": "The Doctor and Steven arrive in Paris during the St. Bartholomew's Day Massacre.",
+                  "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "War of God",
+                            "directed_by": "Paddy Russell",
+                            "written_by": "John Lucarotti",
+                            "original_air_date": "1966-02-05",
+                            "mood": "Historic",
+                            "missing": true,
+                            "enemies": ["Huguenots", "Catholics"],
+                            "companions": ["Steven Taylor"]
+                        },
+                        {
+                            "title": "The Sea Beggar",
+                            "directed_by": "Paddy Russell",
+                            "written_by": "John Lucarotti",
+                            "original_air_date": "1966-02-12",
+                            "mood": "Suspenseful",
+                            "missing": true,
+                            "enemies": ["Huguenots", "Catholics"],
+                            "companions": ["Steven Taylor"]
+                        },
+                        {
+                            "title": "Priest of Death",
+                            "directed_by": "Paddy Russell",
+                            "written_by": "John Lucarotti",
+                            "original_air_date": "1966-02-19",
+                            "mood": "Dramatic",
+                            "missing": true,
+                            "enemies": ["Huguenots", "Catholics"],
+                            "companions": ["Steven Taylor"]
+                        },
+                        {
+                            "title": "Bell of Doom",
+                            "directed_by": "Paddy Russell",
+                            "written_by": "John Lucarotti",
+                            "original_air_date": "1966-02-26",
+                            "mood": "Climactic",
+                            "missing": true,
+                            "enemies": ["Huguenots", "Catholics"],
+                            "companions": ["Steven Taylor"]
+                        }
+                    ]
+                },
+                {
+                  "story_number": 23,
+                  "serial_title": "The Ark",
+                  "description": "The Doctor and his companions discover a human colony on a spaceship controlled by the Monoids.",
+                  "number_of_episodes": 4,
+                    "episodes": [
+                        {
+                            "title": "The Steel Sky",
+                            "directed_by": "Michael Imison",
+                            "written_by": "Paul Erickson",
+                            "original_air_date": "1966-03-05",
+                            "mood": "Sci-Fi",
+                            "missing": false,
+                            "enemies": ["Monoids"],
+                            "companions": ["Steven Taylor", "Dodo Chaplet"]
+                        },
+                        {
+                            "title": "The Plague",
+                            "directed_by": "Michael Imison",
+                            "written_by": "Paul Erickson",
+                            "original_air_date": "1966-03-12",
+                            "mood": "Suspenseful",
+                            "missing": false,
+                            "enemies": ["Monoids"],
+                            "companions": ["Steven Taylor", "Dodo Chaplet"]
+                        },
+                        {
+                            "title": "The Return",
+                            "directed_by": "Michael Imison",
+                            "written_by": "Paul Erickson",
+                            "original_air_date": "1966-03-19",
+                            "mood": "Thrilling",
+                            "missing": false,
+                            "enemies": ["Monoids"],
+                            "companions": ["Steven Taylor", "Dodo Chaplet"]
+                        },
+                        {
+                            "title": "The Bomb",
+                            "directed_by": "Michael Imison",
+                            "written_by": "Paul Erickson",
+                            "original_air_date": "1966-03-26",
+                            "mood": "Climactic",
+                            "missing": false,
+                            "enemies": ["Monoids"],
+                            "companions": ["Steven Taylor", "Dodo Chaplet"]
+                        }
+                    ]
+                },
+              
+                {
+                  "story_number": 24,
+                  "serial_title": "The Celestial Toymaker",
+                  "description": "The Doctor faces the Celestial Toymaker, who forces him to play deadly games.",
+                  "number_of_episodes": 4,
+                  "episodes": [
+                      {
+                          "title": "The Celestial Toyroom",
+                          "directed_by": "Bill Sellars",
+                          "written_by": "Brian Hayles",
+                          "original_air_date": "1966-04-02",
+                          "mood": "Mysterious",
+                          "missing": true,
+                          "enemies": ["Toymaker"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "The Hall of Dolls",
+                          "directed_by": "Bill Sellars",
+                          "written_by": "Brian Hayles",
+                          "original_air_date": "1966-04-09",
+                          "mood": "Suspenseful",
+                          "missing": true,
+                          "enemies": ["Toymaker"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "The Dancing Floor",
+                          "directed_by": "Bill Sellars",
+                          "written_by": "Brian Hayles",
+                          "original_air_date": "1966-04-16",
+                          "mood": "Thrilling",
+                          "missing": true,
+                          "enemies": ["Toymaker"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "The Final Test",
+                          "directed_by": "Bill Sellars",
+                          "written_by": "Brian Hayles",
+                          "original_air_date": "1966-04-23",
+                          "mood": "Climactic",
+                          "missing": false,
+                          "enemies": ["Toymaker"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      }
+                  ]
+              },
+              {
+                "story_number": 25,
+                "serial_title": "The Gunfighters",
+                "description": "The Doctor and his companions get involved in the gunfight at the O.K. Corral.",
+                "number_of_episodes": 4,
+                  "episodes": [
+                      {
+                          "title": "A Holiday for the Doctor",
+                          "directed_by": "Rex Tucker",
+                          "written_by": "Donald Cotton",
+                          "original_air_date": "1966-04-30",
+                          "mood": "Western",
+                          "missing": false,
+                          "enemies": ["Clanton Brothers"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "Don't Shoot the Pianist",
+                          "directed_by": "Rex Tucker",
+                          "written_by": "Donald Cotton",
+                          "original_air_date": "1966-05-07",
+                          "mood": "Suspenseful",
+                          "missing": false,
+                          "enemies": ["Clanton Brothers"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "Johnny Ringo",
+                          "directed_by": "Rex Tucker",
+                          "written_by": "Donald Cotton",
+                          "original_air_date": "1966-05-14",
+                          "mood": "Dramatic",
+                          "missing": false,
+                          "enemies": ["Clanton Brothers"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "The O.K. Corral",
+                          "directed_by": "Rex Tucker",
+                          "written_by": "Donald Cotton",
+                          "original_air_date": "1966-05-21",
+                          "mood": "Climactic",
+                          "missing": false,
+                          "enemies": ["Clanton Brothers"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      }
+                  ]
+              },
+              {
+                "story_number": 26,
+                "serial_title": "The Savages",
+                "description": "The Doctor and his companions discover a society where the Elders drain life energy from the Savages.",
+                "number_of_episodes": 4,
+                  "episodes": [
+                      {
+                          "title": "The Savages",
+                          "directed_by": "Christopher Barry",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-05-28",
+                          "mood": "Adventurous",
+                          "missing": true,
+                          "enemies": ["Elders"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "The Exploding Planet",
+                          "directed_by": "Christopher Barry",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-06-04",
+                          "mood": "Suspenseful",
+                          "missing": true,
+                          "enemies": ["Elders"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "A New Life",
+                          "directed_by": "Christopher Barry",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-06-11",
+                          "mood": "Thrilling",
+                          "missing": true,
+                          "enemies": ["Elders"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      },
+                      {
+                          "title": "The Final Test",
+                          "directed_by": "Christopher Barry",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-06-18",
+                          "mood": "Climactic",
+                          "missing": true,
+                          "enemies": ["Elders"],
+                          "companions": ["Steven Taylor", "Dodo Chaplet"]
+                      }
+                  ]
+              },
+              {
+                "story_number": 27,
+                "serial_title": "The War Machines",
+                "description": "The Doctor must stop the War Machines, supercomputers that plan to conquer humanity.",
+                "number_of_episodes": 4,
+                  "episodes": [
+                      {
+                          "title": "The War Machines",
+                          "directed_by": "Michael Ferguson",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-06-25",
+                          "mood": "Sci-Fi",
+                          "missing": false,
+                          "enemies": ["War Machines"],
+                          "companions": ["Dodo Chaplet", "Ben Jackson", "Polly"]
+                      },
+                      {
+                          "title": "The Earth Dies Screaming",
+                          "directed_by": "Michael Ferguson",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-07-02",
+                          "mood": "Suspenseful",
+                          "missing": false,
+                          "enemies": ["War Machines"],
+                          "companions": ["Dodo Chaplet", "Ben Jackson", "Polly"]
+                      },
+                      {
+                          "title": "The Battle of London",
+                          "directed_by": "Michael Ferguson",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-07-09",
+                          "mood": "Thrilling",
+                          "missing": false,
+                          "enemies": ["War Machines"],
+                          "companions": ["Dodo Chaplet", "Ben Jackson", "Polly"]
+                      },
+                      {
+                          "title": "Victory",
+                          "directed_by": "Michael Ferguson",
+                          "written_by": "Ian Stuart Black",
+                          "original_air_date": "1966-07-16",
+                          "mood": "Climactic",
+                          "missing": false,
+                          "enemies": ["War Machines"],
+                          "companions": ["Dodo Chaplet", "Ben Jackson", "Polly"]
+                        }
+                      ]
+                  }
+              ]
+          },
+              {
+                "season": 4,
+                "year": "1966-1967",
+                "episodes": [
+                    {
+                      "story_number": 28,
+                      "serial_title": "The Smugglers",
+                      "description": "The TARDIS lands in 17th century Cornwall, where the Doctor and his companions become embroiled in a smuggling ring.",
+                      "number_of_episodes": 4,
+                        "episodes": [
+                            {
+                                "title": "Episode 1",
+                                "directed_by": "Julia Smith",
+                                "written_by": "Brian Hayles",
+                                "original_air_date": "1966-09-10",
+                                "mood": "Adventure",
+                                "missing": true,
+                                "enemies": ["Pike"],
+                                "companions": ["Polly", "Ben"]
+                            },
+                            {
+                                "title": "Episode 2",
+                                "directed_by": "Julia Smith",
+                                "written_by": "Brian Hayles",
+                                "original_air_date": "1966-09-17",
+                                "mood": "Adventure",
+                                "missing": true,
+                                "enemies": ["Pike"],
+                                "companions": ["Polly", "Ben"]
+                            },
+                            {
+                                "title": "Episode 3",
+                                "directed_by": "Julia Smith",
+                                "written_by": "Brian Hayles",
+                                "original_air_date": "1966-09-24",
+                                "mood": "Adventure",
+                                "missing": true,
+                                "enemies": ["Pike"],
+                                "companions": ["Polly", "Ben"]
+                            },
+                            {
+                                "title": "Episode 4",
+                                "directed_by": "Julia Smith",
+                                "written_by": "Brian Hayles",
+                                "original_air_date": "1966-10-01",
+                                "mood": "Adventure",
+                                "missing": true,
+                                "enemies": ["Pike"],
+                                "companions": ["Polly", "Ben"]
+                            }
+                        ]
+                    },
+                    {
+                      "story_number": 29,
+                      "serial_title": "The Tenth Planet",
+                      "description": "The Doctor and his companions face the Cybermen for the first time at the South Pole.",
+                      "number_of_episodes": 4,
+                        "episodes": [
+                            {
+                                "title": "Episode 1",
+                                "directed_by": "Derek Martinus",
+                                "written_by": "Kit Pedler",
+                                "original_air_date": "1966-10-08",
+                                "mood": "Sci-Fi",
+                                "missing": false,
+                                "enemies": ["Cybermen"],
+                                "companions": ["Polly", "Ben"]
+                            },
+                            {
+                                "title": "Episode 2",
+                                "directed_by": "Derek Martinus",
+                                "written_by": "Kit Pedler",
+                                "original_air_date": "1966-10-15",
+                                "mood": "Sci-Fi",
+                                "missing": false,
+                                "enemies": ["Cybermen"],
+                                "companions": ["Polly", "Ben"]
+                            },
+                            {
+                                "title": "Episode 3",
+                                "directed_by": "Derek Martinus",
+                                "written_by": "Kit Pedler and Gerry Davis",
+                                "original_air_date": "1966-10-22",
+                                "mood": "Sci-Fi",
+                                "missing": false,
+                                "enemies": ["Cybermen"],
+                                "companions": ["Polly", "Ben"]
+                            },
+                            {
+                                "title": "Episode 4",
+                                "directed_by": "Derek Martinus",
+                                "written_by": "Kit Pedler and Gerry Davis",
+                                "original_air_date": "1966-10-29",
+                                "mood": "Sci-Fi",
+                                "missing": true,
+                                "enemies": ["Cybermen"],
+                                "companions": ["Polly", "Ben"]
+                            }
+          ]
+        }
+      ]
+    }
+  ]
+  }
+ ]
+
+          

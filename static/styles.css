@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-top: 10px;
+}
+
+select, input {
+    padding: 5px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.button-container {
+    grid-column: span 2;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 5px;
+}
+
+.results {
+    margin-top: 20px;
+    text-align: left;
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+#resultsList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 60%;
+}
+
+.end label, .end select {
+    width: 100%;
+}
+
+.end #storylineDescription {
+    margin-top: 10px;
+}

@@ -1,0 +1,1386 @@
+[
+  {
+    "doctor": "Second Doctor",
+    "actor": "Patrick Troughton",
+    "description": "The Second Doctor was portrayed by Patrick Troughton, whose serials were more action-oriented than those of his predecessor. After The Highlanders, stories moved away from the purely historical ones that featured during William Hartnell's tenure; instead, any historical tales also included a science fiction element. Patrick Troughton retained the role until the last episode of The War Games when members of the Doctor's race, the Time Lords, put him on trial for breaking the laws of time. The Doctor was forced to regenerate and thereafter exiled on Earth.",
+    "seasons": [
+      {
+        "season": 4,
+        "year": "1966-1967",
+        "episodes": [
+          {
+            "story_number": 30,
+            "serial_title": "The Power of the Daleks",
+            "description": "The newly regenerated Doctor, along with Ben and Polly, arrive on the planet Vulcan and discover a plot by the Daleks to conquer the human colony.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Christopher Barry",
+                "written_by": "David Whitaker",
+                "original_air_date": "1966-11-05",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Ben Jackson", "Polly"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Christopher Barry",
+                "written_by": "David Whitaker",
+                "original_air_date": "1966-11-12",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Ben Jackson", "Polly"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Christopher Barry",
+                "written_by": "David Whitaker",
+                "original_air_date": "1966-11-19",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Ben Jackson", "Polly"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Christopher Barry",
+                "written_by": "David Whitaker",
+                "original_air_date": "1966-11-26",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Ben Jackson", "Polly"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Christopher Barry",
+                "written_by": "David Whitaker",
+                "original_air_date": "1966-12-03",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Ben Jackson", "Polly"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Christopher Barry",
+                "written_by": "David Whitaker",
+                "original_air_date": "1966-12-10",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Ben Jackson", "Polly"]
+              }
+            ]
+          },
+          {
+            "story_number": 31,
+            "serial_title": "The Highlanders",
+            "description": "The Doctor, Ben, and Polly arrive in Scotland during the aftermath of the Battle of Culloden and meet a young Highlander named Jamie McCrimmon.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Hugh David",
+                "written_by": "Elwyn Jones and Gerry Davis",
+                "original_air_date": "1966-12-17",
+                "mood": "Historical",
+                "missing": true,
+                "enemies": ["Redcoats"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Hugh David",
+                "written_by": "Elwyn Jones and Gerry Davis",
+                "original_air_date": "1966-12-24",
+                "mood": "Historical",
+                "missing": true,
+                "enemies": ["Redcoats"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Hugh David",
+                "written_by": "Elwyn Jones and Gerry Davis",
+                "original_air_date": "1966-12-31",
+                "mood": "Historical",
+                "missing": true,
+                "enemies": ["Redcoats"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Hugh David",
+                "written_by": "Elwyn Jones and Gerry Davis",
+                "original_air_date": "1967-01-07",
+                "mood": "Historical",
+                "missing": true,
+                "enemies": ["Redcoats"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              }
+            ]
+          },
+          {
+            "story_number": 32,
+            "serial_title": "The Underwater Menace",
+            "description": "The TARDIS crew arrive on an underwater base where they discover a mad scientist's plot to raise Atlantis.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Julia Smith",
+                "written_by": "Geoffrey Orme",
+                "original_air_date": "1967-01-14",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Professor Zaroff"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Julia Smith",
+                "written_by": "Geoffrey Orme",
+                "original_air_date": "1967-01-21",
+                "mood": "Adventurous",
+                "missing": false,
+                "enemies": ["Professor Zaroff"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Julia Smith",
+                "written_by": "Geoffrey Orme",
+                "original_air_date": "1967-01-28",
+                "mood": "Adventurous",
+                "missing": false,
+                "enemies": ["Professor Zaroff"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Julia Smith",
+                "written_by": "Geoffrey Orme",
+                "original_air_date": "1967-02-04",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Professor Zaroff"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              }
+            ]
+          },
+          {
+            "story_number": 33,
+            "serial_title": "The Moonbase",
+            "description": "The Doctor and his companions arrive on the Moonbase in 2070 and uncover a Cyberman plot to take over the base.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler",
+                "original_air_date": "1967-02-11",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Cybermen"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler",
+                "original_air_date": "1967-02-18",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler",
+                "original_air_date": "1967-02-25",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Cybermen"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler",
+                "original_air_date": "1967-03-04",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              }
+            ]
+          },
+          {
+            "story_number": 34,
+            "serial_title": "The Macra Terror",
+            "description": "The Doctor, Ben, Polly, and Jamie arrive at a colony where the inhabitants are being controlled by giant crab-like creatures called the Macra.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "John Davies",
+                "written_by": "Ian Stuart Black",
+                "original_air_date": "1967-03-11",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Macra"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "John Davies",
+                "written_by": "Ian Stuart Black",
+                "original_air_date": "1967-03-18",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Macra"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "John Davies",
+                "written_by": "Ian Stuart Black",
+                "original_air_date": "1967-03-25",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Macra"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "John Davies",
+                "written_by": "Ian Stuart Black",
+                "original_air_date": "1967-04-01",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Macra"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              }
+            ]
+          },
+          {
+            "story_number": 35,
+            "serial_title": "The Faceless Ones",
+            "description": "The TARDIS arrives at Gatwick Airport where the Doctor and his companions uncover a plot by the Chameleons to replace humans with duplicates.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Gerry Mill",
+                "written_by": "David Ellis and Malcolm Hulke",
+                "original_air_date": "1967-04-08",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Chameleons"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Gerry Mill",
+                "written_by": "David Ellis and Malcolm Hulke",
+                "original_air_date": "1967-04-15",
+                "mood": "Thrilling",
+                "missing": true,
+                "enemies": ["Chameleons"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Gerry Mill",
+                "written_by": "David Ellis and Malcolm Hulke",
+                "original_air_date": "1967-04-22",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Chameleons"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Gerry Mill",
+                "written_by": "David Ellis and Malcolm Hulke",
+                "original_air_date": "1967-04-29",
+                "mood": "Thrilling",
+                "missing": true,
+                "enemies": ["Chameleons"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Gerry Mill",
+                "written_by": "David Ellis and Malcolm Hulke",
+                "original_air_date": "1967-05-06",
+                "mood": "Thrilling",
+                "missing": true,
+                "enemies": ["Chameleons"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Gerry Mill",
+                "written_by": "David Ellis and Malcolm Hulke",
+                "original_air_date": "1967-05-13",
+                "mood": "Thrilling",
+                "missing": true,
+                "enemies": ["Chameleons"],
+                "companions": ["Ben Jackson", "Polly", "Jamie McCrimmon"]
+              }
+            ]
+          },
+          {
+            "story_number": 36,
+            "serial_title": "The Evil of the Daleks",
+            "description": "The Doctor and Jamie are drawn into a trap by the Daleks who seek the 'Human Factor' to make themselves invincible.",
+            "number_of_episodes": 7,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-05-20",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-05-27",
+                "mood": "Suspenseful",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-06-03",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-06-10",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-06-17",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-06-24",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 7",
+                "directed_by": "Derek Martinus",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-07-01",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Daleks"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 5,
+        "year": "1967-1968",
+        "episodes": [
+          {
+            "story_number": 37,
+            "serial_title": "The Tomb of the Cybermen",
+            "description": "The Doctor, Jamie, and Victoria join an archaeological expedition to the planet Telos and discover the tomb of the Cybermen.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler and Gerry Davis",
+                "original_air_date": "1967-09-02",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler and Gerry Davis",
+                "original_air_date": "1967-09-09",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler and Gerry Davis",
+                "original_air_date": "1967-09-16",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Morris Barry",
+                "written_by": "Kit Pedler and Gerry Davis",
+                "original_air_date": "1967-09-23",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          },
+          {
+            "story_number": 38,
+            "serial_title": "The Abominable Snowmen",
+            "description": "The Doctor and his companions arrive in Tibet in 1935 and encounter the Yeti and the Great Intelligence.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Gerald Blake",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1967-09-30",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Gerald Blake",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1967-10-07",
+                "mood": "Mysterious",
+                "missing": false,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Gerald Blake",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1967-10-14",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Gerald Blake",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1967-10-21",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Gerald Blake",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1967-10-28",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Gerald Blake",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1967-11-04",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          },
+          {
+            "story_number": 39,
+            "serial_title": "The Ice Warriors",
+            "description": "The Doctor and his companions arrive in a future Earth undergoing a new ice age and encounter the Ice Warriors.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "One",
+                "directed_by": "Derek Martinus",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1967-11-11",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Two",
+                "directed_by": "Derek Martinus",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1967-11-18",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Three",
+                "directed_by": "Derek Martinus",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1967-11-25",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Four",
+                "directed_by": "Derek Martinus",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1967-12-02",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Five",
+                "directed_by": "Derek Martinus",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1967-12-09",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Six",
+                "directed_by": "Derek Martinus",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1967-12-16",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          },
+          {
+            "story_number": 40,
+            "serial_title": "The Enemy of the World",
+            "description": "The Doctor discovers that he is the double of Salamander, a ruthless dictator, and works to bring about his downfall.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Barry Letts",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-12-23",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Salamander"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Barry Letts",
+                "written_by": "David Whitaker",
+                "original_air_date": "1967-12-30",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Salamander"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Barry Letts",
+                "written_by": "David Whitaker",
+                "original_air_date": "1968-01-06",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Salamander"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Barry Letts",
+                "written_by": "David Whitaker",
+                "original_air_date": "1968-01-13",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Salamander"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Barry Letts",
+                "written_by": "David Whitaker",
+                "original_air_date": "1968-01-20",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Salamander"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Barry Letts",
+                "written_by": "David Whitaker",
+                "original_air_date": "1968-01-27",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Salamander"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          },
+          {
+            "story_number": 41,
+            "serial_title": "The Web of Fear",
+            "description": "The Doctor and his companions return to London and find it overrun by the Yeti and the Great Intelligence.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-02-03",
+                "mood": "Suspenseful",
+                "missing": false,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-02-10",
+                "mood": "Suspenseful",
+                "missing": false,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-02-17",
+                "mood": "Suspenseful",
+                "missing": true,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-02-24",
+                "mood": "Suspenseful",
+                "missing": false,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-03-02",
+                "mood": "Suspenseful",
+                "missing": false,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-03-09",
+                "mood": "Suspenseful",
+                "missing": false,
+                "enemies": ["Yeti", "Great Intelligence"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          },
+          {
+            "story_number": 42,
+            "serial_title": "Fury from the Deep",
+            "description": "The Doctor and his companions investigate a series of mysterious gas leaks from a North Sea refinery.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Hugh David",
+                "written_by": "Victor Pemberton",
+                "original_air_date": "1968-03-16",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Seaweed Creature"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Hugh David",
+                "written_by": "Victor Pemberton",
+                "original_air_date": "1968-03-23",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Seaweed Creature"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Hugh David",
+                "written_by": "Victor Pemberton",
+                "original_air_date": "1968-03-30",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Seaweed Creature"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Hugh David",
+                "written_by": "Victor Pemberton",
+                "original_air_date": "1968-04-06",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Seaweed Creature"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Hugh David",
+                "written_by": "Victor Pemberton",
+                "original_air_date": "1968-04-13",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Seaweed Creature"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Hugh David",
+                "written_by": "Victor Pemberton",
+                "original_air_date": "1968-04-20",
+                "mood": "Mysterious",
+                "missing": true,
+                "enemies": ["Seaweed Creature"],
+                "companions": ["Jamie McCrimmon", "Victoria Waterfield"]
+              }
+            ]
+          },
+          {
+            "story_number": 43,
+            "serial_title": "The Wheel in Space",
+            "description": "The Doctor and Jamie arrive on a space station called the Wheel and uncover a Cyberman plot to invade Earth.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Tristan DeVere Cole",
+                "written_by": "David Whitaker and Kit Pedler",
+                "original_air_date": "1968-04-27",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Tristan DeVere Cole",
+                "written_by": "David Whitaker and Kit Pedler",
+                "original_air_date": "1968-05-04",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Tristan DeVere Cole",
+                "written_by": "David Whitaker and Kit Pedler",
+                "original_air_date": "1968-05-11",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Tristan DeVere Cole",
+                "written_by": "David Whitaker and Kit Pedler",
+                "original_air_date": "1968-05-18",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Tristan DeVere Cole",
+                "written_by": "David Whitaker and Kit Pedler",
+                "original_air_date": "1968-05-25",
+                "mood": "Sci-Fi",
+                "missing": true,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Tristan DeVere Cole",
+                "written_by": "David Whitaker and Kit Pedler",
+                "original_air_date": "1968-06-01",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          }
+        ]
+      },
+        {
+          "season": 6,
+          "year": "1967-1968",
+          "episodes": [
+                {
+            "story_number": 44,
+            "serial_title": "The Dominators",
+            "description": "The Doctor, Jamie, and Zoe arrive on the planet Dulkis and face the Dominators and their robotic Quarks.",
+            "number_of_episodes": 5,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Morris Barry",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-08-10",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Dominators", "Quarks"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Morris Barry",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-08-17",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Dominators", "Quarks"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Morris Barry",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-08-24",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Dominators", "Quarks"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Morris Barry",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-08-31",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Dominators", "Quarks"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Morris Barry",
+                "written_by": "Mervyn Haisman and Henry Lincoln",
+                "original_air_date": "1968-09-07",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Dominators", "Quarks"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          },
+          {
+            "story_number": 45,
+            "serial_title": "The Mind Robber",
+            "description": "The Doctor, Jamie, and Zoe are transported to a strange land where fiction becomes reality.",
+            "number_of_episodes": 5,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "David Maloney",
+                "written_by": "Derrick Sherwin",
+                "original_air_date": "1968-09-14",
+                "mood": "Fantasy",
+                "missing": false,
+                "enemies": ["The Master of the Land of Fiction"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "David Maloney",
+                "written_by": "Peter Ling",
+                "original_air_date": "1968-09-21",
+                "mood": "Fantasy",
+                "missing": false,
+                "enemies": ["The Master of the Land of Fiction"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "David Maloney",
+                "written_by": "Peter Ling",
+                "original_air_date": "1968-09-28",
+                "mood": "Fantasy",
+                "missing": false,
+                "enemies": ["The Master of the Land of Fiction"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "David Maloney",
+                "written_by": "Peter Ling",
+                "original_air_date": "1968-10-05",
+                "mood": "Fantasy",
+                "missing": false,
+                "enemies": ["The Master of the Land of Fiction"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "David Maloney",
+                "written_by": "Peter Ling",
+                "original_air_date": "1968-10-12",
+                "mood": "Fantasy",
+                "missing": false,
+                "enemies": ["The Master of the Land of Fiction"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          },
+          {
+            "story_number": 46,
+            "serial_title": "The Invasion",
+            "description": "The Doctor, Jamie, and Zoe uncover a Cyberman plot to invade Earth with the help of Tobias Vaughn.",
+            "number_of_episodes": 8,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-11-02",
+                "mood": "Thrilling",
+                "missing": true,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-11-09",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-11-16",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-11-23",
+                "mood": "Thrilling",
+                "missing": true,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-11-30",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-12-07",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Seven",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-12-14",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Eight",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Derrick Sherwin and Kit Pedler",
+                "original_air_date": "1968-12-21",
+                "mood": "Thrilling",
+                "missing": false,
+                "enemies": ["Cybermen", "Tobias Vaughn"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          },
+          {
+            "story_number": 47,
+            "serial_title": "The Krotons",
+            "description": "The Doctor, Jamie, and Zoe arrive on a planet where the Gonds are enslaved by the Krotons.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "David Maloney",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1968-12-28",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Krotons"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "David Maloney",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-01-04",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Krotons"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "David Maloney",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-01-11",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Krotons"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "David Maloney",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-01-18",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Krotons"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          },
+          {
+            "story_number": 48,
+            "serial_title": "The Seeds of Death",
+            "description": "The Doctor, Jamie, and Zoe arrive in a future Earth where they must stop the Ice Warriors from taking over the T-Mat transportation system.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1969-01-25",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Brian Hayles",
+                "original_air_date": "1969-02-01",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Brian Hayles and Terrance Dicks",
+                "original_air_date": "1969-02-08",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Brian Hayles and Terrance Dicks",
+                "original_air_date": "1969-02-15",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Brian Hayles and Terrance Dicks",
+                "original_air_date": "1969-02-22",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Brian Hayles and Terrance Dicks",
+                "original_air_date": "1969-03-01",
+                "mood": "Sci-Fi",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          },
+          {
+            "story_number": 49,
+            "serial_title": "The Space Pirates",
+            "description": "The Doctor, Jamie, and Zoe become involved in a conflict between space pirates and the Earth Space Corps.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Michael Hart",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-03-08",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Space Pirates"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Michael Hart",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-03-15",
+                "mood": "Adventurous",
+                "missing": false,
+                "enemies": ["Space Pirates"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Michael Hart",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-03-22",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Space Pirates"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Michael Hart",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-03-29",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Space Pirates"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Michael Hart",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-04-05",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Space Pirates"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Michael Hart",
+                "written_by": "Robert Holmes",
+                "original_air_date": "1969-04-12",
+                "mood": "Adventurous",
+                "missing": true,
+                "enemies": ["Space Pirates"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          },
+          {
+            "story_number": 50,
+            "serial_title": "The War Games",
+            "description": "The Doctor, Jamie, and Zoe discover that a series of war zones are being controlled by the War Lords and must stop their plans.",
+            "number_of_episodes": 10,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-04-19",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-04-26",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-05-03",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-05-10",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-05-17",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-05-24",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Seven",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-05-31",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Eight",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-06-07",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Nine",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-06-14",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              },
+              {
+                "title": "Episode Ten",
+                "directed_by": "David Maloney",
+                "written_by": "Terrance Dicks and Malcolm Hulke",
+                "original_air_date": "1969-06-21",
+                "mood": "Epic",
+                "missing": false,
+                "enemies": ["War Lords"],
+                "companions": ["Jamie McCrimmon", "Zoe Heriot"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+          
