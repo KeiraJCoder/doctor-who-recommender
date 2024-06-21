@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let storylines = [];
 
   // Fetch and process data for the first doctor
-  fetch('first_doctor.JSON')
+  fetch('templates/first_doctor.JSON')
     .then(response => response.json())
     .then(data => {
       firstDoctorData = processDoctorData(data[0], 'first');
@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .catch(error => console.error("Error loading first doctor data:", error));
 
   // Fetch and process data for the second doctor
-  fetch('second_doctor.JSON')
+  fetch('templates/second_doctor.JSON')
     .then(response => response.json())
     .then(data => {
       secondDoctorData = processDoctorData(data[0], 'second');
@@ -187,22 +187,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const table = document.createElement('table');
     table.innerHTML = `
-      <thead>
-        <tr>
-          <th>Title</th>
-          <th>Story</th>
-          <th>Season</th>
-          <th>Year</th>
-          <th>Director</th>
-          <th>Writer</th>
-          <th>Air Date</th>
-        </tr>
-      </thead>
-      <tbody>
-      </tbody>
+      <tr>
+        <th>Title</th>
+        <th>Story</th>
+        <th>Season</th>
+        <th>Year</th>
+        <th>Director</th>
+        <th>Writer</th>
+        <th>Air Date</th>
+      </tr>
     `;
-
-    const tbody = table.querySelector('tbody');
 
     results.forEach(episode => {
       const row = document.createElement('tr');
@@ -215,7 +209,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <td>${episode.writtenBy}</td>
         <td>${episode.originalAirDate}</td>
       `;
-      tbody.appendChild(row);
+      table.appendChild(row);
     });
 
     resultsList.appendChild(table);
