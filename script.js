@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let storylines = [];
 
   // Fetch and process data for the first doctor
-  fetch('/templates/first_doctor.JSON')
+  fetch('first_doctor.JSON')
     .then(response => response.json())
     .then(data => {
       firstDoctorData = processDoctorData(data[0], 'first');
@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .catch(error => console.error("Error loading first doctor data:", error));
 
   // Fetch and process data for the second doctor
-  fetch('/templates/second_doctor.JSON')
+  fetch('second_doctor.JSON')
     .then(response => response.json())
     .then(data => {
       secondDoctorData = processDoctorData(data[0], 'second');
