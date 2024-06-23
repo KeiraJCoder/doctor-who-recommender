@@ -3,6 +3,8 @@
     "doctor": "First Doctor",
     "actor": "William Hartnell",
     "description": "The first incarnation of the Doctor was portrayed by William Hartnell. During Hartnell's tenure, the episodes were a mixture of stories set on Earth of the future with extraterrestrial influence, on alien planets, and in historical events without extraterrestrial influence, such as Marco Polo, one of the lost serials. In his last story, The Tenth Planet, the Doctor gradually grew weaker to the point of collapsing at the end of the fourth episode, leading to his regeneration.",
+    "image": "images/William-Hartnell.jpg",
+    "years_active": "1963–1966",
     "seasons":  [
           {
               "season": 1,
