@@ -1,0 +1,789 @@
+[{
+    "doctor": "Fifth Doctor",
+    "actor": "Peter Davison",
+    "description": "The Fifth Doctor was portrayed by Peter Davison. Davison portrays the Fifth Doctor as having a vulnerable side and a tendency towards indecisiveness, dressed as a boyish Edwardian cricketer. He travelled with a host of companions, including boy genius Adric, alien aristocrat Nyssa and Australian flight attendant Tegan Jovanka, who had travelled with his previous incarnation. He also shared later adventures alongside devious schoolboy Vislor Turlough and American college student Peri Brown",
+    "image": "images/Peter-Davison.jpg",
+    "years_active": "1982–1984",
+    "seasons": [
+      {
+        "season": 19,
+        "year": 1982,
+        "episodes": [
+          {
+            "serial_title": "Castrovalva",
+            "description": "Castrovalva, together with the previous two serials, The Keeper of Traken and Logopolis, form a trilogy involving the return of the The Master.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "4 January 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "5 January 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "11 January 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "12 January 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Four to Doomsday",
+            "description": "The Doctor encounters the Monarch, who is planning to return to Earth.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "John Black",
+                "written_by": "Terence Dudley",
+                "original_air_date": "18 January 1982",
+                "missing": false,
+                "enemies": ["Monarch"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "John Black",
+                "written_by": "Terence Dudley",
+                "original_air_date": "19 January 1982",
+                "missing": false,
+                "enemies": ["Monarch"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "John Black",
+                "written_by": "Terence Dudley",
+                "original_air_date": "25 January 1982",
+                "missing": false,
+                "enemies": ["Monarch"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "John Black",
+                "written_by": "Terence Dudley",
+                "original_air_date": "26 January 1982",
+                "missing": false,
+                "enemies": ["Monarch"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Kinda",
+            "description": "The Doctor faces the Mara on the planet Deva Loka.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "1 February 1982",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Adric", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "2 February 1982",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Adric", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "8 February 1982",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Adric", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "9 February 1982",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Adric", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Visitation",
+            "description": "The Doctor battles an alien attempting to create a plague.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Eric Saward",
+                "original_air_date": "15 February 1982",
+                "missing": false,
+                "enemies": ["Terileptils"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Eric Saward",
+                "original_air_date": "16 February 1982",
+                "missing": false,
+                "enemies": ["Terileptils"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Eric Saward",
+                "original_air_date": "22 February 1982",
+                "missing": false,
+                "enemies": ["Terileptils"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Eric Saward",
+                "original_air_date": "23 February 1982",
+                "missing": false,
+                "enemies": ["Terileptils"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Black Orchid",
+            "description": "The Doctor is accused of murder while visiting Cranleigh Hall.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Ron Jones",
+                "written_by": "Terence Dudley",
+                "original_air_date": "1 March 1982",
+                "missing": false,
+                "enemies": [],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Ron Jones",
+                "written_by": "Terence Dudley",
+                "original_air_date": "2 March 1982",
+                "missing": false,
+                "enemies": [],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Earthshock",
+            "description": "The Doctor encounters the Cybermen who plan to destroy Earth.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Eric Saward",
+                "original_air_date": "8 March 1982",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Eric Saward",
+                "original_air_date": "9 March 1982",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Eric Saward",
+                "original_air_date": "15 March 1982",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Peter Grimwade",
+                "written_by": "Eric Saward",
+                "original_air_date": "16 March 1982",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Adric", "Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Time-Flight",
+            "description": "The Doctor must stop the The Master from taking control of the Xeraphin.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Ron Jones",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "22 March 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Ron Jones",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "23 March 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Ron Jones",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "29 March 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Ron Jones",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "30 March 1982",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 20,
+        "year": 1983,
+        "episodes": [
+          {
+            "serial_title": "Arc of Infinity",
+            "description": "The Doctor is hunted by an anti-Time Lord faction.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Ron Jones",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "3 January 1983",
+                "missing": false,
+                "enemies": ["Omega"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Ron Jones",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "5 January 1983",
+                "missing": false,
+                "enemies": ["Omega"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Ron Jones",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "11 January 1983",
+                "missing": false,
+                "enemies": ["Omega"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Ron Jones",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "12 January 1983",
+                "missing": false,
+                "enemies": ["Omega"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Snakedance",
+            "description": "The Mara returns to terrorize the Doctor and his companions.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "18 January 1983",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "19 January 1983",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "25 January 1983",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Christopher Bailey",
+                "original_air_date": "26 January 1983",
+                "missing": false,
+                "enemies": ["Mara"],
+                "companions": ["Nyssa", "Tegan Jovanka"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Mawdryn Undead",
+            "description": "The Doctor faces Mawdryn, who seeks immortality.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "1 February 1983",
+                "missing": false,
+                "enemies": ["Mawdryn"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "2 February 1983",
+                "missing": false,
+                "enemies": ["Mawdryn"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "8 February 1983",
+                "missing": false,
+                "enemies": ["Mawdryn"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "9 February 1983",
+                "missing": false,
+                "enemies": ["Mawdryn"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Terminus",
+            "description": "The Doctor and his companions become involved in a plot involving a leper colony.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Mary Ridge",
+                "written_by": "Stephen Gallagher",
+                "original_air_date": "15 February 1983",
+                "missing": false,
+                "enemies": ["Vanir"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Mary Ridge",
+                "written_by": "Stephen Gallagher",
+                "original_air_date": "16 February 1983",
+                "missing": false,
+                "enemies": ["Vanir"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Mary Ridge",
+                "written_by": "Stephen Gallagher",
+                "original_air_date": "22 February 1983",
+                "missing": false,
+                "enemies": ["Vanir"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Mary Ridge",
+                "written_by": "Stephen Gallagher",
+                "original_air_date": "23 February 1983",
+                "missing": false,
+                "enemies": ["Vanir"],
+                "companions": ["Nyssa", "Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Enlightenment",
+            "description": "The Doctor participates in a space race where the prize is Enlightenment.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Barbara Clegg",
+                "original_air_date": "1 March 1983",
+                "missing": false,
+                "enemies": ["Eternals"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Barbara Clegg",
+                "original_air_date": "2 March 1983",
+                "missing": false,
+                "enemies": ["Eternals"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Barbara Clegg",
+                "original_air_date": "8 March 1983",
+                "missing": false,
+                "enemies": ["Eternals"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Barbara Clegg",
+                "original_air_date": "9 March 1983",
+                "missing": false,
+                "enemies": ["Eternals"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The King's Demons",
+            "description": "The Doctor encounters the The Master in medieval England.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Tony Virgo",
+                "written_by": "Terence Dudley",
+                "original_air_date": "15 March 1983",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Tony Virgo",
+                "written_by": "Terence Dudley",
+                "original_air_date": "16 March 1983",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Five Doctors",
+            "description": "The Doctor is taken out of time to participate in a game.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "N/A",
+                "directed_by": "Peter Moffatt",
+                "written_by": "Terrance Dicks",
+                "original_air_date": "25 November 1983",
+                "missing": false,
+                "enemies": [],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 21,
+        "year": 1984,
+        "episodes": [
+          {
+            "serial_title": "Warriors of the Deep",
+            "description": "The Doctor finds himself caught in a conflict between humans and underwater Silurians and Sea Devils.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Pennant Roberts",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "5 January 1984",
+                "missing": false,
+                "enemies": ["Silurians", "Sea Devils"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Pennant Roberts",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "6 January 1984",
+                "missing": false,
+                "enemies": ["Silurians", "Sea Devils"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Pennant Roberts",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "12 January 1984",
+                "missing": false,
+                "enemies": ["Silurians", "Sea Devils"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Pennant Roberts",
+                "written_by": "Johnny Byrne",
+                "original_air_date": "13 January 1984",
+                "missing": false,
+                "enemies": ["Silurians", "Sea Devils"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Awakening",
+            "description": "The Doctor investigates a time anomaly in a village reenacting an English Civil War battle.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Michael Owen Morris",
+                "written_by": "Eric Pringle",
+                "original_air_date": "19 January 1984",
+                "missing": false,
+                "enemies": ["Malus"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Michael Owen Morris",
+                "written_by": "Eric Pringle",
+                "original_air_date": "20 January 1984",
+                "missing": false,
+                "enemies": ["Malus"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Frontios",
+            "description": "The Doctor helps a human colony under attack by an unknown force.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Ron Jones",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "26 January 1984",
+                "missing": false,
+                "enemies": ["Tractators"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Ron Jones",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "27 January 1984",
+                "missing": false,
+                "enemies": ["Tractators"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Ron Jones",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "2 February 1984",
+                "missing": false,
+                "enemies": ["Tractators"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Ron Jones",
+                "written_by": "Christopher H. Bidmead",
+                "original_air_date": "3 February 1984",
+                "missing": false,
+                "enemies": ["Tractators"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Resurrection of the Daleks",
+            "description": "The Doctor must prevent the Daleks from releasing Davros.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Matthew Robinson",
+                "written_by": "Eric Saward",
+                "original_air_date": "8 February 1984",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Matthew Robinson",
+                "written_by": "Eric Saward",
+                "original_air_date": "15 February 1984",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Tegan Jovanka", "Vislor Turlough"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Planet of Fire",
+            "description": "The Doctor encounters the The Master on the volcanic planet Sarn.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "23 February 1984",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Vislor Turlough", "Peri Brown"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "24 February 1984",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Vislor Turlough", "Peri Brown"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "1 March 1984",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Vislor Turlough", "Peri Brown"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Fiona Cumming",
+                "written_by": "Peter Grimwade",
+                "original_air_date": "2 March 1984",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Vislor Turlough", "Peri Brown"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Caves of Androzani",
+            "description": "The Doctor and Peri are caught in a conflict over the life-prolonging substance, Spectrox.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Graeme Harper",
+                "written_by": "Robert Holmes",
+                "original_air_date": "8 March 1984",
+                "missing": false,
+                "enemies": ["Sharaz Jek"],
+                "companions": ["Peri Brown"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Graeme Harper",
+                "written_by": "Robert Holmes",
+                "original_air_date": "9 March 1984",
+                "missing": false,
+                "enemies": ["Sharaz Jek"],
+                "companions": ["Peri Brown"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Graeme Harper",
+                "written_by": "Robert Holmes",
+                "original_air_date": "15 March 1984",
+                "missing": false,
+                "enemies": ["Sharaz Jek"],
+                "companions": ["Peri Brown"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Graeme Harper",
+                "written_by": "Robert Holmes",
+                "original_air_date": "16 March 1984",
+                "missing": false,
+                "enemies": ["Sharaz Jek"],
+                "companions": ["Peri Brown"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

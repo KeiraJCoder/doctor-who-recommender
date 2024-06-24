@@ -1,0 +1,384 @@
+[{
+    "doctor": "Sixth Doctor",
+    "actor": "Colin Baker",
+    "description": "The Sixth Doctor was portrayed by Colin Baker. Colin Baker had been signed up for four years, as the previous actor Peter Davison had left after only three years. Due to his decidedly short screen time, the Sixth Doctor appeared with only two companions, most notably the American college student Peri Brown, who had travelled with his previous incarnation, before being briefly joined by Mel Bush, a computer technician from his future who he had yet to actually meet during his trial. The Sixth Doctor's era was marked by the decision of the BBC controller Michael Grade to put the series on an 18-month `hiatus` between seasons 22 and 23, with only one new Doctor Who story, Slipback, made on radio during the hiatus.",
+    "image": "images/Colin-Baker.jpg",
+    "years_active": "1984–1986",
+    "seasons": [
+        {
+            "season": 21,
+            "year": 1984,
+            "episodes": [
+              {
+                "serial_title": "The Twin Dilemma",
+                "description": "The Doctor faces the evil Mestor.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Anthony Steven",
+                    "original_air_date": "22 March 1984",
+                    "missing": false,
+                    "enemies": ["Mestor"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Anthony Steven",
+                    "original_air_date": "23 March 1984",
+                    "missing": false,
+                    "enemies": ["Mestor"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Anthony Steven",
+                    "original_air_date": "29 March 1984",
+                    "missing": false,
+                    "enemies": ["Mestor"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Anthony Steven",
+                    "original_air_date": "30 March 1984",
+                    "missing": false,
+                    "enemies": ["Mestor"],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "season": 22,
+            "year": 1985,
+            "episodes": [
+              {
+                "serial_title": "Attack of the Cybermen",
+                "description": "The Doctor battles the Cybermen on Earth and Telos.",
+                "number_of_episodes": 2,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Matthew Robinson",
+                    "written_by": "Paula Moore",
+                    "original_air_date": "5 January 1985",
+                    "missing": false,
+                    "enemies": ["Cybermen"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Matthew Robinson",
+                    "written_by": "Paula Moore",
+                    "original_air_date": "12 January 1985",
+                    "missing": false,
+                    "enemies": ["Cybermen"],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Vengeance on Varos",
+                "description": "The Doctor lands on Varos and uncovers a sinister TV show.",
+                "number_of_episodes": 2,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "19 January 1985",
+                    "missing": false,
+                    "enemies": [],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "26 January 1985",
+                    "missing": false,
+                    "enemies": [],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Mark of the Rani",
+                "description": "The Doctor faces the Rani and the Master in 19th century England.",
+                "number_of_episodes": 2,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Sarah Hellings",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "2 February 1985",
+                    "missing": false,
+                    "enemies": ["Rani", "Master"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Sarah Hellings",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "9 February 1985",
+                    "missing": false,
+                    "enemies": ["Rani", "Master"],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Two Doctors",
+                "description": "The Doctor and his previous incarnation team up to stop the Sontarans.",
+                "number_of_episodes": 3,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "16 February 1985",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Peri Brown", "Jamie McCrimmon"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "23 February 1985",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Peri Brown", "Jamie McCrimmon"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Peter Moffatt",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "2 March 1985",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Peri Brown", "Jamie McCrimmon"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Timelash",
+                "description": "The Doctor faces the Borad and stops his plans.",
+                "number_of_episodes": 2,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Pennant Roberts",
+                    "written_by": "Glen McCoy",
+                    "original_air_date": "9 March 1985",
+                    "missing": false,
+                    "enemies": ["Borad"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Pennant Roberts",
+                    "written_by": "Glen McCoy",
+                    "original_air_date": "16 March 1985",
+                    "missing": false,
+                    "enemies": ["Borad"],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Revelation of the Daleks",
+                "description": "The Doctor discovers Davros's latest scheme.",
+                "number_of_episodes": 2,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Graeme Harper",
+                    "written_by": "Eric Saward",
+                    "original_air_date": "23 March 1985",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Graeme Harper",
+                    "written_by": "Eric Saward",
+                    "original_air_date": "30 March 1985",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "season": 23,
+            "year": 1986,
+            "episodes": [
+              {
+                "serial_title": "The Mysterious Planet",
+                "description": "The Doctor is on trial and recounts an adventure on Ravolox.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Nicholas Mallett",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "6 September 1986",
+                    "missing": false,
+                    "enemies": [],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Nicholas Mallett",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "13 September 1986",
+                    "missing": false,
+                    "enemies": [],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Nicholas Mallett",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "20 September 1986",
+                    "missing": false,
+                    "enemies": [],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Nicholas Mallett",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "27 September 1986",
+                    "missing": false,
+                    "enemies": [],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Mindwarp",
+                "description": "The Doctor recounts an adventure involving the Mentors.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Part Five",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "4 October 1986",
+                    "missing": false,
+                    "enemies": ["Mentors"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Six",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "11 October 1986",
+                    "missing": false,
+                    "enemies": ["Mentors"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Seven",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "18 October 1986",
+                    "missing": false,
+                    "enemies": ["Mentors"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Part Eight",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "25 October 1986",
+                    "missing": false,
+                    "enemies": ["Mentors"],
+                    "companions": ["Peri Brown"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Terror of the Vervoids",
+                "description": "The Doctor tells the story of the Vervoids on the Hyperion III.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Part Nine",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "1 November 1986",
+                    "missing": false,
+                    "enemies": ["Vervoids"],
+                    "companions": ["Mel Bush"]
+                  },
+                  {
+                    "title": "Part Ten",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "8 November 1986",
+                    "missing": false,
+                    "enemies": ["Vervoids"],
+                    "companions": ["Mel Bush"]
+                  },
+                  {
+                    "title": "Part Eleven",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "15 November 1986",
+                    "missing": false,
+                    "enemies": ["Vervoids"],
+                    "companions": ["Mel Bush"]
+                  },
+                  {
+                    "title": "Part Twelve",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "22 November 1986",
+                    "missing": false,
+                    "enemies": ["Vervoids"],
+                    "companions": ["Mel Bush"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Ultimate Foe",
+                "description": "The Doctor confronts the Valeyard in the final part of his trial.",
+                "number_of_episodes": 2,
+                "episodes": [
+                  {
+                    "title": "Part Thirteen",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "29 November 1986",
+                    "missing": false,
+                    "enemies": ["Valeyard"],
+                    "companions": ["Mel Bush"]
+                  },
+                  {
+                    "title": "Part Fourteen",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "6 December 1986",
+                    "missing": false,
+                    "enemies": ["Valeyard"],
+                    "companions": ["Mel Bush"]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
