@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let firstDoctorData = [];
   let secondDoctorData = [];
   let thirdDoctorData = [];
+  let fourthDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -53,6 +54,22 @@ document.addEventListener("DOMContentLoaded", () => {
       };
     })
     .catch(error => console.error("Error loading third doctor data:", error));
+
+  // Fetch and process data for the fourth doctor
+  fetch('templates/fourth_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      fourthDoctorData = processDoctorData(data[0], '4th');
+      storylines = [...storylines, ...extractStorylines(data[0])];
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['4th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading fourth doctor data:", error));
 
   function processDoctorData(data, doctor) {
     try {
@@ -190,6 +207,8 @@ document.addEventListener("DOMContentLoaded", () => {
       filteredData = secondDoctorData;
     } else if (doctor === "3rd") {
       filteredData = thirdDoctorData;
+    } else if (doctor === "4th") {
+      filteredData = fourthDoctorData;
     }
 
     if (doctor === "") {
@@ -305,6 +324,8 @@ document.addEventListener("DOMContentLoaded", () => {
       relevantData = secondDoctorData;
     } else if (doctor === "3rd") {
       relevantData = thirdDoctorData;
+    } else if (doctor === "4th") {
+      relevantData = fourthDoctorData;
     }
 
     if (doctor === "") {
