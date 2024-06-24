@@ -1,0 +1,32 @@
+[{
+    "doctor": "Eighth Doctor",
+    "actor": "Paul McGann",
+    "description": "The Eighth Doctor was portrayed by Paul McGann. The movie is the only television appearance of this Doctor during his tenure. The only production title held by this story was Doctor Who. The DVD release is titled Doctor Who: The Movie. In 2013, Paul McGann returned for the second television appearance of the Eighth Doctor in the minisode titled 'The Night of the Doctor'.",
+    "image": "images/Paul-McGann.jpg",
+    "years_active": "1996",
+    "seasons": [
+      {
+        "season": "Television movie",
+        "year": 1996,
+        "episodes": [
+          {
+            "serial_title": "Doctor Who",
+            "description": "The Doctor regenerates and must stop the Master from destroying the Earth.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "N/A",
+                "directed_by": "Geoffrey Sax",
+                "written_by": "Matthew Jacobs",
+                "original_air_date": "27 May 1996",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Grace Holloway"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+  

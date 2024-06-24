@@ -1,0 +1,490 @@
+[{
+    "doctor": "Seventh Doctor",
+    "actor": "Sylvester McCoy",
+    "description": "The Seventh Doctor was portrayed by Sylvester McCoy. McCoy's Doctor was known for his manipulative and strategic mind, often using psychological tactics to outwit his enemies. He was often accompanied by the rebellious teenager Ace, who had a close and complex relationship with the Doctor.",
+    "image": "images/Sylvester-McCoy.jpg",
+    "years_active": "1987–1989",
+    "seasons": [
+      {
+        "season": 24,
+        "year": 1987,
+        "episodes": [
+          {
+            "serial_title": "Time and the Rani",
+            "description": "The Doctor confronts the Rani, who has taken over the planet Lakertya.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Pip and Jane Baker",
+                "original_air_date": "7 September 1987",
+                "missing": false,
+                "enemies": ["Rani"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Pip and Jane Baker",
+                "original_air_date": "14 September 1987",
+                "missing": false,
+                "enemies": ["Rani"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Pip and Jane Baker",
+                "original_air_date": "21 September 1987",
+                "missing": false,
+                "enemies": ["Rani"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Pip and Jane Baker",
+                "original_air_date": "28 September 1987",
+                "missing": false,
+                "enemies": ["Rani"],
+                "companions": ["Mel Bush"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Paradise Towers",
+            "description": "The Doctor visits a high-rise tower block and discovers a deadly secret.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "5 October 1987",
+                "missing": false,
+                "enemies": ["Caretakers", "Kroagnon"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "12 October 1987",
+                "missing": false,
+                "enemies": ["Caretakers", "Kroagnon"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "19 October 1987",
+                "missing": false,
+                "enemies": ["Caretakers", "Kroagnon"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "26 October 1987",
+                "missing": false,
+                "enemies": ["Caretakers", "Kroagnon"],
+                "companions": ["Mel Bush"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Delta and the Bannermen",
+            "description": "The Doctor helps a Chimeron queen escape from her enemies.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Chris Clough",
+                "written_by": "Malcolm Kohll",
+                "original_air_date": "2 November 1987",
+                "missing": false,
+                "enemies": ["Gavrok"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Chris Clough",
+                "written_by": "Malcolm Kohll",
+                "original_air_date": "9 November 1987",
+                "missing": false,
+                "enemies": ["Gavrok"],
+                "companions": ["Mel Bush"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Chris Clough",
+                "written_by": "Malcolm Kohll",
+                "original_air_date": "16 November 1987",
+                "missing": false,
+                "enemies": ["Gavrok"],
+                "companions": ["Mel Bush"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Dragonfire",
+            "description": "The Doctor faces Kane, a villain trying to escape his icy prison.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Chris Clough",
+                "written_by": "Ian Briggs",
+                "original_air_date": "23 November 1987",
+                "missing": false,
+                "enemies": ["Kane"],
+                "companions": ["Mel Bush", "Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Chris Clough",
+                "written_by": "Ian Briggs",
+                "original_air_date": "30 November 1987",
+                "missing": false,
+                "enemies": ["Kane"],
+                "companions": ["Mel Bush", "Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Chris Clough",
+                "written_by": "Ian Briggs",
+                "original_air_date": "7 December 1987",
+                "missing": false,
+                "enemies": ["Kane"],
+                "companions": ["Mel Bush", "Ace"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 25,
+        "year": 1988,
+        "episodes": [
+          {
+            "serial_title": "Remembrance of the Daleks",
+            "description": "The Doctor returns to 1963 to deal with a Dalek civil war.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "5 October 1988",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "12 October 1988",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "19 October 1988",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Andrew Morgan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "26 October 1988",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Ace"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Happiness Patrol",
+            "description": "The Doctor challenges the oppressive regime on the planet Terra Alpha.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Chris Clough",
+                "written_by": "Graeme Curry",
+                "original_air_date": "2 November 1988",
+                "missing": false,
+                "enemies": ["Helen A"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Chris Clough",
+                "written_by": "Graeme Curry",
+                "original_air_date": "9 November 1988",
+                "missing": false,
+                "enemies": ["Helen A"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Chris Clough",
+                "written_by": "Graeme Curry",
+                "original_air_date": "16 November 1988",
+                "missing": false,
+                "enemies": ["Helen A"],
+                "companions": ["Ace"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Silver Nemesis",
+            "description": "The Doctor defends Earth from Cybermen, Nazis, and a sorceress.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Chris Clough",
+                "written_by": "Kevin Clarke",
+                "original_air_date": "23 November 1988",
+                "missing": false,
+                "enemies": ["Cybermen", "Lady Peinforte"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Chris Clough",
+                "written_by": "Kevin Clarke",
+                "original_air_date": "30 November 1988",
+                "missing": false,
+                "enemies": ["Cybermen", "Lady Peinforte"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Chris Clough",
+                "written_by": "Kevin Clarke",
+                "original_air_date": "7 December 1988",
+                "missing": false,
+                "enemies": ["Cybermen", "Lady Peinforte"],
+                "companions": ["Ace"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Greatest Show in the Galaxy",
+            "description": "The Doctor investigates a sinister circus.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Alan Wareing",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "14 December 1988",
+                "missing": false,
+                "enemies": ["Chief Clown"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Alan Wareing",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "21 December 1988",
+                "missing": false,
+                "enemies": ["Chief Clown"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Alan Wareing",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "28 December 1988",
+                "missing": false,
+                "enemies": ["Chief Clown"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Alan Wareing",
+                "written_by": "Stephen Wyatt",
+                "original_air_date": "4 January 1989",
+                "missing": false,
+                "enemies": ["Chief Clown"],
+                "companions": ["Ace"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 26,
+        "year": 1989,
+        "episodes": [
+          {
+            "serial_title": "Battlefield",
+            "description": "The Doctor encounters an alternate dimension Arthurian legend.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Michael Kerrigan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "6 September 1989",
+                "missing": false,
+                "enemies": ["Morgaine"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Michael Kerrigan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "13 September 1989",
+                "missing": false,
+                "enemies": ["Morgaine"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Michael Kerrigan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "20 September 1989",
+                "missing": false,
+                "enemies": ["Morgaine"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Michael Kerrigan",
+                "written_by": "Ben Aaronovitch",
+                "original_air_date": "27 September 1989",
+                "missing": false,
+                "enemies": ["Morgaine"],
+                "companions": ["Ace"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Ghost Light",
+            "description": "The Doctor explores a haunted house and uncovers a dark secret.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Alan Wareing",
+                "written_by": "Marc Platt",
+                "original_air_date": "4 October 1989",
+                "missing": false,
+                "enemies": ["Light"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Alan Wareing",
+                "written_by": "Marc Platt",
+                "original_air_date": "11 October 1989",
+                "missing": false,
+                "enemies": ["Light"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Alan Wareing",
+                "written_by": "Marc Platt",
+                "original_air_date": "18 October 1989",
+                "missing": false,
+                "enemies": ["Light"],
+                "companions": ["Ace"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Curse of Fenric",
+            "description": "The Doctor battles ancient vampires in World War II England.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Ian Briggs",
+                "original_air_date": "25 October 1989",
+                "missing": false,
+                "enemies": ["Fenric"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Ian Briggs",
+                "original_air_date": "1 November 1989",
+                "missing": false,
+                "enemies": ["Fenric"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Ian Briggs",
+                "original_air_date": "8 November 1989",
+                "missing": false,
+                "enemies": ["Fenric"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Four",
+                "directed_by": "Nicholas Mallett",
+                "written_by": "Ian Briggs",
+                "original_air_date": "15 November 1989",
+                "missing": false,
+                "enemies": ["Fenric"],
+                "companions": ["Ace"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Survival",
+            "description": "The Doctor faces the Master on the planet of the Cheetah People.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Part One",
+                "directed_by": "Alan Wareing",
+                "written_by": "Rona Munro",
+                "original_air_date": "22 November 1989",
+                "missing": false,
+                "enemies": ["The Master", "Cheetah People"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Two",
+                "directed_by": "Alan Wareing",
+                "written_by": "Rona Munro",
+                "original_air_date": "29 November 1989",
+                "missing": false,
+                "enemies": ["The Master", "Cheetah People"],
+                "companions": ["Ace"]
+              },
+              {
+                "title": "Part Three",
+                "directed_by": "Alan Wareing",
+                "written_by": "Rona Munro",
+                "original_air_date": "6 December 1989",
+                "missing": false,
+                "enemies": ["The Master", "Cheetah People"],
+                "companions": ["Ace"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+  

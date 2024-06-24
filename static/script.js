@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
   let fourthDoctorData = [];
   let fifthDoctorData = [];
   let sixthDoctorData = [];
+  let seventhDoctorData = [];
+  let eighthDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -104,6 +106,38 @@ document.addEventListener("DOMContentLoaded", () => {
       };
     })
     .catch(error => console.error("Error loading sixth doctor data:", error));
+
+  // Fetch and process data for the seventh doctor
+  fetch('templates/seventh_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      seventhDoctorData = processDoctorData(data[0], '7th');
+      storylines = [...storylines, ...extractStorylines(data[0])];
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['7th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading seventh doctor data:", error));
+
+    // Fetch and process data for the eighth doctor
+  fetch('templates/eighth_doctor.JSON')
+  .then(response => response.json())
+  .then(data => {
+    eighthDoctorData = processDoctorData(data[0], '8th');
+    storylines = [...storylines, ...extractStorylines(data[0])];
+    populateStorylineDropdown('storyline', storylines);
+    doctorDetails['8th'] = {
+      name: data[0].actor,
+      description: data[0].description,
+      image: data[0].image,
+      years_active: data[0].years_active
+    };
+  })
+  .catch(error => console.error("Error loading seventh doctor data:", error));
 
   function processDoctorData(data, doctor) {
     try {
@@ -248,6 +282,10 @@ document.addEventListener("DOMContentLoaded", () => {
       filteredData = fifthDoctorData;
     } else if (doctor === "6th") {
       filteredData = sixthDoctorData;
+    } else if (doctor === "7th") {
+      filteredData = seventhDoctorData;
+    } else if (doctor === "8th" ){
+      filteredData = eighthDoctorData;
     }
 
     if (doctor === "") {
@@ -369,6 +407,10 @@ document.addEventListener("DOMContentLoaded", () => {
       relevantData = fifthDoctorData;
     } else if (doctor === "6th") {
       relevantData = sixthDoctorData;
+    } else if (doctor === "7th") {
+      relevantData = seventhDoctorData;
+    } else if (doctor === "8th") {
+      relevantData = eighthDoctorData;
     }
 
     if (doctor === "") {
