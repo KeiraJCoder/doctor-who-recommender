@@ -1,0 +1,1358 @@
+[
+    {
+    "doctor": "Third Doctor",
+    "actor": "Jon Pertwee",
+    "description": "The Third Doctor was portrayed by Jon Pertwee. Sentenced to exile on Earth and forcibly regenerated at the end of The War Games, the Doctor spent his time working for UNIT (United Nations Intelligence Taskforce). After The Three Doctors, the Time Lords repealed his exile; however, the Doctor still worked closely with UNIT from time to time. The Third Doctor regenerated into his fourth incarnation as a result of radiation poisoning in the last moments of Planet of the Spiders.",
+    "image": "images/Jon-Pertwee.jpg",
+    "years_active": "1970–1974",
+    "seasons": [
+      {
+        "season": 7,
+        "episodes": [
+          {
+            "serial_title": "Spearhead from Space",
+            "description": "The Doctor battles the Nestene Consciousness and its Autons.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Derek Martinus",
+                "written_by": "Robert Holmes",
+                "original_air_date": "3 January 1970",
+                "missing": false,
+                "enemies": ["Autons"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Derek Martinus",
+                "written_by": "Robert Holmes",
+                "original_air_date": "10 January 1970",
+                "missing": false,
+                "enemies": ["Autons"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Derek Martinus",
+                "written_by": "Robert Holmes",
+                "original_air_date": "17 January 1970",
+                "missing": false,
+                "enemies": ["Autons"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Derek Martinus",
+                "written_by": "Robert Holmes",
+                "original_air_date": "24 January 1970",
+                "missing": false,
+                "enemies": ["Autons"],
+                "companions": ["Liz Shaw"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Doctor Who and the Silurians",
+            "description": "The Doctor discovers an ancient race of reptiles living beneath the Earth's surface.",
+            "number_of_episodes": 7,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "31 January 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "7 February 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "14 February 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "21 February 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "28 February 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "7 March 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 7",
+                "directed_by": "Timothy Combe",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "14 March 1970",
+                "missing": false,
+                "enemies": ["Silurians"],
+                "companions": ["Liz Shaw"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Ambassadors of Death",
+            "description": "The Doctor uncovers a conspiracy involving alien ambassadors.",
+            "number_of_episodes": 7,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Michael Ferguson",
+                "written_by": "David Whitaker and Trevor Ray (uncredited)",
+                "original_air_date": "21 March 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Michael Ferguson",
+                "written_by": "David Whitaker and Malcolm Hulke (uncredited)",
+                "original_air_date": "28 March 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Michael Ferguson",
+                "written_by": "David Whitaker and Malcolm Hulke (uncredited)",
+                "original_air_date": "4 April 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Malcolm Hulke (credited to David Whitaker)",
+                "original_air_date": "11 April 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Malcolm Hulke (credited to David Whitaker)",
+                "original_air_date": "18 April 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Malcolm Hulke (credited to David Whitaker)",
+                "original_air_date": "25 April 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 7",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Malcolm Hulke (credited to David Whitaker)",
+                "original_air_date": "2 May 1970",
+                "missing": false,
+                "enemies": ["Aliens"],
+                "companions": ["Liz Shaw"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Inferno",
+            "description": "The Doctor encounters a parallel universe where a drilling project threatens Earth.",
+            "number_of_episodes": 7,
+            "episodes": [
+              {
+                "title": "Episode 1",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Don Houghton",
+                "original_air_date": "9 May 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 2",
+                "directed_by": "Douglas Camfield",
+                "written_by": "Don Houghton",
+                "original_air_date": "16 May 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 3",
+                "directed_by": "Douglas Camfield and Barry Letts (uncredited)",
+                "written_by": "Don Houghton",
+                "original_air_date": "23 May 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 4",
+                "directed_by": "Douglas Camfield and Barry Letts (uncredited)",
+                "written_by": "Don Houghton",
+                "original_air_date": "30 May 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 5",
+                "directed_by": "Douglas Camfield and Barry Letts (uncredited)",
+                "written_by": "Don Houghton",
+                "original_air_date": "6 June 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 6",
+                "directed_by": "Douglas Camfield and Barry Letts (uncredited)",
+                "written_by": "Don Houghton",
+                "original_air_date": "13 June 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              },
+              {
+                "title": "Episode 7",
+                "directed_by": "Douglas Camfield and Barry Letts (uncredited)",
+                "written_by": "Don Houghton",
+                "original_air_date": "20 June 1970",
+                "missing": false,
+                "enemies": ["Parallel Universe"],
+                "companions": ["Liz Shaw"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 8,
+        "episodes": [
+          {
+            "serial_title": "Terror of the Autons",
+            "description": "The Doctor and Jo Grant face the return of the Nestene Consciousness and the Autons, alongside the introduction of the Master.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Barry Letts",
+                "written_by": "Robert Holmes",
+                "original_air_date": "2 January 1971",
+                "missing": false,
+                "enemies": ["Autons", "Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Barry Letts",
+                "written_by": "Robert Holmes",
+                "original_air_date": "9 January 1971",
+                "missing": false,
+                "enemies": ["Autons", "Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Barry Letts",
+                "written_by": "Robert Holmes",
+                "original_air_date": "16 January 1971",
+                "missing": false,
+                "enemies": ["Autons", "Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Barry Letts",
+                "written_by": "Robert Holmes",
+                "original_air_date": "23 January 1971",
+                "missing": false,
+                "enemies": ["Autons", "Master"],
+                "companions": ["Jo Grant"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Mind of Evil",
+            "description": "The Doctor and Jo Grant investigate a machine that can remove negative emotions, and encounter the Master.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Timothy Combe",
+                "written_by": "Don Houghton",
+                "original_air_date": "30 January 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Timothy Combe",
+                "written_by": "Don Houghton",
+                "original_air_date": "6 February 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Timothy Combe",
+                "written_by": "Don Houghton",
+                "original_air_date": "13 February 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Timothy Combe",
+                "written_by": "Don Houghton",
+                "original_air_date": "20 February 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Timothy Combe",
+                "written_by": "Don Houghton",
+                "original_air_date": "27 February 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Timothy Combe",
+                "written_by": "Don Houghton",
+                "original_air_date": "6 March 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Claws of Axos",
+            "description": "The Doctor and Jo Grant face the Axons, who offer Earth a new energy source with a hidden agenda.",
+            "number_of_episodes": 4,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Bob Baker and Dave Martin",
+                "original_air_date": "13 March 1971",
+                "missing": false,
+                "enemies": ["Axons"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Bob Baker and Dave Martin",
+                "original_air_date": "20 March 1971",
+                "missing": false,
+                "enemies": ["Axons"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Bob Baker and Dave Martin",
+                "original_air_date": "27 March 1971",
+                "missing": false,
+                "enemies": ["Axons"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Michael Ferguson",
+                "written_by": "Bob Baker and Dave Martin",
+                "original_air_date": "3 April 1971",
+                "missing": false,
+                "enemies": ["Axons"],
+                "companions": ["Jo Grant"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Colony in Space",
+            "description": "The Doctor and Jo Grant travel to a human colony on a distant planet and encounter the Master.",
+            "number_of_episodes": 6,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Michael E. Briant",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "10 April 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Michael E. Briant",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "17 April 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Michael E. Briant",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "24 April 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Michael E. Briant",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "1 May 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Michael E. Briant",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "8 May 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Six",
+                "directed_by": "Michael E. Briant",
+                "written_by": "Malcolm Hulke",
+                "original_air_date": "15 May 1971",
+                "missing": false,
+                "enemies": ["Master"],
+                "companions": ["Jo Grant"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Dæmons",
+            "description": "The Doctor and Jo Grant face the Master, who is attempting to summon an ancient alien known as Azal.",
+            "number_of_episodes": 5,
+            "episodes": [
+              {
+                "title": "Episode One",
+                "directed_by": "Christopher Barry",
+                "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
+                "original_air_date": "22 May 1971",
+                "missing": false,
+                "enemies": ["Master", "Azal"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Two",
+                "directed_by": "Christopher Barry",
+                "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
+                "original_air_date": "29 May 1971",
+                "missing": false,
+                "enemies": ["Master", "Azal"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Three",
+                "directed_by": "Christopher Barry",
+                "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
+                "original_air_date": "5 June 1971",
+                "missing": false,
+                "enemies": ["Master", "Azal"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Four",
+                "directed_by": "Christopher Barry",
+                "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
+                "original_air_date": "12 June 1971",
+                "missing": false,
+                "enemies": ["Master", "Azal"],
+                "companions": ["Jo Grant"]
+              },
+              {
+                "title": "Episode Five",
+                "directed_by": "Christopher Barry",
+                "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
+                "original_air_date": "19 June 1971",
+                "missing": false,
+                "enemies": ["Master", "Azal"],
+                "companions": ["Jo Grant"]
+            }
+        ]
+      }
+    ]
+  },
+          {
+            "season": 9,
+            "episodes": [
+              {
+                "serial_title": "Day of the Daleks",
+                "description": "The Doctor and Jo Grant face a Dalek invasion from the future.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Louis Marks",
+                    "original_air_date": "1 January 1972",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Louis Marks",
+                    "original_air_date": "8 January 1972",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Louis Marks",
+                    "original_air_date": "15 January 1972",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Louis Marks",
+                    "original_air_date": "22 January 1972",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Curse of Peladon",
+                "description": "The Doctor and Jo Grant visit Peladon and become embroiled in royal intrigue.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "29 January 1972",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "5 February 1972",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "12 February 1972",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "19 February 1972",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Sea Devils",
+                "description": "The Doctor and Jo Grant encounter the Sea Devils, aquatic relatives of the Silurians.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "26 February 1972",
+                    "missing": false,
+                    "enemies": ["Sea Devils"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "4 March 1972",
+                    "missing": false,
+                    "enemies": ["Sea Devils"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "11 March 1972",
+                    "missing": false,
+                    "enemies": ["Sea Devils"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "18 March 1972",
+                    "missing": false,
+                    "enemies": ["Sea Devils"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Five",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "25 March 1972",
+                    "missing": false,
+                    "enemies": ["Sea Devils"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Six",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "1 April 1972",
+                    "missing": false,
+                    "enemies": ["Sea Devils"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Mutants",
+                "description": "The Doctor and Jo Grant investigate mutations on the planet Solos.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Christopher Barry",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "8 April 1972",
+                    "missing": false,
+                    "enemies": ["Mutants"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Christopher Barry",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "15 April 1972",
+                    "missing": false,
+                    "enemies": ["Mutants"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Christopher Barry",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "22 April 1972",
+                    "missing": false,
+                    "enemies": ["Mutants"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Christopher Barry",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "29 April 1972",
+                    "missing": false,
+                    "enemies": ["Mutants"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Five",
+                    "directed_by": "Christopher Barry",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "6 May 1972",
+                    "missing": false,
+                    "enemies": ["Mutants"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Six",
+                    "directed_by": "Christopher Barry",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "13 May 1972",
+                    "missing": false,
+                    "enemies": ["Mutants"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Time Monster",
+                "description": "The Doctor and Jo Grant battle the Master who has summoned Kronos, a powerful creature from Greek mythology.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "20 May 1972",
+                    "missing": false,
+                    "enemies": ["Master", "Kronos"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "27 May 1972",
+                    "missing": false,
+                    "enemies": ["Master", "Kronos"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "3 June 1972",
+                    "missing": false,
+                    "enemies": ["Master", "Kronos"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "10 June 1972",
+                    "missing": false,
+                    "enemies": ["Master", "Kronos"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Five",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "17 June 1972",
+                    "missing": false,
+                    "enemies": ["Master", "Kronos"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Six",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "24 June 1972",
+                    "missing": false,
+                    "enemies": ["Master", "Kronos"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "season": 10,
+            "episodes": [
+              {
+                "serial_title": "The Three Doctors",
+                "description": "The Doctor teams up with his past incarnations to face a threat from Omega.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "30 December 1972",
+                    "missing": false,
+                    "enemies": ["Omega"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "6 January 1973",
+                    "missing": false,
+                    "enemies": ["Omega"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "13 January 1973",
+                    "missing": false,
+                    "enemies": ["Omega"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Bob Baker and Dave Martin",
+                    "original_air_date": "20 January 1973",
+                    "missing": false,
+                    "enemies": ["Omega"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Carnival of Monsters",
+                "description": "The Doctor and Jo Grant find themselves in a miniaturized environment within a showman's peepshow.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "27 January 1973",
+                    "missing": false,
+                    "enemies": ["Drashigs"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "3 February 1973",
+                    "missing": false,
+                    "enemies": ["Drashigs"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "10 February 1973",
+                    "missing": false,
+                    "enemies": ["Drashigs"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "17 February 1973",
+                    "missing": false,
+                    "enemies": ["Drashigs"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Frontier in Space",
+                "description": "The Doctor and Jo Grant find themselves caught in the middle of a war between humans and Draconians.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "24 February 1973",
+                    "missing": false,
+                    "enemies": ["Master", "Draconians"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "3 March 1973",
+                    "missing": false,
+                    "enemies": ["Master", "Draconians"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "10 March 1973",
+                    "missing": false,
+                    "enemies": ["Master", "Draconians"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "17 March 1973",
+                    "missing": false,
+                    "enemies": ["Master", "Draconians"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Five",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "24 March 1973",
+                    "missing": false,
+                    "enemies": ["Master", "Draconians"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Six",
+                    "directed_by": "Paul Bernard",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "31 March 1973",
+                    "missing": false,
+                    "enemies": ["Master", "Draconians"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Planet of the Daleks",
+                "description": "The Doctor and Jo Grant face the Daleks on the planet Spiridon.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "David Maloney",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "7 April 1973",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "David Maloney",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "14 April 1973",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "David Maloney",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "21 April 1973",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "David Maloney",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "28 April 1973",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Five",
+                    "directed_by": "David Maloney",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "5 May 1973",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Six",
+                    "directed_by": "David Maloney",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "12 May 1973",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Green Death",
+                "description": "The Doctor investigates a mining facility where the workers are turning green and dying.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Episode One",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "19 May 1973",
+                    "missing": false,
+                    "enemies": ["BOSS"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Two",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "26 May 1973",
+                    "missing": false,
+                    "enemies": ["BOSS"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Three",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "2 June 1973",
+                    "missing": false,
+                    "enemies": ["BOSS"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Four",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "9 June 1973",
+                    "missing": false,
+                    "enemies": ["BOSS"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Five",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "16 June 1973",
+                    "missing": false,
+                    "enemies": ["BOSS"],
+                    "companions": ["Jo Grant"]
+                  },
+                  {
+                    "title": "Episode Six",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "23 June 1973",
+                    "missing": false,
+                    "enemies": ["BOSS"],
+                    "companions": ["Jo Grant"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "season": 11,
+            "episodes": [
+              {
+                "serial_title": "The Time Warrior",
+                "description": "The Doctor and Sarah Jane Smith face the Sontaran Linx in medieval times.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Alan Bromly",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "15 December 1973",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Alan Bromly",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "22 December 1973",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Alan Bromly",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "29 December 1973",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Alan Bromly",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "5 January 1974",
+                    "missing": false,
+                    "enemies": ["Sontarans"],
+                    "companions": ["Sarah Jane Smith"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Invasion of the Dinosaurs",
+                "description": "The Doctor and Sarah Jane Smith deal with dinosaurs appearing in London.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Paddy Russell",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "12 January 1974",
+                    "missing": false,
+                    "enemies": ["Dinosaurs"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Paddy Russell",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "19 January 1974",
+                    "missing": false,
+                    "enemies": ["Dinosaurs"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Paddy Russell",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "26 January 1974",
+                    "missing": false,
+                    "enemies": ["Dinosaurs"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Paddy Russell",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "2 February 1974",
+                    "missing": false,
+                    "enemies": ["Dinosaurs"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Five",
+                    "directed_by": "Paddy Russell",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "9 February 1974",
+                    "missing": false,
+                    "enemies": ["Dinosaurs"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Six",
+                    "directed_by": "Paddy Russell",
+                    "written_by": "Malcolm Hulke",
+                    "original_air_date": "16 February 1974",
+                    "missing": false,
+                    "enemies": ["Dinosaurs"],
+                    "companions": ["Sarah Jane Smith"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Death to the Daleks",
+                "description": "The Doctor and Sarah Jane Smith face the Daleks on the planet Exxilon.",
+                "number_of_episodes": 4,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "23 February 1974",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "2 March 1974",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "9 March 1974",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Michael E. Briant",
+                    "written_by": "Terry Nation",
+                    "original_air_date": "16 March 1974",
+                    "missing": false,
+                    "enemies": ["Daleks"],
+                    "companions": ["Sarah Jane Smith"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "The Monster of Peladon",
+                "description": "The Doctor returns to Peladon and faces political intrigue and the Ice Warriors.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "23 March 1974",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "30 March 1974",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "6 April 1974",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "13 April 1974",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Five",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "20 April 1974",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Six",
+                    "directed_by": "Lennie Mayne",
+                    "written_by": "Brian Hayles",
+                    "original_air_date": "27 April 1974",
+                    "missing": false,
+                    "enemies": ["Ice Warriors"],
+                    "companions": ["Sarah Jane Smith"]
+                  }
+                ]
+              },
+              {
+                "serial_title": "Planet of the Spiders",
+                "description": "The Doctor faces giant spiders from Metebelis III, leading to his regeneration.",
+                "number_of_episodes": 6,
+                "episodes": [
+                  {
+                    "title": "Part One",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "4 May 1974",
+                    "missing": false,
+                    "enemies": ["Giant Spiders"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Two",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "11 May 1974",
+                    "missing": false,
+                    "enemies": ["Giant Spiders"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Three",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "18 May 1974",
+                    "missing": false,
+                    "enemies": ["Giant Spiders"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Four",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "25 May 1974",
+                    "missing": false,
+                    "enemies": ["Giant Spiders"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Five",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "1 June 1974",
+                    "missing": false,
+                    "enemies": ["Giant Spiders"],
+                    "companions": ["Sarah Jane Smith"]
+                  },
+                  {
+                    "title": "Part Six",
+                    "directed_by": "Barry Letts",
+                    "written_by": "Robert Sloman and Barry Letts (uncredited)",
+                    "original_air_date": "8 June 1974",
+                    "missing": false,
+                    "enemies": ["Giant Spiders"],
+                    "companions": ["Sarah Jane Smith"]
+                  }
+            ]
+        }
+            ]
+          }
+        ]
+      }
+    ]
+    
+            
