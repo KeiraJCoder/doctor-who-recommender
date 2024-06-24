@@ -269,7 +269,7 @@
         "episodes": [
           {
             "serial_title": "Terror of the Autons",
-            "description": "The Doctor and Jo Grant face the return of the Nestene Consciousness and the Autons, alongside the introduction of the Master.",
+            "description": "The Doctor and Jo Grant face the return of the Nestene Consciousness and the Autons, alongside the introduction of the The Master.",
             "number_of_episodes": 4,
             "episodes": [
               {
@@ -278,7 +278,7 @@
                 "written_by": "Robert Holmes",
                 "original_air_date": "2 January 1971",
                 "missing": false,
-                "enemies": ["Autons", "Master"],
+                "enemies": ["Autons", "The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -287,7 +287,7 @@
                 "written_by": "Robert Holmes",
                 "original_air_date": "9 January 1971",
                 "missing": false,
-                "enemies": ["Autons", "Master"],
+                "enemies": ["Autons", "The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -296,7 +296,7 @@
                 "written_by": "Robert Holmes",
                 "original_air_date": "16 January 1971",
                 "missing": false,
-                "enemies": ["Autons", "Master"],
+                "enemies": ["Autons", "The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -305,14 +305,14 @@
                 "written_by": "Robert Holmes",
                 "original_air_date": "23 January 1971",
                 "missing": false,
-                "enemies": ["Autons", "Master"],
+                "enemies": ["Autons", "The Master"],
                 "companions": ["Jo Grant"]
               }
             ]
           },
           {
             "serial_title": "The Mind of Evil",
-            "description": "The Doctor and Jo Grant investigate a machine that can remove negative emotions, and encounter the Master.",
+            "description": "The Doctor and Jo Grant investigate a machine that can remove negative emotions, and encounter the The Master.",
             "number_of_episodes": 6,
             "episodes": [
               {
@@ -321,7 +321,7 @@
                 "written_by": "Don Houghton",
                 "original_air_date": "30 January 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -330,7 +330,7 @@
                 "written_by": "Don Houghton",
                 "original_air_date": "6 February 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -339,7 +339,7 @@
                 "written_by": "Don Houghton",
                 "original_air_date": "13 February 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -348,7 +348,7 @@
                 "written_by": "Don Houghton",
                 "original_air_date": "20 February 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -357,7 +357,7 @@
                 "written_by": "Don Houghton",
                 "original_air_date": "27 February 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -366,7 +366,7 @@
                 "written_by": "Don Houghton",
                 "original_air_date": "6 March 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               }
             ]
@@ -416,7 +416,7 @@
           },
           {
             "serial_title": "Colony in Space",
-            "description": "The Doctor and Jo Grant travel to a human colony on a distant planet and encounter the Master.",
+            "description": "The Doctor and Jo Grant travel to a human colony on a distant planet and encounter the The Master.",
             "number_of_episodes": 6,
             "episodes": [
               {
@@ -425,7 +425,7 @@
                 "written_by": "Malcolm Hulke",
                 "original_air_date": "10 April 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -434,7 +434,7 @@
                 "written_by": "Malcolm Hulke",
                 "original_air_date": "17 April 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -443,7 +443,7 @@
                 "written_by": "Malcolm Hulke",
                 "original_air_date": "24 April 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -452,7 +452,7 @@
                 "written_by": "Malcolm Hulke",
                 "original_air_date": "1 May 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -461,7 +461,7 @@
                 "written_by": "Malcolm Hulke",
                 "original_air_date": "8 May 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -470,14 +470,14 @@
                 "written_by": "Malcolm Hulke",
                 "original_air_date": "15 May 1971",
                 "missing": false,
-                "enemies": ["Master"],
+                "enemies": ["The Master"],
                 "companions": ["Jo Grant"]
               }
             ]
           },
           {
             "serial_title": "The Dæmons",
-            "description": "The Doctor and Jo Grant face the Master, who is attempting to summon an ancient alien known as Azal.",
+            "description": "The Doctor and Jo Grant face the The Master, who is attempting to summon an ancient alien known as Azal.",
             "number_of_episodes": 5,
             "episodes": [
               {
@@ -486,7 +486,7 @@
                 "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
                 "original_air_date": "22 May 1971",
                 "missing": false,
-                "enemies": ["Master", "Azal"],
+                "enemies": ["The Master", "Azal"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -495,7 +495,7 @@
                 "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
                 "original_air_date": "29 May 1971",
                 "missing": false,
-                "enemies": ["Master", "Azal"],
+                "enemies": ["The Master", "Azal"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -504,7 +504,7 @@
                 "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
                 "original_air_date": "5 June 1971",
                 "missing": false,
-                "enemies": ["Master", "Azal"],
+                "enemies": ["The Master", "Azal"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -513,7 +513,7 @@
                 "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
                 "original_air_date": "12 June 1971",
                 "missing": false,
-                "enemies": ["Master", "Azal"],
+                "enemies": ["The Master", "Azal"],
                 "companions": ["Jo Grant"]
               },
               {
@@ -522,7 +522,7 @@
                 "written_by": "Guy Leopold (Robert Sloman and Barry Letts)",
                 "original_air_date": "19 June 1971",
                 "missing": false,
-                "enemies": ["Master", "Azal"],
+                "enemies": ["The Master", "Azal"],
                 "companions": ["Jo Grant"]
             }
         ]
@@ -742,7 +742,7 @@
               },
               {
                 "serial_title": "The Time Monster",
-                "description": "The Doctor and Jo Grant battle the Master who has summoned Kronos, a powerful creature from Greek mythology.",
+                "description": "The Doctor and Jo Grant battle the The Master who has summoned Kronos, a powerful creature from Greek mythology.",
                 "number_of_episodes": 6,
                 "episodes": [
                   {
@@ -751,7 +751,7 @@
                     "written_by": "Robert Sloman and Barry Letts (uncredited)",
                     "original_air_date": "20 May 1972",
                     "missing": false,
-                    "enemies": ["Master", "Kronos"],
+                    "enemies": ["The Master", "Kronos"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -760,7 +760,7 @@
                     "written_by": "Robert Sloman and Barry Letts (uncredited)",
                     "original_air_date": "27 May 1972",
                     "missing": false,
-                    "enemies": ["Master", "Kronos"],
+                    "enemies": ["The Master", "Kronos"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -769,7 +769,7 @@
                     "written_by": "Robert Sloman and Barry Letts (uncredited)",
                     "original_air_date": "3 June 1972",
                     "missing": false,
-                    "enemies": ["Master", "Kronos"],
+                    "enemies": ["The Master", "Kronos"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -778,7 +778,7 @@
                     "written_by": "Robert Sloman and Barry Letts (uncredited)",
                     "original_air_date": "10 June 1972",
                     "missing": false,
-                    "enemies": ["Master", "Kronos"],
+                    "enemies": ["The Master", "Kronos"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -787,7 +787,7 @@
                     "written_by": "Robert Sloman and Barry Letts (uncredited)",
                     "original_air_date": "17 June 1972",
                     "missing": false,
-                    "enemies": ["Master", "Kronos"],
+                    "enemies": ["The Master", "Kronos"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -796,7 +796,7 @@
                     "written_by": "Robert Sloman and Barry Letts (uncredited)",
                     "original_air_date": "24 June 1972",
                     "missing": false,
-                    "enemies": ["Master", "Kronos"],
+                    "enemies": ["The Master", "Kronos"],
                     "companions": ["Jo Grant"]
                   }
                 ]
@@ -903,7 +903,7 @@
                     "written_by": "Malcolm Hulke",
                     "original_air_date": "24 February 1973",
                     "missing": false,
-                    "enemies": ["Master", "Draconians"],
+                    "enemies": ["The Master", "Draconians"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -912,7 +912,7 @@
                     "written_by": "Malcolm Hulke",
                     "original_air_date": "3 March 1973",
                     "missing": false,
-                    "enemies": ["Master", "Draconians"],
+                    "enemies": ["The Master", "Draconians"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -921,7 +921,7 @@
                     "written_by": "Malcolm Hulke",
                     "original_air_date": "10 March 1973",
                     "missing": false,
-                    "enemies": ["Master", "Draconians"],
+                    "enemies": ["The Master", "Draconians"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -930,7 +930,7 @@
                     "written_by": "Malcolm Hulke",
                     "original_air_date": "17 March 1973",
                     "missing": false,
-                    "enemies": ["Master", "Draconians"],
+                    "enemies": ["The Master", "Draconians"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -939,7 +939,7 @@
                     "written_by": "Malcolm Hulke",
                     "original_air_date": "24 March 1973",
                     "missing": false,
-                    "enemies": ["Master", "Draconians"],
+                    "enemies": ["The Master", "Draconians"],
                     "companions": ["Jo Grant"]
                   },
                   {
@@ -948,7 +948,7 @@
                     "written_by": "Malcolm Hulke",
                     "original_air_date": "31 March 1973",
                     "missing": false,
-                    "enemies": ["Master", "Draconians"],
+                    "enemies": ["The Master", "Draconians"],
                     "companions": ["Jo Grant"]
                   }
                 ]
@@ -1349,10 +1349,10 @@
                   }
             ]
         }
-            ]
-          }
         ]
-      }
+        }
     ]
+    }
+]
     
             
