@@ -8,6 +8,8 @@ document.addEventListener("DOMContentLoaded", () => {
   let sixthDoctorData = [];
   let seventhDoctorData = [];
   let eighthDoctorData = [];
+  let ninthDoctorData = [];
+  let tenthDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -123,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(error => console.error("Error loading seventh doctor data:", error));
 
-    // Fetch and process data for the eighth doctor
+  // Fetch and process data for the eighth doctor
   fetch('templates/eighth_doctor.JSON')
   .then(response => response.json())
   .then(data => {
@@ -137,7 +139,39 @@ document.addEventListener("DOMContentLoaded", () => {
       years_active: data[0].years_active
     };
   })
-  .catch(error => console.error("Error loading seventh doctor data:", error));
+  .catch(error => console.error("Error loading eighth doctor data:", error));
+
+  // Fetch and process data for the ninth doctor
+  fetch('templates/ninth_doctor.JSON')
+  .then(response => response.json())
+  .then(data => {
+    ninthDoctorData = processDoctorData(data[0], '9th');
+    storylines = [...storylines, ...extractStorylines(data[0])];
+    populateStorylineDropdown('storyline', storylines);
+    doctorDetails['9th'] = {
+      name: data[0].actor,
+      description: data[0].description,
+      image: data[0].image,
+      years_active: data[0].years_active
+    };
+  })
+  .catch(error => console.error("Error loading ninth doctor data:", error));
+
+    // Fetch and process data for the ninth doctor
+    fetch('templates/tenth_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      tenthDoctorData = processDoctorData(data[0], '10th');
+      storylines = [...storylines, ...extractStorylines(data[0])];
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['10th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading tenth doctor data:", error));
 
   function processDoctorData(data, doctor) {
     try {
@@ -259,6 +293,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function filterOptions() {
     const classicWho = document.getElementById("classicWho").checked;
+    const modernWho = document.getElementById("modernWho").checked;
     const doctor = document.getElementById("doctor").value.toLowerCase();
     const season = document.getElementById("season").value.toLowerCase();
     const writer = document.getElementById("writer").value.toLowerCase();
@@ -269,6 +304,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const companion = document.getElementById("companion").value.toLowerCase();
 
     let filteredData = allData;
+
+    if (classicWho && !modernWho) {
+      filteredData = filteredData.filter(episode => episode.year < 2005);
+    } else if (!classicWho && modernWho) {
+      filteredData = filteredData.filter(episode => episode.year >= 2005);
+    }
 
     if (doctor === "1st") {
       filteredData = firstDoctorData;
@@ -284,8 +325,12 @@ document.addEventListener("DOMContentLoaded", () => {
       filteredData = sixthDoctorData;
     } else if (doctor === "7th") {
       filteredData = seventhDoctorData;
-    } else if (doctor === "8th" ){
+    } else if (doctor === "8th") {
       filteredData = eighthDoctorData;
+    } else if (doctor === "9th") {
+      filteredData = ninthDoctorData;
+    } else if (doctor === "10th") {
+      filteredData = tenthDoctorData;
     }
 
     if (doctor === "") {
@@ -411,7 +456,12 @@ document.addEventListener("DOMContentLoaded", () => {
       relevantData = seventhDoctorData;
     } else if (doctor === "8th") {
       relevantData = eighthDoctorData;
+    } else if (doctor === "9th") {
+      relevantData = ninthDoctorData;
+    } else if (doctor === "10th") {
+      relevantData = tenthDoctorData;
     }
+
 
     if (doctor === "") {
       relevantData = [];

@@ -1,0 +1,204 @@
+[
+    {
+    "doctor": "Ninth Doctor",
+    "actor": "Christopher Eccleston",
+    "description": "In 2005, the BBC relaunched Doctor Who after a 15-year absence from episodic television, with Russell T Davies, Julie Gardner, and Mal Young as executive producers, Phil Collinson as producer, and Christopher Eccleston taking the lead role of the Ninth Doctor. The revival is a continuation of the original series. The new series is formatted to a 16:9 widescreen display ratio, and a standard episode length of 45 minutes. For the first time since the 1965–1966 season, each episode has a title, and most stand alone as complete stories. The show also returned to its traditional Saturday evening slot.",
+    "image": "images/Christopher-Eccleston.jpg",
+    "years_active": "2005",
+    "seasons": [
+      {
+        "season": 1,
+        "year": 2005,
+        "episodes": [
+          {
+            "serial_title": "Rose",
+            "description": "The Doctor meets Rose Tyler and takes her on a journey through time and space.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Rose",
+                "directed_by": "Keith Boak",
+                "written_by": "Russell T Davies",
+                "original_air_date": "26 March 2005",
+                "missing": false,
+                "enemies": ["Autons"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The End of the World",
+            "description": "The Doctor takes Rose to the year 5 billion to witness the destruction of Earth.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The End of the World",
+                "directed_by": "Euros Lyn",
+                "written_by": "Russell T Davies",
+                "original_air_date": "2 April 2005",
+                "missing": false,
+                "enemies": ["Cassandra"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Unquiet Dead",
+            "description": "The Doctor and Rose travel to Victorian Cardiff and encounter Charles Dickens and ghostly beings.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Unquiet Dead",
+                "directed_by": "Euros Lyn",
+                "written_by": "Mark Gatiss",
+                "original_air_date": "9 April 2005",
+                "missing": false,
+                "enemies": ["Gelth"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Aliens of London / World War Three",
+            "description": "The Doctor and Rose return to London, where they uncover a conspiracy involving the Slitheen.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Aliens of London",
+                "directed_by": "Keith Boak",
+                "written_by": "Russell T Davies",
+                "original_air_date": "16 April 2005",
+                "missing": false,
+                "enemies": ["Slitheen"],
+                "companions": ["Rose Tyler", "Mickey Smith", "Jackie Tyler"]
+              },
+              {
+                "title": "World War Three",
+                "directed_by": "Keith Boak",
+                "written_by": "Russell T Davies",
+                "original_air_date": "23 April 2005",
+                "missing": false,
+                "enemies": ["Slitheen"],
+                "companions": ["Rose Tyler", "Mickey Smith", "Jackie Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Dalek",
+            "description": "The Doctor encounters a lone Dalek in a billionaire's underground bunker.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Dalek",
+                "directed_by": "Joe Ahearne",
+                "written_by": "Robert Shearman",
+                "original_air_date": "30 April 2005",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Long Game",
+            "description": "The Doctor and Rose visit a space station in the far future, uncovering a sinister plot.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Long Game",
+                "directed_by": "Brian Grant",
+                "written_by": "Russell T Davies",
+                "original_air_date": "7 May 2005",
+                "missing": false,
+                "enemies": ["Jagrafess"],
+                "companions": ["Rose Tyler", "Adam Mitchell"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Father's Day",
+            "description": "Rose asks the Doctor to take her back to the day her father died.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Father's Day",
+                "directed_by": "Joe Ahearne",
+                "written_by": "Paul Cornell",
+                "original_air_date": "14 May 2005",
+                "missing": false,
+                "enemies": ["Reapers"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Empty Child / The Doctor Dances",
+            "description": "The Doctor and Rose investigate a strange child in wartime London.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Empty Child",
+                "directed_by": "James Hawes",
+                "written_by": "Steven Moffat",
+                "original_air_date": "21 May 2005",
+                "missing": false,
+                "enemies": ["The Empty Child"],
+                "companions": ["Rose Tyler", "Captain Jack Harkness"]
+              },
+              {
+                "title": "The Doctor Dances",
+                "directed_by": "James Hawes",
+                "written_by": "Steven Moffat",
+                "original_air_date": "28 May 2005",
+                "missing": false,
+                "enemies": ["The Empty Child"],
+                "companions": ["Rose Tyler", "Captain Jack Harkness"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Boom Town",
+            "description": "The Doctor, Rose, and Captain Jack return to Cardiff and face an old foe.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Boom Town",
+                "directed_by": "Joe Ahearne",
+                "written_by": "Russell T Davies",
+                "original_air_date": "4 June 2005",
+                "missing": false,
+                "enemies": ["Slitheen"],
+                "companions": ["Rose Tyler", "Captain Jack Harkness", "Mickey Smith"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Bad Wolf / The Parting of the Ways",
+            "description": "The Doctor, Rose, and Captain Jack face their greatest challenge as the Daleks return.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Bad Wolf",
+                "directed_by": "Joe Ahearne",
+                "written_by": "Russell T Davies",
+                "original_air_date": "11 June 2005",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Rose Tyler", "Captain Jack Harkness"]
+              },
+              {
+                "title": "The Parting of the Ways",
+                "directed_by": "Joe Ahearne",
+                "written_by": "Russell T Davies",
+                "original_air_date": "18 June 2005",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Rose Tyler", "Captain Jack Harkness"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,711 @@
+[
+    {
+    "doctor": "Tenth Doctor",
+    "actor": "David Tennant",
+    "description": "The Tenth Doctor, portrayed by David Tennant, brought a dynamic and energetic presence to the series. Known for his charm, wit, and emotional depth, Tennant's Doctor was a beloved and iconic incarnation. His tenure saw the Doctor facing a wide range of adversaries and forging strong connections with companions like Rose Tyler, Martha Jones, and Donna Noble. Tennant's portrayal emphasized the Doctor's compassionate yet lonely nature, as well as his underlying sorrow from the Time War. The Tenth Doctor's era is celebrated for its compelling storytelling, memorable villains, and emotional resonance, making it a standout period in the history of Doctor Who."
+,
+    "image": "images/David-Tennant.jpg",
+    "years_active": "2005–2010",
+    "seasons": [
+      {
+        "season": 2,
+        "year": 2006,
+        "episodes": [
+          {
+            "serial_title": "The Christmas Invasion",
+            "description": "The newly regenerated Tenth Doctor defends Earth from alien invaders.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Christmas Invasion",
+                "directed_by": "James Hawes",
+                "written_by": "Russell T Davies",
+                "original_air_date": "25 December 2005",
+                "missing": false,
+                "enemies": ["Sycorax"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "New Earth",
+            "description": "The Doctor and Rose visit New Earth and encounter an old foe.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "New Earth",
+                "directed_by": "James Hawes",
+                "written_by": "Russell T Davies",
+                "original_air_date": "15 April 2006",
+                "missing": false,
+                "enemies": ["Cassandra"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Tooth and Claw",
+            "description": "The Doctor and Rose face a werewolf in 1879 Scotland.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Tooth and Claw",
+                "directed_by": "Euros Lyn",
+                "written_by": "Russell T Davies",
+                "original_air_date": "22 April 2006",
+                "missing": false,
+                "enemies": ["Werewolf"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "School Reunion",
+            "description": "The Doctor reunites with Sarah Jane Smith and investigates a school with a dark secret.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "School Reunion",
+                "directed_by": "James Hawes",
+                "written_by": "Toby Whithouse",
+                "original_air_date": "29 April 2006",
+                "missing": false,
+                "enemies": ["Krillitane"],
+                "companions": ["Rose Tyler", "Mickey Smith", "Sarah Jane Smith"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Girl in the Fireplace",
+            "description": "The Doctor meets Madame de Pompadour in 18th-century France.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Girl in the Fireplace",
+                "directed_by": "Euros Lyn",
+                "written_by": "Steven Moffat",
+                "original_air_date": "6 May 2006",
+                "missing": false,
+                "enemies": ["Clockwork Droids"],
+                "companions": ["Rose Tyler", "Mickey Smith"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Rise of the Cybermen / The Age of Steel",
+            "description": "The Doctor, Rose, and Mickey face the return of the Cybermen.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Rise of the Cybermen",
+                "directed_by": "Graeme Harper",
+                "written_by": "Tom MacRae",
+                "original_air_date": "13 May 2006",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Rose Tyler", "Mickey Smith"]
+              },
+              {
+                "title": "The Age of Steel",
+                "directed_by": "Graeme Harper",
+                "written_by": "Tom MacRae",
+                "original_air_date": "20 May 2006",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Rose Tyler", "Mickey Smith"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Idiot's Lantern",
+            "description": "The Doctor and Rose visit 1953 London and encounter an alien feeding on television signals.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Idiot's Lantern",
+                "directed_by": "Euros Lyn",
+                "written_by": "Mark Gatiss",
+                "original_air_date": "27 May 2006",
+                "missing": false,
+                "enemies": ["The Wire"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Impossible Planet / The Satan Pit",
+            "description": "The Doctor and Rose face an ancient evil on a distant planet.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Impossible Planet",
+                "directed_by": "James Strong",
+                "written_by": "Matt Jones",
+                "original_air_date": "3 June 2006",
+                "missing": false,
+                "enemies": ["The Beast"],
+                "companions": ["Rose Tyler"]
+              },
+              {
+                "title": "The Satan Pit",
+                "directed_by": "James Strong",
+                "written_by": "Matt Jones",
+                "original_air_date": "10 June 2006",
+                "missing": false,
+                "enemies": ["The Beast"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Love & Monsters",
+            "description": "A group of ordinary people who have been touched by the Doctor form a group to find him.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Love & Monsters",
+                "directed_by": "Dan Zeff",
+                "written_by": "Russell T Davies",
+                "original_air_date": "17 June 2006",
+                "missing": false,
+                "enemies": ["Abzorbaloff"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Fear Her",
+            "description": "The Doctor and Rose investigate strange disappearances in 2012 London.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Fear Her",
+                "directed_by": "Euros Lyn",
+                "written_by": "Matthew Graham",
+                "original_air_date": "24 June 2006",
+                "missing": false,
+                "enemies": ["Isolus"],
+                "companions": ["Rose Tyler"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Army of Ghosts / Doomsday",
+            "description": "The Doctor and Rose face a battle between the Cybermen and the Daleks.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Army of Ghosts",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies",
+                "original_air_date": "1 July 2006",
+                "missing": false,
+                "enemies": ["Cybermen", "Daleks"],
+                "companions": ["Rose Tyler", "Jackie Tyler", "Mickey Smith"]
+              },
+              {
+                "title": "Doomsday",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies",
+                "original_air_date": "8 July 2006",
+                "missing": false,
+                "enemies": ["Cybermen", "Daleks"],
+                "companions": ["Rose Tyler", "Jackie Tyler", "Mickey Smith"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 3,
+        "year": 2007,
+        "episodes": [
+          {
+            "serial_title": "The Runaway Bride",
+            "description": "The Doctor teams up with bride-to-be Donna Noble to stop an alien invasion.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Runaway Bride",
+                "directed_by": "Euros Lyn",
+                "written_by": "Russell T Davies",
+                "original_air_date": "25 December 2006",
+                "missing": false,
+                "enemies": ["Racnoss"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Smith and Jones",
+            "description": "The Doctor meets medical student Martha Jones and battles the Judoon on the moon.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Smith and Jones",
+                "directed_by": "Charles Palmer",
+                "written_by": "Russell T Davies",
+                "original_air_date": "31 March 2007",
+                "missing": false,
+                "enemies": ["Judoon", "Plasmavore"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Shakespeare Code",
+            "description": "The Doctor and Martha travel to Elizabethan England and meet William Shakespeare.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Shakespeare Code",
+                "directed_by": "Charles Palmer",
+                "written_by": "Gareth Roberts",
+                "original_air_date": "7 April 2007",
+                "missing": false,
+                "enemies": ["Carrionites"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Gridlock",
+            "description": "The Doctor takes Martha to New New York and discovers a deadly secret in the motorway.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Gridlock",
+                "directed_by": "Richard Clark",
+                "written_by": "Russell T Davies",
+                "original_air_date": "14 April 2007",
+                "missing": false,
+                "enemies": ["Macra"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Daleks in Manhattan / Evolution of the Daleks",
+            "description": "The Doctor and Martha battle the Daleks in 1930s New York.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Daleks in Manhattan",
+                "directed_by": "James Strong",
+                "written_by": "Helen Raynor",
+                "original_air_date": "21 April 2007",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Martha Jones"]
+              },
+              {
+                "title": "Evolution of the Daleks",
+                "directed_by": "James Strong",
+                "written_by": "Helen Raynor",
+                "original_air_date": "28 April 2007",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Lazarus Experiment",
+            "description": "The Doctor and Martha face a scientist who has discovered the secret to eternal youth.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Lazarus Experiment",
+                "directed_by": "Richard Clark",
+                "written_by": "Stephen Greenhorn",
+                "original_air_date": "5 May 2007",
+                "missing": false,
+                "enemies": ["Richard Lazarus"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "42",
+            "description": "The Doctor and Martha have 42 minutes to save a spaceship from crashing into a sun.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "42",
+                "directed_by": "Graeme Harper",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "19 May 2007",
+                "missing": false,
+                "enemies": ["Sun Creature"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Human Nature / The Family of Blood",
+            "description": "The Doctor becomes human to hide from the Family of Blood.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Human Nature",
+                "directed_by": "Charles Palmer",
+                "written_by": "Paul Cornell",
+                "original_air_date": "26 May 2007",
+                "missing": false,
+                "enemies": ["Family of Blood"],
+                "companions": ["Martha Jones"]
+              },
+              {
+                "title": "The Family of Blood",
+                "directed_by": "Charles Palmer",
+                "written_by": "Paul Cornell",
+                "original_air_date": "2 June 2007",
+                "missing": false,
+                "enemies": ["Family of Blood"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Blink",
+            "description": "The Doctor sends a message to Sally Sparrow to defeat the Weeping Angels.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Blink",
+                "directed_by": "Hettie MacDonald",
+                "written_by": "Steven Moffat",
+                "original_air_date": "9 June 2007",
+                "missing": false,
+                "enemies": ["Weeping Angels"],
+                "companions": ["Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Utopia / The Sound of Drums / Last of the Time Lords",
+            "description": "The Doctor and Martha discover the Master's return.",
+            "number_of_episodes": 3,
+            "episodes": [
+              {
+                "title": "Utopia",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies",
+                "original_air_date": "16 June 2007",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Martha Jones", "Captain Jack Harkness"]
+              },
+              {
+                "title": "The Sound of Drums",
+                "directed_by": "Colin Teague",
+                "written_by": "Russell T Davies",
+                "original_air_date": "23 June 2007",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Martha Jones", "Captain Jack Harkness"]
+              },
+              {
+                "title": "Last of the Time Lords",
+                "directed_by": "Colin Teague",
+                "written_by": "Russell T Davies",
+                "original_air_date": "30 June 2007",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Martha Jones", "Captain Jack Harkness"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 4,
+        "year": 2008,
+        "episodes": [
+          {
+            "serial_title": "Voyage of the Damned",
+            "description": "The Doctor teams up with waitress Astrid Peth to save the Titanic spaceship.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Voyage of the Damned",
+                "directed_by": "James Strong",
+                "written_by": "Russell T Davies",
+                "original_air_date": "25 December 2007",
+                "missing": false,
+                "enemies": ["Host"],
+                "companions": ["Astrid Peth"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Partners in Crime",
+            "description": "The Doctor reunites with Donna Noble and uncovers an alien conspiracy.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Partners in Crime",
+                "directed_by": "James Strong",
+                "written_by": "Russell T Davies",
+                "original_air_date": "5 April 2008",
+                "missing": false,
+                "enemies": ["Adipose"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Fires of Pompeii",
+            "description": "The Doctor and Donna visit Pompeii on the eve of the eruption of Mount Vesuvius.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Fires of Pompeii",
+                "directed_by": "Colin Teague",
+                "written_by": "James Moran",
+                "original_air_date": "12 April 2008",
+                "missing": false,
+                "enemies": ["Pyrovile"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Planet of the Ood",
+            "description": "The Doctor and Donna uncover the truth behind the Ood's servitude.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Planet of the Ood",
+                "directed_by": "Graeme Harper",
+                "written_by": "Keith Temple",
+                "original_air_date": "19 April 2008",
+                "missing": false,
+                "enemies": ["Ood"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Sontaran Stratagem / The Poison Sky",
+            "description": "The Doctor and Donna battle the Sontarans' latest invasion attempt.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Sontaran Stratagem",
+                "directed_by": "Douglas Mackinnon",
+                "written_by": "Helen Raynor",
+                "original_air_date": "26 April 2008",
+                "missing": false,
+                "enemies": ["Sontarans"],
+                "companions": ["Donna Noble", "Martha Jones"]
+              },
+              {
+                "title": "The Poison Sky",
+                "directed_by": "Douglas Mackinnon",
+                "written_by": "Helen Raynor",
+                "original_air_date": "3 May 2008",
+                "missing": false,
+                "enemies": ["Sontarans"],
+                "companions": ["Donna Noble", "Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Doctor's Daughter",
+            "description": "The Doctor discovers he has a daughter, Jenny, during a war on the planet Messaline.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Doctor's Daughter",
+                "directed_by": "Alice Troughton",
+                "written_by": "Stephen Greenhorn",
+                "original_air_date": "10 May 2008",
+                "missing": false,
+                "enemies": ["Hath"],
+                "companions": ["Donna Noble", "Martha Jones"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Unicorn and the Wasp",
+            "description": "The Doctor and Donna team up with Agatha Christie to solve a mystery.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Unicorn and the Wasp",
+                "directed_by": "Graeme Harper",
+                "written_by": "Gareth Roberts",
+                "original_air_date": "17 May 2008",
+                "missing": false,
+                "enemies": ["Vespiform"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Silence in the Library / Forest of the Dead",
+            "description": "The Doctor and Donna explore a library planet and face the Vashta Nerada.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Silence in the Library",
+                "directed_by": "Euros Lyn",
+                "written_by": "Steven Moffat",
+                "original_air_date": "31 May 2008",
+                "missing": false,
+                "enemies": ["Vashta Nerada"],
+                "companions": ["Donna Noble"]
+              },
+              {
+                "title": "Forest of the Dead",
+                "directed_by": "Euros Lyn",
+                "written_by": "Steven Moffat",
+                "original_air_date": "7 June 2008",
+                "missing": false,
+                "enemies": ["Vashta Nerada"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Midnight",
+            "description": "The Doctor faces an unknown entity on the resort planet Midnight.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Midnight",
+                "directed_by": "Alice Troughton",
+                "written_by": "Russell T Davies",
+                "original_air_date": "14 June 2008",
+                "missing": false,
+                "enemies": ["Midnight Entity"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Turn Left",
+            "description": "Donna is forced to choose between her own life and the lives of others.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Turn Left",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies",
+                "original_air_date": "21 June 2008",
+                "missing": false,
+                "enemies": ["Time Beetle"],
+                "companions": ["Donna Noble"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Stolen Earth / Journey's End",
+            "description": "The Doctor and his companions face the Daleks' latest plan to destroy reality.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Stolen Earth",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies",
+                "original_air_date": "28 June 2008",
+                "missing": false,
+                "enemies": ["Daleks", "Davros"],
+                "companions": ["Donna Noble", "Rose Tyler", "Martha Jones", "Jack Harkness", "Sarah Jane Smith"]
+              },
+              {
+                "title": "Journey's End",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies",
+                "original_air_date": "5 July 2008",
+                "missing": false,
+                "enemies": ["Daleks", "Davros"],
+                "companions": ["Donna Noble", "Rose Tyler", "Martha Jones", "Jack Harkness", "Sarah Jane Smith"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": "Specials",
+        "year": "2008–2010",
+        "episodes": [
+          {
+            "serial_title": "The Next Doctor",
+            "description": "The Doctor encounters a man who believes himself to be a future incarnation of the Doctor.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Next Doctor",
+                "directed_by": "Andy Goddard",
+                "written_by": "Russell T Davies",
+                "original_air_date": "25 December 2008",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Jackson Lake"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Planet of the Dead",
+            "description": "The Doctor teams up with Lady Christina de Souza to stop an alien threat.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Planet of the Dead",
+                "directed_by": "James Strong",
+                "written_by": "Russell T Davies & Gareth Roberts",
+                "original_air_date": "11 April 2009",
+                "missing": false,
+                "enemies": ["Swarm"],
+                "companions": ["Lady Christina de Souza"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Waters of Mars",
+            "description": "The Doctor faces a deadly alien threat on Mars.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Waters of Mars",
+                "directed_by": "Graeme Harper",
+                "written_by": "Russell T Davies & Phil Ford",
+                "original_air_date": "15 November 2009",
+                "missing": false,
+                "enemies": ["Flood"],
+                "companions": ["Adelaide Brooke"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The End of Time",
+            "description": "The Doctor faces the return of the Master and his own impending regeneration.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The End of Time - Part One",
+                "directed_by": "Euros Lyn",
+                "written_by": "Russell T Davies",
+                "original_air_date": "25 December 2009",
+                "missing": false,
+                "enemies": ["The Master", "Time Lords"],
+                "companions": ["Wilfred Mott"]
+              },
+              {
+                "title": "The End of Time - Part Two",
+                "directed_by": "Euros Lyn",
+                "written_by": "Russell T Davies",
+                "original_air_date": "1 January 2010",
+                "missing": false,
+                "enemies": ["The Master", "Time Lords"],
+                "companions": ["Wilfred Mott"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]  
