@@ -219,6 +219,7 @@ document.addEventListener("DOMContentLoaded", () => {
       } else {
         descriptionElement.textContent = 'Description: None';
       }
+      filterOptions();
     });
   }
 
@@ -262,7 +263,7 @@ document.addEventListener("DOMContentLoaded", () => {
         (director === "" || episode.directedBy.toLowerCase().includes(director)) &&
         (year === "" || episode.year.toString().toLowerCase().includes(year)) &&
         (enemy === "" || episode.enemies.some(e => e.toLowerCase().includes(enemy))) &&
-        (storyline === "" || episode.storyTitle.toLowerCase().includes(storyline)) &&
+        (storyline === "" || episode.storyTitle.toLowerCase() === storyline) &&
         (companion === "" || episode.companions.some(c => c.toLowerCase().includes(companion)));
     });
 
