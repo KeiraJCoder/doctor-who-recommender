@@ -1,0 +1,174 @@
+[
+    {
+      "actor": "Ncuti Gatwa",
+      "description": "The Fifteenth Doctor is portrayed by Ncuti Gatwa. The Christmas special introduced Ruby Sunday, an orphan experiencing bad luck caused by the antics of goblins. The following season centers around the mystery of Ruby's birth, as well as a mysterious woman who appears in different forms within each of the Doctor and Ruby's adventures. The series released at midnight on BBC iPlayer in the UK, with the BBC broadcast happening the following Saturday evening.",
+      "image": "images/ncuti-gatwa.jpg",
+      "years_active": "2024-",
+      "seasons": [
+        {
+          "season": 14,
+          "episodes": [
+            {
+              "serial_title": "The Church on Ruby Road",
+              "description": "The Doctor and Ruby Sunday encounter goblins causing bad luck.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Church on Ruby Road",
+                  "directed_by": "Mark Tonderai",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2023-12-25",
+                  "missing": false,
+                  "enemies": ["Goblins"],
+                  "companions": ["Ruby Sunday"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Space Babies",
+              "description": "The Doctor and Ruby face a strange phenomenon involving space babies.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Space Babies",
+                  "directed_by": "Julie Anne Robinson",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2024-05-11",
+                  "missing": false,
+                  "enemies": ["The Bogeyman"],
+                  "companions": ["Ruby Sunday"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Devil's Chord",
+              "description": "The Doctor and Ruby investigate a mysterious musical phenomenon.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Devil's Chord",
+                  "directed_by": "Ben Chessell",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2024-05-11",
+                  "missing": false,
+                  "enemies": ["Maestro"],
+                  "companions": ["Ruby Sunday"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Boom",
+              "description": "The Doctor and Ruby face a dangerous explosion.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Boom",
+                  "directed_by": "Julie Anne Robinson",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2024-05-18",
+                  "missing": false,
+                  "enemies": ["Villengard Ambulance"],
+                  "companions": ["Ruby Sunday"]
+                }
+              ]
+            },
+            {
+              "serial_title": "73 Yards",
+              "description": "The Doctor and Ruby unravel a mystery spanning 73 yards.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "73 Yards",
+                  "directed_by": "Dylan Holmes Williams",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2024-05-25",
+                  "missing": false,
+                  "enemies": ["Roger ap Gwilliam"],
+                  "companions": ["Ruby Sunday"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Dot and Bubble",
+              "description": "The Doctor and Ruby face a peculiar threat involving dots and bubbles.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Dot and Bubble",
+                  "directed_by": "Dylan Holmes Williams",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2024-06-01",
+                  "missing": false,
+                  "enemies": ["Finetime Dots", "Mantraps"],
+                  "companions": ["Ruby Sunday"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Rogue",
+              "description": "The Doctor and Ruby encounter a rogue entity.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Rogue",
+                  "directed_by": "Ben Chessell",
+                  "written_by": "Kate Herron and Briony Redman",
+                  "original_air_date": "2024-06-08",
+                  "missing": false,
+                  "enemies": ["Chulder Family"],
+                  "companions": ["Ruby Sunday", "Rogue"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Legend of Ruby Sunday / Empire of Death",
+              "description": "The Doctor and Ruby uncover the legend of Ruby Sunday and face the Empire of Death.",
+              "number_of_episodes": 2,
+              "episodes": [
+                {
+                  "title": "The Legend of Ruby Sunday",
+                  "directed_by": "Jamie Donoughue",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2024-06-15",
+                  "missing": false,
+                  "enemies": ["Sutekh"],
+                  "companions": ["Ruby Sunday"]
+                },
+                {
+                  "title": "Empire of Death",
+                  "directed_by": "Jamie Donoughue",
+                  "written_by": "Russell T Davies",
+                  "original_air_date": "2024-06-22",
+                  "missing": false,
+                  "enemies": ["Sutekh"],
+                  "companions": ["Ruby Sunday", "Mel Bush"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 15,
+          "episodes": [
+            {
+              "serial_title": "Joy to the World",
+              "description": "The Doctor faces a festive threat during the holiday season.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Joy to the World",
+                  "directed_by": "Alex Pillai",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2024-12-25",
+                  "missing": false,
+                  "enemies": ["Unknown"],
+                  "companions": ["Ruby Sunday", "New Companion"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

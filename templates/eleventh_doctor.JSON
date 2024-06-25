@@ -1,0 +1,684 @@
+[
+    {
+        "actor": "Matt Smith",
+        "description": "The Eleventh Doctor, played by Matt Smith, brought a quirky, youthful energy to the series. Known for his eccentric fashion sense and boundless enthusiasm, Smith's Doctor navigated complex story arcs involving time cracks, the Silence, and his mysterious relationship with River Song. Under showrunner Steven Moffat, the series embraced intricate narratives and darker themes, blending action, humor, and poignant moments.",
+        "image": "images/matt-smith.jpg", 
+        "years_active": "2010–2013",
+        "seasons": [
+        {
+          "season": 5,
+          "episodes": [
+            {
+              "serial_title": "The Eleventh Hour",
+              "description": "This episode deals with the cracks spreading throughout time.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Eleventh Hour",
+                  "directed_by": "Adam Smith",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-04-03",
+                  "missing": false,
+                  "enemies": [],
+                  "companions": ["Amy Pond"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Beast Below",
+              "description": "The Doctor and Amy travel to the distant future and explore Starship UK.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Beast Below",
+                  "directed_by": "Andrew Gunn",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-04-10",
+                  "missing": false,
+                  "enemies": ["Smilers"],
+                  "companions": ["Amy Pond"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Victory of the Daleks",
+              "description": "The Doctor encounters an old enemy, the Daleks.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Victory of the Daleks",
+                  "directed_by": "Andrew Gunn",
+                  "written_by": "Mark Gatiss",
+                  "original_air_date": "2010-04-17",
+                  "missing": false,
+                  "enemies": ["Daleks"],
+                  "companions": ["Amy Pond"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Time of Angels / Flesh and Stone",
+              "description": "The Doctor and Amy face the Weeping Angels.",
+              "number_of_episodes": 2,
+              "episodes": [
+                {
+                  "title": "The Time of Angels",
+                  "directed_by": "Adam Smith",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-04-24",
+                  "missing": false,
+                  "enemies": ["Weeping Angels"],
+                  "companions": ["Amy Pond", "River Song"]
+                },
+                {
+                  "title": "Flesh and Stone",
+                  "directed_by": "Adam Smith",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-05-01",
+                  "missing": false,
+                  "enemies": ["Weeping Angels"],
+                  "companions": ["Amy Pond", "River Song"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Vampires of Venice",
+              "description": "The Doctor takes Amy and Rory to Venice.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Vampires of Venice",
+                  "directed_by": "Jonny Campbell",
+                  "written_by": "Toby Whithouse",
+                  "original_air_date": "2010-05-08",
+                  "missing": false,
+                  "enemies": ["Rosanna Calvierri"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Amy's Choice",
+              "description": "The Doctor, Amy, and Rory face a dangerous choice.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Amy's Choice",
+                  "directed_by": "Catherine Morshead",
+                  "written_by": "Simon Nye",
+                  "original_air_date": "2010-05-15",
+                  "missing": false,
+                  "enemies": ["Dream Lord"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Hungry Earth / Cold Blood",
+              "description": "The Doctor and his friends encounter the Silurians.",
+              "number_of_episodes": 2,
+              "episodes": [
+                {
+                  "title": "The Hungry Earth",
+                  "directed_by": "Ashley Way",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2010-05-22",
+                  "missing": false,
+                  "enemies": ["Silurians"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                },
+                {
+                  "title": "Cold Blood",
+                  "directed_by": "Ashley Way",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2010-05-29",
+                  "missing": false,
+                  "enemies": ["Silurians"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Vincent and the Doctor",
+              "description": "The Doctor and Amy meet Vincent van Gogh.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Vincent and the Doctor",
+                  "directed_by": "Jonny Campbell",
+                  "written_by": "Richard Curtis",
+                  "original_air_date": "2010-06-05",
+                  "missing": false,
+                  "enemies": ["Krafayis"],
+                  "companions": ["Amy Pond"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Lodger",
+              "description": "The Doctor moves in with a man named Craig.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Lodger",
+                  "directed_by": "Catherine Morshead",
+                  "written_by": "Gareth Roberts",
+                  "original_air_date": "2010-06-12",
+                  "missing": false,
+                  "enemies": ["Lodger alien"],
+                  "companions": ["Amy Pond", "Craig Owens"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Pandorica Opens / The Big Bang",
+              "description": "The Doctor faces his greatest challenge as multiple enemies unite against him.",
+              "number_of_episodes": 2,
+              "episodes": [
+                {
+                  "title": "The Pandorica Opens",
+                  "directed_by": "Toby Haynes",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-06-19",
+                  "missing": false,
+                  "enemies": ["Multiple enemies"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                },
+                {
+                  "title": "The Big Bang",
+                  "directed_by": "Toby Haynes",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-06-26",
+                  "missing": false,
+                  "enemies": ["Multiple enemies"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 6,
+          "episodes": [
+            {
+              "serial_title": "A Christmas Carol",
+              "description": "A Christmas special where the Doctor attempts to save the soul of a bitter old man.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "A Christmas Carol",
+                  "directed_by": "Toby Haynes",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2010-12-25",
+                  "missing": false,
+                  "enemies": ["Kazran Sardick"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Impossible Astronaut / Day of the Moon",
+              "description": "The Doctor and his companions face the Silence.",
+              "number_of_episodes": 2,
+              "episodes": [
+                {
+                  "title": "The Impossible Astronaut",
+                  "directed_by": "Toby Haynes",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2011-04-23",
+                  "missing": false,
+                  "enemies": ["Silence"],
+                  "companions": ["Amy Pond", "Rory Williams", "River Song"]
+                },
+                {
+                  "title": "Day of the Moon",
+                  "directed_by": "Toby Haynes",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2011-04-30",
+                  "missing": false,
+                  "enemies": ["Silence"],
+                  "companions": ["Amy Pond", "Rory Williams", "River Song"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Curse of the Black Spot",
+              "description": "The Doctor and his friends encounter pirates.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Curse of the Black Spot",
+                  "directed_by": "Jeremy Webb",
+                  "written_by": "Stephen Thompson",
+                  "original_air_date": "2011-05-07",
+                  "missing": false,
+                  "enemies": ["Siren"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Doctor's Wife",
+              "description": "The Doctor receives a distress call from a Time Lord.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Doctor's Wife",
+                  "directed_by": "Richard Clark",
+                  "written_by": "Neil Gaiman",
+                  "original_air_date": "2011-05-14",
+                  "missing": false,
+                  "enemies": ["House"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Rebel Flesh / The Almost People",
+              "description": "The Doctor and his friends encounter a factory where human clones are used.",
+              "number_of_episodes": 2,
+              "episodes": [
+                {
+                  "title": "The Rebel Flesh",
+                  "directed_by": "Julian Simpson",
+                  "written_by": "Matthew Graham",
+                  "original_air_date": "2011-05-21",
+                  "missing": false,
+                  "enemies": ["Gangers"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                },
+                {
+                  "title": "The Almost People",
+                  "directed_by": "Julian Simpson",
+                  "written_by": "Matthew Graham",
+                  "original_air_date": "2011-05-28",
+                  "missing": false,
+                  "enemies": ["Gangers"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "A Good Man Goes to War",
+              "description": "The Doctor assembles an army to rescue Amy and her newborn daughter.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "A Good Man Goes to War",
+                  "directed_by": "Peter Hoar",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2011-06-04",
+                  "missing": false,
+                  "enemies": ["Madame Kovarian"],
+                  "companions": ["Amy Pond", "Rory Williams", "River Song"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Let's Kill Hitler",
+              "description": "The Doctor and his companions travel to 1938 and encounter Adolf Hitler.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Let's Kill Hitler",
+                  "directed_by": "Richard Senior",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2011-08-27",
+                  "missing": false,
+                  "enemies": ["Adolf Hitler"],
+                  "companions": ["Amy Pond", "Rory Williams", "River Song"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Night Terrors",
+              "description": "The Doctor answers a child's call for help.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Night Terrors",
+                  "directed_by": "Richard Clark",
+                  "written_by": "Mark Gatiss",
+                  "original_air_date": "2011-09-03",
+                  "missing": false,
+                  "enemies": ["Dolls"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Girl Who Waited",
+              "description": "The Doctor, Amy, and Rory visit a strange facility.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Girl Who Waited",
+                  "directed_by": "Nick Hurran",
+                  "written_by": "Tom MacRae",
+                  "original_air_date": "2011-09-10",
+                  "missing": false,
+                  "enemies": ["Handbots"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The God Complex",
+              "description": "The Doctor and his companions find themselves in a mysterious hotel.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The God Complex",
+                  "directed_by": "Nick Hurran",
+                  "written_by": "Toby Whithouse",
+                  "original_air_date": "2011-09-17",
+                  "missing": false,
+                  "enemies": ["Minotaur"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Closing Time",
+              "description": "The Doctor reunites with Craig.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Closing Time",
+                  "directed_by": "Steve Hughes",
+                  "written_by": "Gareth Roberts",
+                  "original_air_date": "2011-09-24",
+                  "missing": false,
+                  "enemies": ["Cybermen"],
+                  "companions": ["Craig Owens"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Wedding of River Song",
+              "description": "The Doctor faces the Silence in a showdown.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Wedding of River Song",
+                  "directed_by": "Jeremy Webb",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2011-10-01",
+                  "missing": false,
+                  "enemies": ["Silence", "Madame Kovarian"],
+                  "companions": ["Amy Pond", "Rory Williams", "River Song"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 7,
+          "episodes": [
+            {
+              "serial_title": "Asylum of the Daleks",
+              "description": "The Doctor, Amy, and Rory are captured by the Daleks.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Asylum of the Daleks",
+                  "directed_by": "Nick Hurran",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2012-09-01",
+                  "missing": false,
+                  "enemies": ["Daleks"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Dinosaurs on a Spaceship",
+              "description": "The Doctor assembles a gang to save a spaceship.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Dinosaurs on a Spaceship",
+                  "directed_by": "Saul Metzstein",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2012-09-08",
+                  "missing": false,
+                  "enemies": ["Solomon"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "A Town Called Mercy",
+              "description": "The Doctor and his friends land in the Wild West.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "A Town Called Mercy",
+                  "directed_by": "Saul Metzstein",
+                  "written_by": "Toby Whithouse",
+                  "original_air_date": "2012-09-15",
+                  "missing": false,
+                  "enemies": ["Kahler-Jex"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Power of Three",
+              "description": "The Doctor faces an invasion of small cubes.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Power of Three",
+                  "directed_by": "Douglas Mackinnon",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2012-09-22",
+                  "missing": false,
+                  "enemies": ["Shakri"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Angels Take Manhattan",
+              "description": "The Doctor battles the Weeping Angels in New York.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Angels Take Manhattan",
+                  "directed_by": "Nick Hurran",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2012-09-29",
+                  "missing": false,
+                  "enemies": ["Weeping Angels"],
+                  "companions": ["Amy Pond", "Rory Williams"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Snowmen",
+              "description": "The Doctor investigates living snowmen.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Snowmen",
+                  "directed_by": "Saul Metzstein",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2012-12-25",
+                  "missing": false,
+                  "enemies": ["Great Intelligence"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Bells of Saint John",
+              "description": "The Doctor returns to modern-day London.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Bells of Saint John",
+                  "directed_by": "Colm McCarthy",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2013-03-30",
+                  "missing": false,
+                  "enemies": ["Spoonheads"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Rings of Akhaten",
+              "description": "The Doctor takes Clara to the Rings of Akhaten.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Rings of Akhaten",
+                  "directed_by": "Farren Blackburn",
+                  "written_by": "Neil Cross",
+                  "original_air_date": "2013-04-06",
+                  "missing": false,
+                  "enemies": ["Grandfather"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Cold War",
+              "description": "The Doctor faces an Ice Warrior on a submarine.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Cold War",
+                  "directed_by": "Douglas Mackinnon",
+                  "written_by": "Mark Gatiss",
+                  "original_air_date": "2013-04-13",
+                  "missing": false,
+                  "enemies": ["Ice Warrior"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Hide",
+              "description": "The Doctor and Clara investigate a haunted house.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Hide",
+                  "directed_by": "Jamie Payne",
+                  "written_by": "Neil Cross",
+                  "original_air_date": "2013-04-20",
+                  "missing": false,
+                  "enemies": ["Crooked Man"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Journey to the Centre of the TARDIS",
+              "description": "The Doctor and Clara are trapped inside the TARDIS.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Journey to the Centre of the TARDIS",
+                  "directed_by": "Mat King",
+                  "written_by": "Stephen Thompson",
+                  "original_air_date": "2013-04-27",
+                  "missing": false,
+                  "enemies": ["Time Zombies"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Crimson Horror",
+              "description": "The Doctor and Clara visit Victorian Yorkshire.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Crimson Horror",
+                  "directed_by": "Saul Metzstein",
+                  "written_by": "Mark Gatiss",
+                  "original_air_date": "2013-05-04",
+                  "missing": false,
+                  "enemies": ["Mrs. Gillyflower"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "Nightmare in Silver",
+              "description": "The Doctor and Clara visit a theme park and face the Cybermen.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Nightmare in Silver",
+                  "directed_by": "Stephen Woolfenden",
+                  "written_by": "Neil Gaiman",
+                  "original_air_date": "2013-05-11",
+                  "missing": false,
+                  "enemies": ["Cybermen"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Name of the Doctor",
+              "description": "The Doctor's greatest secret is revealed.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Name of the Doctor",
+                  "directed_by": "Saul Metzstein",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2013-05-18",
+                  "missing": false,
+                  "enemies": ["Great Intelligence"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": "Specials",
+          "episodes": [
+            {
+              "serial_title": "The Day of the Doctor",
+              "description": "The Doctor faces his past selves in the Time War.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "50th Anniversary - The Day of the Doctor",
+                  "directed_by": "Nick Hurran",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2013-11-23",
+                  "missing": false,
+                  "enemies": ["Daleks", "Zygons"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Time of the Doctor",
+              "description": "The Doctor's final battle and his regeneration.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Time of the Doctor",
+                  "directed_by": "Jamie Payne",
+                  "written_by": "Steven Moffat",
+                  "original_air_date": "2013-12-25",
+                  "missing": false,
+                  "enemies": ["Daleks", "Cybermen", "Silence"],
+                  "companions": ["Clara Oswald"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

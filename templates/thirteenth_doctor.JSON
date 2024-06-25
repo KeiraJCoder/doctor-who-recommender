@@ -1,0 +1,486 @@
+[{
+    "actor": "Jodie Whittaker",
+    "description": "The Thirteenth Doctor was portrayed by Jodie Whittaker. Chris Chibnall took over as showrunner from the eleventh series. For series 11, the episode count was reduced from twelve to ten with each episode's runtime increasing by five minutes. The Thirteenth Doctor initially searched for her lost TARDIS, inadvertently bringing her companions with her on her travels, who contemplated returning to their lives but decided to continue travelling. The series also dealt with grief. The time slot was changed to Sunday.",
+    "image": "images/jodie-whittaker.jpg",
+    "years_active": "2018–2022",
+    "seasons": [
+      {
+        "season": 11,
+        "episodes": [
+          {
+            "serial_title": "The Woman Who Fell to Earth",
+            "description": "The Thirteenth Doctor falls to Earth and meets her new companions.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Woman Who Fell to Earth",
+                "directed_by": "Jamie Childs",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2018-10-07",
+                "missing": false,
+                "enemies": ["Tim Shaw"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Ghost Monument",
+            "description": "The Doctor and her friends search for the TARDIS on a hostile planet.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Ghost Monument",
+                "directed_by": "Mark Tonderai",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2018-10-14",
+                "missing": false,
+                "enemies": ["The Remnants"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Rosa",
+            "description": "The Doctor and her friends travel to 1955 Alabama and meet Rosa Parks.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Rosa",
+                "directed_by": "Mark Tonderai",
+                "written_by": "Malorie Blackman and Chris Chibnall",
+                "original_air_date": "2018-10-21",
+                "missing": false,
+                "enemies": ["Krasko"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Arachnids in the UK",
+            "description": "The Doctor and her friends return to Sheffield and encounter giant spiders.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Arachnids in the UK",
+                "directed_by": "Sallie Aprahamian",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2018-10-28",
+                "missing": false,
+                "enemies": ["Giant Spiders"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Tsuranga Conundrum",
+            "description": "The Doctor and her friends are trapped on a hospital ship with a dangerous alien.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Tsuranga Conundrum",
+                "directed_by": "Jennifer Perrott",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2018-11-04",
+                "missing": false,
+                "enemies": ["Pting"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Demons of the Punjab",
+            "description": "The Doctor and her friends visit 1947 Punjab during the partition of India.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Demons of the Punjab",
+                "directed_by": "Jamie Childs",
+                "written_by": "Vinay Patel",
+                "original_air_date": "2018-11-11",
+                "missing": false,
+                "enemies": ["Thijarians"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Kerblam!",
+            "description": "The Doctor and her friends investigate a mystery at a galactic delivery company.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Kerblam!",
+                "directed_by": "Jennifer Perrott",
+                "written_by": "Pete McTighe",
+                "original_air_date": "2018-11-18",
+                "missing": false,
+                "enemies": ["Kerblam! Man"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Witchfinders",
+            "description": "The Doctor and her friends visit 17th century England during the witch trials.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Witchfinders",
+                "directed_by": "Sallie Aprahamian",
+                "written_by": "Joy Wilkinson",
+                "original_air_date": "2018-11-25",
+                "missing": false,
+                "enemies": ["Morax"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "It Takes You Away",
+            "description": "The Doctor and her friends investigate a deserted cottage in Norway.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "It Takes You Away",
+                "directed_by": "Jamie Childs",
+                "written_by": "Ed Hime",
+                "original_air_date": "2018-12-02",
+                "missing": false,
+                "enemies": ["The Solitract"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Battle of Ranskoor Av Kolos",
+            "description": "The Doctor and her friends face off against Tim Shaw again.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Battle of Ranskoor Av Kolos",
+                "directed_by": "Jamie Childs",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2018-12-09",
+                "missing": false,
+                "enemies": ["Tim Shaw"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 12,
+        "episodes": [
+          {
+            "serial_title": "Spyfall",
+            "description": "The Doctor and her friends face a global conspiracy involving alien spies.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Spyfall, Part 1",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2020-01-01",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              },
+              {
+                "title": "Spyfall, Part 2",
+                "directed_by": "Lee Haven Jones",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2020-01-05",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Orphan 55",
+            "description": "The Doctor and her friends visit a luxury resort that hides a deadly secret.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Orphan 55",
+                "directed_by": "Lee Haven Jones",
+                "written_by": "Ed Hime",
+                "original_air_date": "2020-01-12",
+                "missing": false,
+                "enemies": ["Dregs"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Nikola Tesla's Night of Terror",
+            "description": "The Doctor meets Nikola Tesla and faces an alien threat.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Nikola Tesla's Night of Terror",
+                "directed_by": "Nida Manzoor",
+                "written_by": "Nina Metivier",
+                "original_air_date": "2020-01-19",
+                "missing": false,
+                "enemies": ["Queen Skithra"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Fugitive of the Judoon",
+            "description": "The Doctor encounters a mysterious fugitive and the Judoon.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Fugitive of the Judoon",
+                "directed_by": "Nida Manzoor",
+                "written_by": "Vinay Patel and Chris Chibnall",
+                "original_air_date": "2020-01-26",
+                "missing": false,
+                "enemies": ["Judoon"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Praxeus",
+            "description": "The Doctor investigates a deadly global infection.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Praxeus",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Pete McTighe and Chris Chibnall",
+                "original_air_date": "2020-02-02",
+                "missing": false,
+                "enemies": ["Praxeus"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Can You Hear Me?",
+            "description": "The Doctor and her friends face an ancient being that feeds on nightmares.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Can You Hear Me?",
+                "directed_by": "Emma Sullivan",
+                "written_by": "Charlene James and Chris Chibnall",
+                "original_air_date": "2020-02-09",
+                "missing": false,
+                "enemies": ["Zellin"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Haunting of Villa Diodati",
+            "description": "The Doctor and her friends visit Mary Shelley's villa and face a lone Cyberman.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Haunting of Villa Diodati",
+                "directed_by": "Emma Sullivan",
+                "written_by": "Maxine Alderton",
+                "original_air_date": "2020-02-16",
+                "missing": false,
+                "enemies": ["Ashad"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Ascension of the Cybermen",
+            "description": "The Doctor and her friends face the Cybermen in the far future.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Ascension of the Cybermen",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2020-02-23",
+                "missing": false,
+                "enemies": ["Cybermen"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Timeless Children",
+            "description": "The Doctor uncovers the truth about her origins.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Timeless Children",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2020-03-01",
+                "missing": false,
+                "enemies": ["The Master", "Cybermen"],
+                "companions": ["Graham O'Brien", "Ryan Sinclair", "Yasmin Khan"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 13,
+        "episodes": [
+          {
+            "serial_title": "The Halloween Apocalypse",
+            "description": "The Doctor and Yaz face the universe-ending Flux.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Halloween Apocalypse",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2021-10-31",
+                "missing": false,
+                "enemies": ["Swarm"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "War of the Sontarans",
+            "description": "The Doctor and her friends face the Sontarans in the Crimean War.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "War of the Sontarans",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2021-11-07",
+                "missing": false,
+                "enemies": ["Sontarans"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Once, Upon Time",
+            "description": "The Doctor faces the Ravagers and her own past.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Once, Upon Time",
+                "directed_by": "Azhur Saleem",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2021-11-14",
+                "missing": false,
+                "enemies": ["Ravagers"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Village of the Angels",
+            "description": "The Doctor and her friends face the Weeping Angels.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Village of the Angels",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall and Maxine Alderton",
+                "original_air_date": "2021-11-21",
+                "missing": false,
+                "enemies": ["Weeping Angels"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Survivors of the Flux",
+            "description": "The Doctor and her friends uncover the secrets of the Division.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Survivors of the Flux",
+                "directed_by": "Azhur Saleem",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2021-11-28",
+                "missing": false,
+                "enemies": ["Grand Serpent"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Vanquishers",
+            "description": "The Doctor faces the final battle against the Flux.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Vanquishers",
+                "directed_by": "Azhur Saleem",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2021-12-05",
+                "missing": false,
+                "enemies": ["Swarm", "Azure"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": "Specials",
+        "episodes": [
+          {
+            "serial_title": "Eve of the Daleks",
+            "description": "The Doctor faces a time loop with the Daleks.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Eve of the Daleks",
+                "directed_by": "Annetta Laufer",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2022-01-01",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Legend of the Sea Devils",
+            "description": "The Doctor and her friends face the Sea Devils.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Legend of the Sea Devils",
+                "directed_by": "Haolu Wang",
+                "written_by": "Ella Road and Chris Chibnall",
+                "original_air_date": "2022-04-17",
+                "missing": false,
+                "enemies": ["Sea Devils"],
+                "companions": ["Yasmin Khan", "Dan Lewis"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Power of the Doctor",
+            "description": "The Doctor faces multiple enemies in her final battle.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Power of the Doctor",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2022-10-23",
+                "missing": false,
+                "enemies": ["Daleks", "Cybermen", "The Master"],
+                "companions": ["Yasmin Khan", "Dan Lewis", "Ace", "Tegan Jovanka"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

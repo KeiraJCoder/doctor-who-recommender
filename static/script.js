@@ -10,6 +10,8 @@ document.addEventListener("DOMContentLoaded", () => {
   let eighthDoctorData = [];
   let ninthDoctorData = [];
   let tenthDoctorData = [];
+  let eleventhDoctorData = [];
+  let twelthDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -157,7 +159,7 @@ document.addEventListener("DOMContentLoaded", () => {
   })
   .catch(error => console.error("Error loading ninth doctor data:", error));
 
-    // Fetch and process data for the ninth doctor
+    // Fetch and process data for the tenth doctor
     fetch('templates/tenth_doctor.JSON')
     .then(response => response.json())
     .then(data => {
@@ -172,6 +174,86 @@ document.addEventListener("DOMContentLoaded", () => {
       };
     })
     .catch(error => console.error("Error loading tenth doctor data:", error));
+
+        // Fetch and process data for the eleventh doctor
+        fetch('templates/eleventh_doctor.JSON')
+        .then(response => response.json())
+        .then(data => {
+          eleventhDoctorData = processDoctorData(data[0], '11th');
+          storylines = [...storylines, ...extractStorylines(data[0])];
+          populateStorylineDropdown('storyline', storylines);
+          doctorDetails['11th'] = {
+            name: data[0].actor,
+            description: data[0].description,
+            image: data[0].image,
+            years_active: data[0].years_active
+          };
+        })
+        .catch(error => console.error("Error loading eleventh doctor data:", error));
+
+        // Fetch and process data for the twelth doctor
+        fetch('templates/twelth_doctor.JSON')
+        .then(response => response.json())
+        .then(data => {
+          twelthDoctorData = processDoctorData(data[0], '12th');
+          storylines = [...storylines, ...extractStorylines(data[0])];
+          populateStorylineDropdown('storyline', storylines);
+          doctorDetails['12th'] = {
+            name: data[0].actor,
+            description: data[0].description,
+            image: data[0].image,
+            years_active: data[0].years_active
+          };
+        })
+        .catch(error => console.error("Error loading twelth doctor data:", error));
+
+      // Fetch and process data for the thirteenth doctor
+      fetch('templates/thirteenth_doctor.JSON')
+      .then(response => response.json())
+      .then(data => {
+        thirteenthDoctorData = processDoctorData(data[0], '13th');
+        storylines = [...storylines, ...extractStorylines(data[0])];
+        populateStorylineDropdown('storyline', storylines);
+        doctorDetails['13th'] = {
+          name: data[0].actor,
+          description: data[0].description,
+          image: data[0].image,
+          years_active: data[0].years_active
+        };
+      })
+      .catch(error => console.error("Error loading thirteenth doctor data:", error));
+
+      // Fetch and process data for the thirteenth doctor
+      fetch('templates/fourteenth_doctor.JSON')
+      .then(response => response.json())
+      .then(data => {
+        fourteenthDoctorData = processDoctorData(data[0], '14th');
+        storylines = [...storylines, ...extractStorylines(data[0])];
+        populateStorylineDropdown('storyline', storylines);
+        doctorDetails['14th'] = {
+          name: data[0].actor,
+          description: data[0].description,
+          image: data[0].image,
+          years_active: data[0].years_active
+        };
+      })
+      .catch(error => console.error("Error loading fourteenth doctor data:", error));
+
+      // Fetch and process data for the thirteenth doctor
+      fetch('templates/fifteenth_doctor.JSON')
+      .then(response => response.json())
+      .then(data => {
+        fifteenthDoctorData = processDoctorData(data[0], '15th');
+        storylines = [...storylines, ...extractStorylines(data[0])];
+        populateStorylineDropdown('storyline', storylines);
+        doctorDetails['15th'] = {
+          name: data[0].actor,
+          description: data[0].description,
+          image: data[0].image,
+          years_active: data[0].years_active
+        };
+      })
+      .catch(error => console.error("Error loading fifteenth doctor data:", error));
 
   function processDoctorData(data, doctor) {
     try {
@@ -292,8 +374,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function filterOptions() {
-    const classicWho = document.getElementById("classicWho").checked;
-    const modernWho = document.getElementById("modernWho").checked;
     const doctor = document.getElementById("doctor").value.toLowerCase();
     const season = document.getElementById("season").value.toLowerCase();
     const writer = document.getElementById("writer").value.toLowerCase();
@@ -304,12 +384,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const companion = document.getElementById("companion").value.toLowerCase();
 
     let filteredData = allData;
-
-    if (classicWho && !modernWho) {
-      filteredData = filteredData.filter(episode => episode.year < 2005);
-    } else if (!classicWho && modernWho) {
-      filteredData = filteredData.filter(episode => episode.year >= 2005);
-    }
 
     if (doctor === "1st") {
       filteredData = firstDoctorData;
@@ -331,24 +405,31 @@ document.addEventListener("DOMContentLoaded", () => {
       filteredData = ninthDoctorData;
     } else if (doctor === "10th") {
       filteredData = tenthDoctorData;
+    } else if (doctor === "11th") {
+      filteredData = eleventhDoctorData;
+    } else if (doctor === "12th") {
+      filteredData = twelthDoctorData;
+    } else if (doctor === "13th") {
+      filteredData = thirteenthDoctorData;
+    } else if (doctor === "14th") {
+      filteredData = fourteenthDoctorData;
+    } else if (doctor === "15th") {
+      filteredData = fifteenthDoctorData;
     }
 
     if (doctor === "") {
       filteredData = [];
     }
 
-    const results = filteredData.filter(episode => {
-      const isClassicWho = new Date(episode.originalAirDate).getFullYear() < 2005;
-
-      return (!classicWho || isClassicWho) &&
-        (season === "" || episode.season.toString().toLowerCase().includes(season)) &&
-        (writer === "" || episode.writtenBy.toLowerCase().includes(writer)) &&
-        (director === "" || episode.directedBy.toLowerCase().includes(director)) &&
-        (year === "" || episode.year.toString().toLowerCase().includes(year)) &&
-        (enemy === "" || episode.enemies.some(e => e.toLowerCase().includes(enemy))) &&
-        (storyline === "" || episode.storyTitle.toLowerCase() === storyline) &&
-        (companion === "" || episode.companions.some(c => c.toLowerCase().includes(companion)));
-    });
+    const results = filteredData.filter(episode =>
+      (season === "" || episode.season.toString().toLowerCase().includes(season)) &&
+      (writer === "" || episode.writtenBy.toLowerCase().includes(writer)) &&
+      (director === "" || episode.directedBy.toLowerCase().includes(director)) &&
+      (year === "" || episode.year.toString().toLowerCase().includes(year)) &&
+      (enemy === "" || episode.enemies.some(e => e.toLowerCase().includes(enemy))) &&
+      (storyline === "" || episode.storyTitle.toLowerCase() === storyline) &&
+      (companion === "" || episode.companions.some(c => c.toLowerCase().includes(companion)))
+    );
 
     displayResults(results);
     updateDropdowns(results);
@@ -460,8 +541,17 @@ document.addEventListener("DOMContentLoaded", () => {
       relevantData = ninthDoctorData;
     } else if (doctor === "10th") {
       relevantData = tenthDoctorData;
+    } else if (doctor === "11th") {
+      relevantData = eleventhDoctorData;
+    } else if (doctor === "12th") {
+      relevantData = twelthDoctorData;
+    } else if (doctor === "13th") {
+      relevantData = thirteenthDoctorData;
+    } else if (doctor === "14th") {
+      relevantData = fourteenthDoctorData;
+    } else if (doctor === "15th") {
+      relevantData = fifteenthDoctorData;
     }
-
 
     if (doctor === "") {
       relevantData = [];

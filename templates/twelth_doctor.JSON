@@ -1,0 +1,620 @@
+[{
+    "actor": "Peter Capaldi",
+    "description": "The Twelfth Doctor, portrayed by Peter Capaldi, brought a darker, more introspective tone to the series. Known for his intense demeanor and sharp wit, Capaldi's Doctor navigated complex moral dilemmas and deep personal conflicts. The series during his tenure explored themes of identity, redemption, and the consequences of the Doctor's actions, with notable arcs involving Missy, the Hybrid, and the Doctor's relationship with Clara and Bill.",
+    "image": "images/peter-capaldi.jpg",
+    "years_active": "2014–2017",
+    "seasons": [
+      {
+        "season": 8,
+        "episodes": [
+          {
+            "serial_title": "Deep Breath",
+            "description": "The newly regenerated Doctor struggles to find himself while investigating a series of murders in Victorian London.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Deep Breath",
+                "directed_by": "Ben Wheatley",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2014-08-23",
+                "missing": false,
+                "enemies": ["Clockwork Droids"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Into the Dalek",
+            "description": "The Doctor and Clara are miniaturized and sent inside a Dalek.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Into the Dalek",
+                "directed_by": "Ben Wheatley",
+                "written_by": "Phil Ford and Steven Moffat",
+                "original_air_date": "2014-08-30",
+                "missing": false,
+                "enemies": ["Daleks"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Robot of Sherwood",
+            "description": "The Doctor and Clara meet Robin Hood and discover a conspiracy involving robots.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Robot of Sherwood",
+                "directed_by": "Paul Murphy",
+                "written_by": "Mark Gatiss",
+                "original_air_date": "2014-09-06",
+                "missing": false,
+                "enemies": ["Robots"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Listen",
+            "description": "The Doctor investigates a mysterious creature that hides under the bed.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Listen",
+                "directed_by": "Douglas Mackinnon",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2014-09-13",
+                "missing": false,
+                "enemies": ["None"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Time Heist",
+            "description": "The Doctor and Clara are forced to rob the most secure bank in the universe.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Time Heist",
+                "directed_by": "Douglas Mackinnon",
+                "written_by": "Stephen Thompson and Steven Moffat",
+                "original_air_date": "2014-09-20",
+                "missing": false,
+                "enemies": ["The Teller"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Caretaker",
+            "description": "The Doctor goes undercover as a school caretaker to thwart an alien threat.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Caretaker",
+                "directed_by": "Paul Murphy",
+                "written_by": "Gareth Roberts and Steven Moffat",
+                "original_air_date": "2014-09-27",
+                "missing": false,
+                "enemies": ["Skovox Blitzer"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Kill the Moon",
+            "description": "The Doctor and Clara must decide the fate of a moon that is revealed to be an egg about to hatch.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Kill the Moon",
+                "directed_by": "Paul Wilmshurst",
+                "written_by": "Peter Harness",
+                "original_air_date": "2014-10-04",
+                "missing": false,
+                "enemies": ["Germ Spiders"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Mummy on the Orient Express",
+            "description": "The Doctor and Clara investigate a series of murders on a space-bound train.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Mummy on the Orient Express",
+                "directed_by": "Paul Wilmshurst",
+                "written_by": "Jamie Mathieson",
+                "original_air_date": "2014-10-11",
+                "missing": false,
+                "enemies": ["The Foretold"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Flatline",
+            "description": "Clara must take on the role of the Doctor when he is trapped in a shrinking TARDIS.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Flatline",
+                "directed_by": "Douglas Mackinnon",
+                "written_by": "Jamie Mathieson",
+                "original_air_date": "2014-10-18",
+                "missing": false,
+                "enemies": ["The Boneless"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "In the Forest of the Night",
+            "description": "A forest grows overnight covering the entire Earth, and the Doctor must find out why.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "In the Forest of the Night",
+                "directed_by": "Sheree Folkson",
+                "written_by": "Frank Cottrell-Boyce",
+                "original_air_date": "2014-10-25",
+                "missing": false,
+                "enemies": ["None"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Dark Water / Death in Heaven",
+            "description": "The Doctor and Clara face the Cybermen and the revelation of Missy's true identity.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Dark Water",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2014-11-01",
+                "missing": false,
+                "enemies": ["Cybermen", "Missy"],
+                "companions": ["Clara Oswald"]
+              },
+              {
+                "title": "Death in Heaven",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2014-11-08",
+                "missing": false,
+                "enemies": ["Cybermen", "Missy"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 9,
+        "episodes": [
+          {
+            "serial_title": "The Magician's Apprentice / The Witch's Familiar",
+            "description": "The Doctor confronts an old foe on the planet Skaro.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Magician's Apprentice",
+                "directed_by": "Hettie MacDonald",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2015-09-19",
+                "missing": false,
+                "enemies": ["Davros", "Daleks"],
+                "companions": ["Clara Oswald", "Missy"]
+              },
+              {
+                "title": "The Witch's Familiar",
+                "directed_by": "Hettie MacDonald",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2015-09-26",
+                "missing": false,
+                "enemies": ["Davros", "Daleks"],
+                "companions": ["Clara Oswald", "Missy"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Under the Lake / Before the Flood",
+            "description": "The Doctor and Clara face ghosts in an underwater base.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Under the Lake",
+                "directed_by": "Daniel O'Hara",
+                "written_by": "Toby Whithouse",
+                "original_air_date": "2015-10-03",
+                "missing": false,
+                "enemies": ["The Fisher King"],
+                "companions": ["Clara Oswald"]
+              },
+              {
+                "title": "Before the Flood",
+                "directed_by": "Daniel O'Hara",
+                "written_by": "Toby Whithouse",
+                "original_air_date": "2015-10-10",
+                "missing": false,
+                "enemies": ["The Fisher King"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Girl Who Died / The Woman Who Lived",
+            "description": "The Doctor meets Ashildr, a Viking girl who becomes immortal.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Girl Who Died",
+                "directed_by": "Ed Bazalgette",
+                "written_by": "Jamie Mathieson and Steven Moffat",
+                "original_air_date": "2015-10-17",
+                "missing": false,
+                "enemies": ["Mire"],
+                "companions": ["Clara Oswald"]
+              },
+              {
+                "title": "The Woman Who Lived",
+                "directed_by": "Ed Bazalgette",
+                "written_by": "Catherine Tregenna",
+                "original_air_date": "2015-10-24",
+                "missing": false,
+                "enemies": ["Leandro"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Zygon Invasion / The Zygon Inversion",
+            "description": "The Doctor and Osgood face a Zygon rebellion.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "The Zygon Invasion",
+                "directed_by": "Daniel Nettheim",
+                "written_by": "Peter Harness",
+                "original_air_date": "2015-10-31",
+                "missing": false,
+                "enemies": ["Zygons"],
+                "companions": ["Clara Oswald"]
+              },
+              {
+                "title": "The Zygon Inversion",
+                "directed_by": "Daniel Nettheim",
+                "written_by": "Peter Harness and Steven Moffat",
+                "original_air_date": "2015-11-07",
+                "missing": false,
+                "enemies": ["Zygons"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Sleep No More",
+            "description": "The Doctor and Clara encounter the Sandmen, creatures formed from sleep dust.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Sleep No More",
+                "directed_by": "Justin Molotnikov",
+                "written_by": "Mark Gatiss",
+                "original_air_date": "2015-11-14",
+                "missing": false,
+                "enemies": ["Sandmen"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Face the Raven",
+            "description": "Clara faces her fate in a hidden street in London.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Face the Raven",
+                "directed_by": "Justin Molotnikov",
+                "written_by": "Sarah Dollard",
+                "original_air_date": "2015-11-21",
+                "missing": false,
+                "enemies": ["Ashildr"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Heaven Sent / Hell Bent",
+            "description": "The Doctor faces a series of trials in a mysterious castle and returns to Gallifrey to confront the Time Lords.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "Heaven Sent",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2015-11-28",
+                "missing": false,
+                "enemies": ["Veil"],
+                "companions": ["None"]
+              },
+              {
+                "title": "Hell Bent",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2015-12-05",
+                "missing": false,
+                "enemies": ["Time Lords"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": 10,
+        "episodes": [
+          {
+            "serial_title": "The Pilot",
+            "description": "The Doctor meets Bill Potts and faces a mysterious creature made of water.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Pilot",
+                "directed_by": "Lawrence Gough",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2017-04-15",
+                "missing": false,
+                "enemies": ["The Pilot"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Smile",
+            "description": "The Doctor and Bill visit a human colony where happiness is mandatory.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Smile",
+                "directed_by": "Lawrence Gough",
+                "written_by": "Frank Cottrell-Boyce",
+                "original_air_date": "2017-04-22",
+                "missing": false,
+                "enemies": ["Emojibots"],
+                "companions": ["Bill Potts"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Thin Ice",
+            "description": "The Doctor and Bill visit the 1814 Frost Fair and discover a creature beneath the Thames.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Thin Ice",
+                "directed_by": "Bill Anderson",
+                "written_by": "Sarah Dollard",
+                "original_air_date": "2017-04-29",
+                "missing": false,
+                "enemies": ["None"],
+                "companions": ["Bill Potts"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Knock Knock",
+            "description": "The Doctor and Bill investigate a creepy house with a dark secret.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Knock Knock",
+                "directed_by": "Bill Anderson",
+                "written_by": "Mike Bartlett",
+                "original_air_date": "2017-05-06",
+                "missing": false,
+                "enemies": ["Dryads"],
+                "companions": ["Bill Potts"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Oxygen",
+            "description": "The Doctor, Bill, and Nardole face a crisis on a space station where oxygen is sold as a commodity.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Oxygen",
+                "directed_by": "Charles Palmer",
+                "written_by": "Jamie Mathieson",
+                "original_air_date": "2017-05-13",
+                "missing": false,
+                "enemies": ["Zombies"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Extremis",
+            "description": "The Doctor uncovers a shocking truth about the nature of reality.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Extremis",
+                "directed_by": "Daniel Nettheim",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2017-05-20",
+                "missing": false,
+                "enemies": ["Monks"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Pyramid at the End of the World",
+            "description": "The Doctor, Bill, and Nardole face an ancient pyramid and a global crisis.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Pyramid at the End of the World",
+                "directed_by": "Daniel Nettheim",
+                "written_by": "Peter Harness and Steven Moffat",
+                "original_air_date": "2017-05-27",
+                "missing": false,
+                "enemies": ["Monks"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Lie of the Land",
+            "description": "The Doctor and Bill face a world where the Monks have taken control.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Lie of the Land",
+                "directed_by": "Wayne Yip",
+                "written_by": "Toby Whithouse",
+                "original_air_date": "2017-06-03",
+                "missing": false,
+                "enemies": ["Monks"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Empress of Mars",
+            "description": "The Doctor and Bill encounter Ice Warriors on Mars.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Empress of Mars",
+                "directed_by": "Wayne Yip",
+                "written_by": "Mark Gatiss",
+                "original_air_date": "2017-06-10",
+                "missing": false,
+                "enemies": ["Ice Warriors"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Eaters of Light",
+            "description": "The Doctor and Bill face an ancient creature in Roman Britain.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Eaters of Light",
+                "directed_by": "Charles Palmer",
+                "written_by": "Rona Munro",
+                "original_air_date": "2017-06-17",
+                "missing": false,
+                "enemies": ["Eater of Light"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "World Enough and Time / The Doctor Falls",
+            "description": "The Doctor faces the Cybermen and a confrontation with Missy.",
+            "number_of_episodes": 2,
+            "episodes": [
+              {
+                "title": "World Enough and Time",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2017-06-24",
+                "missing": false,
+                "enemies": ["Cybermen", "Missy"],
+                "companions": ["Bill Potts", "Nardole"]
+              },
+              {
+                "title": "The Doctor Falls",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2017-07-01",
+                "missing": false,
+                "enemies": ["Cybermen", "Missy"],
+                "companions": ["Bill Potts", "Nardole"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "season": "Specials",
+        "episodes": [
+          {
+            "serial_title": "Last Christmas",
+            "description": "The Doctor and Clara face a terrifying encounter on Christmas Day.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Last Christmas",
+                "directed_by": "Paul Wilmshurst",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2014-12-25",
+                "missing": false,
+                "enemies": ["Dream Crabs"],
+                "companions": ["Clara Oswald"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Husbands of River Song",
+            "description": "The Doctor reunites with River Song for an epic adventure.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Husbands of River Song",
+                "directed_by": "Douglas Mackinnon",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2015-12-25",
+                "missing": false,
+                "enemies": ["Hydroflax"],
+                "companions": ["River Song"]
+              }
+            ]
+          },
+          {
+            "serial_title": "The Return of Doctor Mysterio",
+            "description": "The Doctor teams up with a superhero in New York City.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Return of Doctor Mysterio",
+                "directed_by": "Ed Bazalgette",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2016-12-25",
+                "missing": false,
+                "enemies": ["Harmony Shoal"],
+                "companions": ["Nardole"]
+              }
+            ]
+          },
+          {
+            "serial_title": "Twice Upon a Time",
+            "description": "The Twelfth Doctor's final adventure, featuring the First Doctor.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Twice Upon a Time",
+                "directed_by": "Rachel Talalay",
+                "written_by": "Steven Moffat",
+                "original_air_date": "2017-12-25",
+                "missing": false,
+                "enemies": ["Glass Avatars"],
+                "companions": ["First Doctor", "Bill Potts"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+  
