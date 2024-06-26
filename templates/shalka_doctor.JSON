@@ -2,7 +2,8 @@
     {
         "doctor": "Shalka Doctor",
         "actor": "Richard E. Grant",
-        "description": "Richard E. Grant voiced the Doctor in the animated serial 'Scream of the Shalka'.",
+        "description": "Richard E. Grant voiced the Doctor in the animated serial 'Scream of the Shalka'. Initially, this version of the Doctor was not part of the official continuity, but it was later made canon in the 2024 episode 'Rogue'.",
+
         "image": "images/Shalka_Doctor.webp",
         "years_active": "2003",
         "seasons": [
