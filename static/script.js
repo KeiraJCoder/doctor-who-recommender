@@ -133,38 +133,38 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Fetch and process data for the eighth doctor
   fetch('templates/eighth_doctor.JSON')
-  .then(response => response.json())
-  .then(data => {
-    eighthDoctorData = processDoctorData(data[0], '8th');
-    storylines = extractStorylines(data[0], storylines);
-    populateStorylineDropdown('storyline', storylines);
-    doctorDetails['8th'] = {
-      name: data[0].actor,
-      description: data[0].description,
-      image: data[0].image,
-      years_active: data[0].years_active
-    };
-  })
-  .catch(error => console.error("Error loading eighth doctor data:", error));
+    .then(response => response.json())
+    .then(data => {
+      eighthDoctorData = processDoctorData(data[0], '8th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['8th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading eighth doctor data:", error));
 
   // Fetch and process data for the ninth doctor
   fetch('templates/ninth_doctor.JSON')
-  .then(response => response.json())
-  .then(data => {
-    ninthDoctorData = processDoctorData(data[0], '9th');
-    storylines = extractStorylines(data[0], storylines);
-    populateStorylineDropdown('storyline', storylines);
-    doctorDetails['9th'] = {
-      name: data[0].actor,
-      description: data[0].description,
-      image: data[0].image,
-      years_active: data[0].years_active
-    };
-  })
-  .catch(error => console.error("Error loading ninth doctor data:", error));
+    .then(response => response.json())
+    .then(data => {
+      ninthDoctorData = processDoctorData(data[0], '9th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['9th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading ninth doctor data:", error));
 
-    // Fetch and process data for the tenth doctor
-    fetch('templates/tenth_doctor.JSON')
+  // Fetch and process data for the tenth doctor
+  fetch('templates/tenth_doctor.JSON')
     .then(response => response.json())
     .then(data => {
       tenthDoctorData = processDoctorData(data[0], '10th');
@@ -179,101 +179,101 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(error => console.error("Error loading tenth doctor data:", error));
 
-        // Fetch and process data for the eleventh doctor
-        fetch('templates/eleventh_doctor.JSON')
-        .then(response => response.json())
-        .then(data => {
-          eleventhDoctorData = processDoctorData(data[0], '11th');
-          storylines = extractStorylines(data[0], storylines);
-          populateStorylineDropdown('storyline', storylines);
-          doctorDetails['11th'] = {
-            name: data[0].actor,
-            description: data[0].description,
-            image: data[0].image,
-            years_active: data[0].years_active
-          };
-        })
-        .catch(error => console.error("Error loading eleventh doctor data:", error));
+  // Fetch and process data for the eleventh doctor
+  fetch('templates/eleventh_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      eleventhDoctorData = processDoctorData(data[0], '11th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['11th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading eleventh doctor data:", error));
 
-        // Fetch and process data for the twelfth doctor
-        fetch('templates/twelfth_doctor.JSON')
-        .then(response => response.json())
-        .then(data => {
-          twelfthDoctorData = processDoctorData(data[0], '12th');
-          storylines = extractStorylines(data[0], storylines);
-          populateStorylineDropdown('storyline', storylines);
-          doctorDetails['12th'] = {
-            name: data[0].actor,
-            description: data[0].description,
-            image: data[0].image,
-            years_active: data[0].years_active
-          };
-        })
-        .catch(error => console.error("Error loading twelfth doctor data:", error));
+  // Fetch and process data for the twelfth doctor
+  fetch('templates/twelfth_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      twelfthDoctorData = processDoctorData(data[0], '12th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['12th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading twelfth doctor data:", error));
 
-      // Fetch and process data for the thirteenth doctor
-      fetch('templates/thirteenth_doctor.JSON')
-      .then(response => response.json())
-      .then(data => {
-        thirteenthDoctorData = processDoctorData(data[0], '13th');
-        storylines = extractStorylines(data[0], storylines);
-        populateStorylineDropdown('storyline', storylines);
-        doctorDetails['13th'] = {
-          name: data[0].actor,
-          description: data[0].description,
-          image: data[0].image,
-          years_active: data[0].years_active
-        };
-      })
-      .catch(error => console.error("Error loading thirteenth doctor data:", error));
+  // Fetch and process data for the thirteenth doctor
+  fetch('templates/thirteenth_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      thirteenthDoctorData = processDoctorData(data[0], '13th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['13th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading thirteenth doctor data:", error));
 
-      // Fetch and process data for the thirteenth doctor
-      fetch('templates/fourteenth_doctor.JSON')
-      .then(response => response.json())
-      .then(data => {
-        fourteenthDoctorData = processDoctorData(data[0], '14th');
-        storylines = extractStorylines(data[0], storylines);
-        populateStorylineDropdown('storyline', storylines);
-        doctorDetails['14th'] = {
-          name: data[0].actor,
-          description: data[0].description,
-          image: data[0].image,
-          years_active: data[0].years_active
-        };
-      })
-      .catch(error => console.error("Error loading fourteenth doctor data:", error));
+  // Fetch and process data for the fourteenth doctor
+  fetch('templates/fourteenth_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      fourteenthDoctorData = processDoctorData(data[0], '14th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['14th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading fourteenth doctor data:", error));
 
-      // Fetch and process data for the fifteenth doctor
-      fetch('templates/fifteenth_doctor.JSON')
-      .then(response => response.json())
-      .then(data => {
-        fifteenthDoctorData = processDoctorData(data[0], '15th');
-        storylines = extractStorylines(data[0], storylines);
-        populateStorylineDropdown('storyline', storylines);
-        doctorDetails['15th'] = {
-          name: data[0].actor,
-          description: data[0].description,
-          image: data[0].image,
-          years_active: data[0].years_active
-        };
-      })
-      .catch(error => console.error("Error loading fifteenth doctor data:", error));
+  // Fetch and process data for the fifteenth doctor
+  fetch('templates/fifteenth_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      fifteenthDoctorData = processDoctorData(data[0], '15th');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['15th'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading fifteenth doctor data:", error));
 
-      // Fetch and process data for the War Doctor
-fetch('templates/war_doctor.JSON')
-.then(response => response.json())
-.then(data => {
-  warDoctorData = processDoctorData(data[0], 'War');
-  storylines = extractStorylines(data[0], storylines);
-  populateStorylineDropdown('storyline', storylines);
-  doctorDetails['War'] = {
-    name: data[0].actor,
-    description: data[0].description,
-    image: data[0].image,
-    years_active: data[0].years_active
-  };
-})
-.catch(error => console.error("Error loading War Doctor data:", error));
+  // Fetch and process data for the War Doctor
+  fetch('templates/war_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      warDoctorData = processDoctorData(data[0], 'war');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['war'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading War Doctor data:", error));
 
   function processDoctorData(data, doctor) {
     try {
