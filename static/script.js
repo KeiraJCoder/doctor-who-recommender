@@ -11,7 +11,11 @@ document.addEventListener("DOMContentLoaded", () => {
   let ninthDoctorData = [];
   let tenthDoctorData = [];
   let eleventhDoctorData = [];
-  let twelthDoctorData = [];
+  let twelfthDoctorData = [];
+  let thirteenthDoctorData = [];
+  let fourteenthDoctorData = [];
+  let fifteenthDoctorData = [];
+  let warDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -20,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       firstDoctorData = processDoctorData(data[0], '1st');
-      storylines = extractStorylines(data[0]);
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['1st'] = {
         name: data[0].actor,
@@ -36,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       secondDoctorData = processDoctorData(data[0], '2nd');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['2nd'] = {
         name: data[0].actor,
@@ -52,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       thirdDoctorData = processDoctorData(data[0], '3rd');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['3rd'] = {
         name: data[0].actor,
@@ -68,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       fourthDoctorData = processDoctorData(data[0], '4th');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['4th'] = {
         name: data[0].actor,
@@ -84,7 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       fifthDoctorData = processDoctorData(data[0], '5th');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['5th'] = {
         name: data[0].actor,
@@ -100,7 +104,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       sixthDoctorData = processDoctorData(data[0], '6th');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['6th'] = {
         name: data[0].actor,
@@ -116,7 +120,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       seventhDoctorData = processDoctorData(data[0], '7th');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['7th'] = {
         name: data[0].actor,
@@ -132,7 +136,7 @@ document.addEventListener("DOMContentLoaded", () => {
   .then(response => response.json())
   .then(data => {
     eighthDoctorData = processDoctorData(data[0], '8th');
-    storylines = [...storylines, ...extractStorylines(data[0])];
+    storylines = extractStorylines(data[0], storylines);
     populateStorylineDropdown('storyline', storylines);
     doctorDetails['8th'] = {
       name: data[0].actor,
@@ -148,7 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
   .then(response => response.json())
   .then(data => {
     ninthDoctorData = processDoctorData(data[0], '9th');
-    storylines = [...storylines, ...extractStorylines(data[0])];
+    storylines = extractStorylines(data[0], storylines);
     populateStorylineDropdown('storyline', storylines);
     doctorDetails['9th'] = {
       name: data[0].actor,
@@ -164,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
       tenthDoctorData = processDoctorData(data[0], '10th');
-      storylines = [...storylines, ...extractStorylines(data[0])];
+      storylines = extractStorylines(data[0], storylines);
       populateStorylineDropdown('storyline', storylines);
       doctorDetails['10th'] = {
         name: data[0].actor,
@@ -180,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(response => response.json())
         .then(data => {
           eleventhDoctorData = processDoctorData(data[0], '11th');
-          storylines = [...storylines, ...extractStorylines(data[0])];
+          storylines = extractStorylines(data[0], storylines);
           populateStorylineDropdown('storyline', storylines);
           doctorDetails['11th'] = {
             name: data[0].actor,
@@ -191,12 +195,12 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .catch(error => console.error("Error loading eleventh doctor data:", error));
 
-        // Fetch and process data for the twelth doctor
-        fetch('templates/twelth_doctor.JSON')
+        // Fetch and process data for the twelfth doctor
+        fetch('templates/twelfth_doctor.JSON')
         .then(response => response.json())
         .then(data => {
-          twelthDoctorData = processDoctorData(data[0], '12th');
-          storylines = [...storylines, ...extractStorylines(data[0])];
+          twelfthDoctorData = processDoctorData(data[0], '12th');
+          storylines = extractStorylines(data[0], storylines);
           populateStorylineDropdown('storyline', storylines);
           doctorDetails['12th'] = {
             name: data[0].actor,
@@ -205,14 +209,14 @@ document.addEventListener("DOMContentLoaded", () => {
             years_active: data[0].years_active
           };
         })
-        .catch(error => console.error("Error loading twelth doctor data:", error));
+        .catch(error => console.error("Error loading twelfth doctor data:", error));
 
       // Fetch and process data for the thirteenth doctor
       fetch('templates/thirteenth_doctor.JSON')
       .then(response => response.json())
       .then(data => {
         thirteenthDoctorData = processDoctorData(data[0], '13th');
-        storylines = [...storylines, ...extractStorylines(data[0])];
+        storylines = extractStorylines(data[0], storylines);
         populateStorylineDropdown('storyline', storylines);
         doctorDetails['13th'] = {
           name: data[0].actor,
@@ -228,7 +232,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .then(response => response.json())
       .then(data => {
         fourteenthDoctorData = processDoctorData(data[0], '14th');
-        storylines = [...storylines, ...extractStorylines(data[0])];
+        storylines = extractStorylines(data[0], storylines);
         populateStorylineDropdown('storyline', storylines);
         doctorDetails['14th'] = {
           name: data[0].actor,
@@ -239,12 +243,12 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .catch(error => console.error("Error loading fourteenth doctor data:", error));
 
-      // Fetch and process data for the thirteenth doctor
+      // Fetch and process data for the fifteenth doctor
       fetch('templates/fifteenth_doctor.JSON')
       .then(response => response.json())
       .then(data => {
         fifteenthDoctorData = processDoctorData(data[0], '15th');
-        storylines = [...storylines, ...extractStorylines(data[0])];
+        storylines = extractStorylines(data[0], storylines);
         populateStorylineDropdown('storyline', storylines);
         doctorDetails['15th'] = {
           name: data[0].actor,
@@ -254,6 +258,22 @@ document.addEventListener("DOMContentLoaded", () => {
         };
       })
       .catch(error => console.error("Error loading fifteenth doctor data:", error));
+
+      // Fetch and process data for the War Doctor
+fetch('templates/war_doctor.JSON')
+.then(response => response.json())
+.then(data => {
+  warDoctorData = processDoctorData(data[0], 'War');
+  storylines = extractStorylines(data[0], storylines);
+  populateStorylineDropdown('storyline', storylines);
+  doctorDetails['War'] = {
+    name: data[0].actor,
+    description: data[0].description,
+    image: data[0].image,
+    years_active: data[0].years_active
+  };
+})
+.catch(error => console.error("Error loading War Doctor data:", error));
 
   function processDoctorData(data, doctor) {
     try {
@@ -287,22 +307,31 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  function extractStorylines(data) {
+  function extractStorylines(data, existingStorylines) {
     try {
       if (!data || !data.seasons) {
         throw new Error('Data is not in the expected format.');
       }
 
-      return data.seasons.flatMap(season =>
+      const newStorylines = data.seasons.flatMap(season =>
         season.episodes.map(story => ({
           serial_title: story.serial_title,
           description: story.description,
           number_of_episodes: story.number_of_episodes
         }))
       );
+
+      const uniqueStorylines = [...existingStorylines];
+      newStorylines.forEach(storyline => {
+        if (!uniqueStorylines.some(s => s.serial_title === storyline.serial_title)) {
+          uniqueStorylines.push(storyline);
+        }
+      });
+
+      return uniqueStorylines;
     } catch (error) {
       console.error('Error extracting storylines:', error);
-      return [];
+      return existingStorylines;
     }
   }
 
@@ -408,13 +437,15 @@ document.addEventListener("DOMContentLoaded", () => {
     } else if (doctor === "11th") {
       filteredData = eleventhDoctorData;
     } else if (doctor === "12th") {
-      filteredData = twelthDoctorData;
+      filteredData = twelfthDoctorData;
     } else if (doctor === "13th") {
       filteredData = thirteenthDoctorData;
     } else if (doctor === "14th") {
       filteredData = fourteenthDoctorData;
     } else if (doctor === "15th") {
       filteredData = fifteenthDoctorData;
+    } else if (doctor === "war") {
+      filteredData = warDoctorData;
     }
 
     if (doctor === "") {
@@ -544,13 +575,15 @@ document.addEventListener("DOMContentLoaded", () => {
     } else if (doctor === "11th") {
       relevantData = eleventhDoctorData;
     } else if (doctor === "12th") {
-      relevantData = twelthDoctorData;
+      relevantData = twelfthDoctorData;
     } else if (doctor === "13th") {
       relevantData = thirteenthDoctorData;
     } else if (doctor === "14th") {
       relevantData = fourteenthDoctorData;
     } else if (doctor === "15th") {
       relevantData = fifteenthDoctorData;
+    } else if (doctor === "war") {
+      relevantData = warDoctorData;
     }
 
     if (doctor === "") {

@@ -1,0 +1,62 @@
+[{
+  "actor": "John Hurt",
+  "description": "John Hurt portrayed the War Doctor, a previously unknown incarnation of the Doctor who fought in the Time War. This incarnation was introduced by Steven Moffat and appeared in the special episodes celebrating the 50th anniversary of Doctor Who.",
+  "image": "images/John-Hurt.jpg",
+  "years_active": "2013",
+  "seasons": [
+    {
+      "season": "Specials",
+      "episodes": [
+        {
+          "serial_title": "The Name of the Doctor",
+          "description": "The Eleventh Doctor discovers the existence of a forgotten incarnation of himself, the War Doctor.",
+          "number_of_episodes": 1,
+          "episodes": [
+            {
+              "title": "The Name of the Doctor",
+              "directed_by": "Saul Metzstein",
+              "written_by": "Steven Moffat",
+              "original_air_date": "2013-05-18",
+              "missing": false,
+              "enemies": ["The Great Intelligence"],
+              "companions": ["Clara Oswald"]
+            }
+          ]
+        },
+        {
+          "serial_title": "The Night of the Doctor",
+          "description": "The Eighth Doctor encounters the Sisterhood of Karn and regenerates into the War Doctor to fight in the Time War.",
+          "number_of_episodes": 1,
+          "episodes": [
+            {
+              "title": "The Night of the Doctor",
+              "directed_by": "John Hayes",
+              "written_by": "Steven Moffat",
+              "original_air_date": "2013-11-14",
+              "missing": false,
+              "enemies": [],
+              "companions": []
+            }
+          ]
+        },
+        {
+          "serial_title": "The Day of the Doctor",
+          "description": "The War Doctor teams up with the Tenth and Eleventh Doctors to end the Time War and save Gallifrey.",
+          "number_of_episodes": 1,
+          "episodes": [
+            {
+              "title": "The Day of the Doctor",
+              "directed_by": "Nick Hurran",
+              "written_by": "Steven Moffat",
+              "original_air_date": "2013-11-23",
+              "missing": false,
+              "enemies": ["Daleks"],
+              "companions": ["Clara Oswald"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+]
