@@ -1,0 +1,116 @@
+[
+    {
+        "actor": "The Valeyard",
+        "description": "The Valeyard is an amalgamation of the darker sides of the Doctor's nature, a potential future incarnation who appears during the Sixth Doctor's era.",
+        "image": "images/The-Valeyard.webp",
+        "years_active": "1986",
+        "seasons": [
+          {
+            "season": "23",
+            "episodes": [
+              {
+                "serial_title": "The Trial of a Time Lord",
+                "description": "The Sixth Doctor is put on trial by the Time Lords, and the Valeyard serves as the prosecutor, representing the darker side of the Doctor.",
+                "number_of_episodes": 14,
+                "episodes": [
+                  {
+                    "title": "The Mysterious Planet",
+                    "directed_by": "Nicholas Mallett",
+                    "written_by": "Robert Holmes",
+                    "original_air_date": "1986-09-06",
+                    "missing": false,
+                    "enemies": ["The Valeyard"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Mindwarp",
+                    "directed_by": "Ron Jones",
+                    "written_by": "Philip Martin",
+                    "original_air_date": "1986-10-04",
+                    "missing": false,
+                    "enemies": ["The Valeyard"],
+                    "companions": ["Peri Brown"]
+                  },
+                  {
+                    "title": "Terror of the Vervoids",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Pip and Jane Baker",
+                    "original_air_date": "1986-11-01",
+                    "missing": false,
+                    "enemies": ["The Valeyard"],
+                    "companions": ["Mel Bush"]
+                  },
+                  {
+                    "title": "The Ultimate Foe",
+                    "directed_by": "Chris Clough",
+                    "written_by": "Robert Holmes and Pip and Jane Baker",
+                    "original_air_date": "1986-11-29",
+                    "missing": false,
+                    "enemies": ["The Valeyard"],
+                    "companions": ["Mel Bush"]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+    {
+    "actor": "Sacha Dhawan",
+    "description": "Sacha Dhawan portrayed the Master forcing the Doctor to regenerate into him in 'The Power of the Doctor'.",
+    "image": "images/Sacha-Dhawan.jpg",
+    "years_active": "2022",
+    "seasons": [
+      {
+        "season": "13",
+        "episodes": [
+          {
+            "serial_title": "The Power of the Doctor",
+            "description": "The Master forces the Doctor to regenerate into him.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "The Power of the Doctor",
+                "directed_by": "Jamie Magnus Stone",
+                "written_by": "Chris Chibnall",
+                "original_air_date": "2022-10-23",
+                "missing": false,
+                "enemies": ["The Master"],
+                "companions": ["Yaz", "Dan"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "actor": "Toby Jones",
+    "description": "Toby Jones portrayed the Dream Lord, a darker, psychic manifestation of the Doctor, in 'Amy's Choice'.",
+    "image": "images/Toby-Jones.jpg",
+    "years_active": "2010",
+    "seasons": [
+      {
+        "season": "5",
+        "episodes": [
+          {
+            "serial_title": "Amy's Choice",
+            "description": "The Dream Lord, a darker, psychic manifestation of the Doctor.",
+            "number_of_episodes": 1,
+            "episodes": [
+              {
+                "title": "Amy's Choice",
+                "directed_by": "Catherine Morshead",
+                "written_by": "Simon Nye",
+                "original_air_date": "2010-05-15",
+                "missing": false,
+                "enemies": ["Dream Lord"],
+                "companions": ["Amy Pond", "Rory Williams"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,453 @@
+[
+    {
+      "actor": "Christopher Barry",
+      "description": "Christopher Barry portrayed one of the incarnations of the Doctor seen during the Fourth Doctor's mind-bending battle against Morbius in 'The Brain of Morbius'. His appearance added to the rich tapestry of the Doctor's mysterious past."
+    ,
+      "image": "images/Christopher-Barry.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "Robert Banks Stewart",
+      "description": "Robert Banks Stewart portrayed one of the incarnations of the Doctor seen during the Fourth Doctor's mind-bending battle against Morbius in 'The Brain of Morbius'. His appearance added to the intriguing and complex history of the Doctor."
+      ,
+      "image": "images/Robert-Banks-Stewart.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "Christopher Baker",
+      "description": "Christopher Baker portrayed one of the past Doctors seen during the Fourth Doctor's mind-bending battle against Morbius.",
+      "image": "images/Christopher-Baker.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "Philip Hinchcliffe",
+      "description": "Philip Hinchcliffe portrayed one of the past Doctors seen during the Fourth Doctor's mind-bending battle against Morbius.",
+      "image": "images/Philip-Hinchcliffe.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "Douglas Camfield",
+      "description": "Douglas Camfield portrayed one of the past Doctors seen during the Fourth Doctor's mind-bending battle against Morbius.",
+      "image": "images/Douglas-Camfield.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "Graeme Harper",
+      "description": "Graeme Harper portrayed one of the past Doctors seen during the Fourth Doctor's mind-bending battle against Morbius.",
+      "image": "images/Graeme-Harper.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "Robert Holmes",
+      "description": "Robert Holmes portrayed one of the past Doctors seen during the Fourth Doctor's mind-bending battle against Morbius.",
+      "image": "images/Robert-Holmes.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "George Gallaccio",
+      "description": "George Gallaccio portrayed one of the past Doctors seen during the Fourth Doctor's mind-bending battle against Morbius.",
+      "image": "images/George-Gallaccio.webp",
+      "years_active": "1976",
+      "seasons": [
+        {
+          "season": "13",
+          "episodes": [
+            {
+              "serial_title": "The Brain of Morbius",
+              "description": "The Fourth Doctor faces a mind-bending battle against Morbius.",
+              "number_of_episodes": 4,
+              "episodes": [
+                {
+                  "title": "The Brain of Morbius Part One",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-03",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Two",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-10",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Three",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-17",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                },
+                {
+                  "title": "The Brain of Morbius Part Four",
+                  "directed_by": "Christopher Barry",
+                  "written_by": "Robert Banks Stewart",
+                  "original_air_date": "1976-01-24",
+                  "missing": false,
+                  "enemies": ["Morbius"],
+                  "companions": ["Sarah Jane Smith"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

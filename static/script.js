@@ -17,6 +17,9 @@ document.addEventListener("DOMContentLoaded", () => {
   let fifteenthDoctorData = [];
   let warDoctorData = [];
   let fugitiveDoctorData = [];
+  let brainOfMorbiusDoctorsData = [];
+  let williamHartnellActorsData = [];
+  let evilDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -276,22 +279,141 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(error => console.error("Error loading War Doctor data:", error));
 
-    // Fetch and process data for the Fugitive Doctor
-fetch('templates/fugitive_doctor.JSON')
-.then(response => response.json())
-.then(data => {
-  fugitiveDoctorData = processDoctorData(data[0], 'Fugitive');
-  storylines = extractStorylines(data[0], storylines);
-  populateStorylineDropdown('storyline', storylines);
-  doctorDetails['fugitive'] = {
-    name: data[0].actor,
-    description: data[0].description,
-    image: data[0].image,
-    years_active: data[0].years_active
-  };
-})
-.catch(error => console.error("Error loading Fugitive Doctor data:", error));
+ // Fetch and process data for the Fugitive Doctor
+ fetch('templates/fugitive_doctor.JSON')
+ .then(response => response.json())
+ .then(data => {
+   fugitiveDoctorData = processDoctorData(data[0], 'Fugitive');
+   storylines = extractStorylines(data[0], storylines);
+   populateStorylineDropdown('storyline', storylines);
+   doctorDetails['fugitive'] = {
+     name: data[0].actor,
+     description: data[0].description,
+     image: data[0].image,
+     years_active: data[0].years_active
+   };
+ })
+ .catch(error => console.error("Error loading Fugitive Doctor data:", error));
 
+ // Fetch and process data for the Brain of Morbius Doctors
+ fetch('templates/brain_of_morbius.JSON')
+ .then(response => response.json())
+ .then(data => {
+   brainOfMorbiusDoctorsData = data.map((doctor, index) => {
+     const key = `morbius${index + 1}`;
+     doctorDetails[key] = {
+       name: doctor.actor,
+       description: doctor.description,
+       image: doctor.image,
+       years_active: doctor.years_active
+     };
+
+     // Extract storylines
+     if (doctor.seasons) {
+       storylines = extractStorylines(doctor, storylines);
+     }
+
+     return {
+       id: key,
+       actor: doctor.actor,
+       description: doctor.description,
+       image: doctor.image,
+       years_active: doctor.years_active,
+       seasons: doctor.seasons || []
+     };
+   });
+ })
+ .catch(error => console.error("Error loading Brain of Morbius data:", error));
+
+ // Fetch and process data for the actors who played William Hartnell
+ fetch('templates/william_hartnell_actors.JSON')
+   .then(response => response.json())
+   .then(data => {
+     williamHartnellActorsData = data.map((actor, index) => {
+       const key = `hartnell${index + 1}`;
+       doctorDetails[key] = {
+         name: actor.actor,
+         description: actor.description,
+         image: actor.image,
+         years_active: actor.years_active
+       };
+
+       // Extract storylines
+       if (actor.seasons) {
+         storylines = extractStorylines(actor, storylines);
+       }
+
+       return {
+         id: key,
+         actor: actor.actor,
+         description: actor.description,
+         image: actor.image,
+         years_active: actor.years_active,
+         seasons: actor.seasons || []
+       };
+     });
+   })
+   .catch(error => console.error("Error loading William Hartnell Actors data:", error));
+
+  // Fetch and process data for the evil doctors
+  fetch('templates/evil_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      evilDoctorData = data.map((doctor, index) => {
+        const key = `evil${index + 1}`;
+        doctorDetails[key] = {
+          name: doctor.actor,
+          description: doctor.description,
+          image: doctor.image,
+          years_active: doctor.years_active
+        };
+
+        // Extract storylines
+        if (doctor.seasons) {
+          storylines = extractStorylines(doctor, storylines);
+        }
+
+        return {
+          id: key,
+          actor: doctor.actor,
+          description: doctor.description,
+          image: doctor.image,
+          years_active: doctor.years_active,
+          seasons: doctor.seasons || []
+        };
+      });
+    })
+    .catch(error => console.error("Error loading evil doctor data:", error));
+
+
+  // Modified extractStorylines to handle new structure
+  function extractStorylines(data, existingStorylines) {
+    try {
+      if (!data || !data.seasons) {
+        throw new Error('Data is not in the expected format.');
+      }
+
+      const newStorylines = data.seasons.flatMap(season =>
+        season.episodes.map(story => ({
+          serial_title: story.serial_title,
+          description: story.description,
+          number_of_episodes: story.number_of_episodes
+        }))
+      );
+
+      const uniqueStorylines = [...existingStorylines];
+      newStorylines.forEach(storyline => {
+        if (!uniqueStorylines.some(s => s.serial_title === storyline.serial_title)) {
+          uniqueStorylines.push(storyline);
+        }
+      });
+
+      return uniqueStorylines;
+    } catch (error) {
+      console.error('Error extracting storylines:', error);
+      return existingStorylines;
+    }
+  }
 
   function processDoctorData(data, doctor) {
     try {
@@ -322,34 +444,6 @@ fetch('templates/fugitive_doctor.JSON')
     } catch (error) {
       console.error(`Error processing ${doctor} doctor data:`, error);
       return [];
-    }
-  }
-
-  function extractStorylines(data, existingStorylines) {
-    try {
-      if (!data || !data.seasons) {
-        throw new Error('Data is not in the expected format.');
-      }
-
-      const newStorylines = data.seasons.flatMap(season =>
-        season.episodes.map(story => ({
-          serial_title: story.serial_title,
-          description: story.description,
-          number_of_episodes: story.number_of_episodes
-        }))
-      );
-
-      const uniqueStorylines = [...existingStorylines];
-      newStorylines.forEach(storyline => {
-        if (!uniqueStorylines.some(s => s.serial_title === storyline.serial_title)) {
-          uniqueStorylines.push(storyline);
-        }
-      });
-
-      return uniqueStorylines;
-    } catch (error) {
-      console.error('Error extracting storylines:', error);
-      return existingStorylines;
     }
   }
 
@@ -419,7 +513,6 @@ fetch('templates/fugitive_doctor.JSON')
       filterOptions();
     });
   }
-
   function filterOptions() {
     const doctor = document.getElementById("doctor").value.toLowerCase();
     const season = document.getElementById("season").value.toLowerCase();
@@ -429,9 +522,7 @@ fetch('templates/fugitive_doctor.JSON')
     const enemy = document.getElementById("enemy").value.toLowerCase();
     const storyline = document.getElementById("storyline").value.toLowerCase();
     const companion = document.getElementById("companion").value.toLowerCase();
-
-    let filteredData = allData;
-
+  
     if (doctor === "1st") {
       filteredData = firstDoctorData;
     } else if (doctor === "2nd") {
@@ -466,12 +557,57 @@ fetch('templates/fugitive_doctor.JSON')
       filteredData = warDoctorData;
     } else if (doctor === "fugitive") {
       filteredData = fugitiveDoctorData;
+    } else if (doctor.startsWith("morbius")) {
+      filteredData = brainOfMorbiusDoctorsData.find(d => d.id === doctor).seasons.flatMap(season =>
+        season.episodes.flatMap(story => story.episodes.map(episode => ({
+          season: season.season,
+          year: new Date(episode.original_air_date).getFullYear(),
+          storyTitle: story.serial_title,
+          episodeTitle: episode.title,
+          directedBy: episode.directed_by,
+          writtenBy: episode.written_by,
+          originalAirDate: episode.original_air_date,
+          missing: episode.missing,
+          enemies: episode.enemies || [],
+          companions: episode.companions || []
+        })))
+      );
+    } else if (doctor.startsWith("hartnell")) {
+      filteredData = williamHartnellActorsData.find(d => d.id === doctor).seasons.flatMap(season =>
+        season.episodes.flatMap(story => story.episodes.map(episode => ({
+          season: season.season,
+          year: new Date(episode.original_air_date).getFullYear(),
+          storyTitle: story.serial_title,
+          episodeTitle: episode.title,
+          directedBy: episode.directed_by,
+          writtenBy: episode.written_by,
+          originalAirDate: episode.original_air_date,
+          missing: episode.missing,
+          enemies: episode.enemies || [],
+          companions: episode.companions || []
+        })))
+      );
+    } else if (doctor.startsWith("evil")) {
+      filteredData = evilDoctorData.find(d => d.id === doctor).seasons.flatMap(season =>
+        season.episodes.flatMap(story => story.episodes.map(episode => ({
+          season: season.season,
+          year: new Date(episode.original_air_date).getFullYear(),
+          storyTitle: story.serial_title,
+          episodeTitle: episode.title,
+          directedBy: episode.directed_by,
+          writtenBy: episode.written_by,
+          originalAirDate: episode.original_air_date,
+          missing: episode.missing,
+          enemies: episode.enemies || [],
+          companions: episode.companions || []
+        })))
+      );
     }
-
+  
     if (doctor === "") {
       filteredData = [];
     }
-
+  
     const results = filteredData.filter(episode =>
       (season === "" || episode.season.toString().toLowerCase().includes(season)) &&
       (writer === "" || episode.writtenBy.toLowerCase().includes(writer)) &&
@@ -481,10 +617,11 @@ fetch('templates/fugitive_doctor.JSON')
       (storyline === "" || episode.storyTitle.toLowerCase() === storyline) &&
       (companion === "" || episode.companions.some(c => c.toLowerCase().includes(companion)))
     );
-
+  
     displayResults(results);
     updateDropdowns(results);
   }
+  
 
   function displayResults(results) {
     const resultsList = document.getElementById("resultsList");
@@ -571,7 +708,7 @@ fetch('templates/fugitive_doctor.JSON')
   document.getElementById("doctor").addEventListener("change", function (event) {
     const doctor = event.target.value.toLowerCase();
     let relevantData = allData;
-
+  
     if (doctor === "1st") {
       relevantData = firstDoctorData;
     } else if (doctor === "2nd") {
@@ -606,8 +743,54 @@ fetch('templates/fugitive_doctor.JSON')
       relevantData = warDoctorData;
     } else if (doctor === "fugitive") {
       relevantData = fugitiveDoctorData;
+    } else if (doctor.startsWith("morbius")) {
+      relevantData = brainOfMorbiusDoctorsData.find(d => d.id === doctor).seasons.flatMap(season =>
+        season.episodes.flatMap(story => story.episodes.map(episode => ({
+          season: season.season,
+          year: new Date(episode.original_air_date).getFullYear(),
+          storyTitle: story.serial_title,
+          episodeTitle: episode.title,
+          directedBy: episode.directed_by,
+          writtenBy: episode.written_by,
+          originalAirDate: episode.original_air_date,
+          missing: episode.missing,
+          enemies: episode.enemies || [],
+          companions: episode.companions || []
+        })))
+      );
+    } else if (doctor.startsWith("hartnell")) {
+      relevantData = williamHartnellActorsData.find(d => d.id === doctor).seasons.flatMap(season =>
+        season.episodes.flatMap(story => story.episodes.map(episode => ({
+          season: season.season,
+          year: new Date(episode.original_air_date).getFullYear(),
+          storyTitle: story.serial_title,
+          episodeTitle: episode.title,
+          directedBy: episode.directed_by,
+          writtenBy: episode.written_by,
+          originalAirDate: episode.original_air_date,
+          missing: episode.missing,
+          enemies: episode.enemies || [],
+          companions: episode.companions || []
+        })))
+      );
+    }  else if (doctor.startsWith("evil")) {
+      relevantData = evilDoctorData.find(d => d.id === doctor).seasons.flatMap(season =>
+        season.episodes.flatMap(story => story.episodes.map(episode => ({
+          season: season.season,
+          year: new Date(episode.original_air_date).getFullYear(),
+          storyTitle: story.serial_title,
+          episodeTitle: episode.title,
+          directedBy: episode.directed_by,
+          writtenBy: episode.written_by,
+          originalAirDate: episode.original_air_date,
+          missing: episode.missing,
+          enemies: episode.enemies || [],
+          companions: episode.companions || []
+        })))
+      );
     }
-
+  
+  
     if (doctor === "") {
       relevantData = [];
       clearResultsAndDropdowns();
@@ -615,7 +798,7 @@ fetch('templates/fugitive_doctor.JSON')
       populateDropdowns(relevantData);
       populateStorylineDropdown('storyline', storylines.filter(story => relevantData.some(episode => episode.storyTitle === story.serial_title)));
     }
-
+  
     // Display doctor info
     displayDoctorInfo(doctor);
   });
@@ -625,7 +808,7 @@ fetch('templates/fugitive_doctor.JSON')
     const doctorNameElement = document.getElementById("doctorName");
     const doctorDescriptionElement = document.getElementById("doctorDescription");
     const doctorImageElement = document.getElementById("doctorImage");
-
+  
     if (doctorDetails[doctor]) {
       doctorNameElement.textContent = `${doctorDetails[doctor].name} (${doctorDetails[doctor].years_active})`;
       doctorDescriptionElement.textContent = doctorDetails[doctor].description;
