@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let fourteenthDoctorData = [];
   let fifteenthDoctorData = [];
   let warDoctorData = [];
+  let fugitiveDoctorData = [];
   let storylines = [];
   let doctorDetails = {};
 
@@ -275,6 +276,23 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(error => console.error("Error loading War Doctor data:", error));
 
+    // Fetch and process data for the Fugitive Doctor
+fetch('templates/fugitive_doctor.JSON')
+.then(response => response.json())
+.then(data => {
+  fugitiveDoctorData = processDoctorData(data[0], 'Fugitive');
+  storylines = extractStorylines(data[0], storylines);
+  populateStorylineDropdown('storyline', storylines);
+  doctorDetails['fugitive'] = {
+    name: data[0].actor,
+    description: data[0].description,
+    image: data[0].image,
+    years_active: data[0].years_active
+  };
+})
+.catch(error => console.error("Error loading Fugitive Doctor data:", error));
+
+
   function processDoctorData(data, doctor) {
     try {
       if (!data || !data.seasons) {
@@ -446,6 +464,8 @@ document.addEventListener("DOMContentLoaded", () => {
       filteredData = fifteenthDoctorData;
     } else if (doctor === "war") {
       filteredData = warDoctorData;
+    } else if (doctor === "fugitive") {
+      filteredData = fugitiveDoctorData;
     }
 
     if (doctor === "") {
@@ -584,6 +604,8 @@ document.addEventListener("DOMContentLoaded", () => {
       relevantData = fifteenthDoctorData;
     } else if (doctor === "war") {
       relevantData = warDoctorData;
+    } else if (doctor === "fugitive") {
+      relevantData = fugitiveDoctorData;
     }
 
     if (doctor === "") {

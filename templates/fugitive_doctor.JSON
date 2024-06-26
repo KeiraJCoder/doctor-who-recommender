@@ -1,0 +1,106 @@
+[
+    {
+      "actor": "Jo Martin",
+      "description": "Jo Martin portrays the Fugitive Doctor, a previously unknown incarnation of the Doctor who is a dark, battle-hardened figure with an acerbic tongue and a short temper. She was introduced by Chris Chibnall and appeared during the Thirteenth Doctor's era.",
+      "image": "images/Jo-Martin.png",
+      "years_active": "2020-2022",
+      "seasons": [
+        {
+          "season": "Series 12",
+          "episodes": [
+            {
+              "serial_title": "Fugitive of the Judoon",
+              "description": "The Thirteenth Doctor meets the Fugitive Doctor, disguised as Ruth Clayton, who had hidden herself from the Time Lords using a Chameleon Arch.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Fugitive of the Judoon",
+                  "directed_by": "Nida Manzoor",
+                  "written_by": "Vinay Patel & Chris Chibnall",
+                  "original_air_date": "2020-01-26",
+                  "missing": false,
+                  "enemies": ["Judoon", "Commander Gat"],
+                  "companions": ["Lee Clayton"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Timeless Children",
+              "description": "The Thirteenth Doctor encounters a projection of the Fugitive Doctor while trapped in the Matrix by the Master.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Timeless Children",
+                  "directed_by": "Jamie Magnus Stone",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2020-03-01",
+                  "missing": false,
+                  "enemies": ["The Master"],
+                  "companions": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": "Series 13",
+          "episodes": [
+            {
+              "serial_title": "Once, Upon Time",
+              "description": "The Thirteenth Doctor is cast back into her past timestream and sees herself in her Fugitive Doctor incarnation.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "Once, Upon Time",
+                  "directed_by": "Azhur Saleem",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2021-11-14",
+                  "missing": false,
+                  "enemies": ["Swarm", "Azure"],
+                  "companions": ["Karvanista"]
+                }
+              ]
+            },
+            {
+              "serial_title": "The Vanquishers",
+              "description": "Karvanista reveals to the Thirteenth Doctor that he was once the Fugitive Doctor's companion, but is unable to reveal more due to Division's implant.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Vanquishers",
+                  "directed_by": "Azhur Saleem",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2021-12-05",
+                  "missing": false,
+                  "enemies": ["The Division"],
+                  "companions": ["Karvanista"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": "Specials",
+          "episodes": [
+            {
+              "serial_title": "The Power of the Doctor",
+              "description": "The Fugitive Doctor appears as an AI hologram to assist in bringing the Doctor back after The Master steals her body.",
+              "number_of_episodes": 1,
+              "episodes": [
+                {
+                  "title": "The Power of the Doctor",
+                  "directed_by": "Jamie Magnus Stone",
+                  "written_by": "Chris Chibnall",
+                  "original_air_date": "2022-10-23",
+                  "missing": false,
+                  "enemies": ["The Master"],
+                  "companions": ["Yaz", "Vinder"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
