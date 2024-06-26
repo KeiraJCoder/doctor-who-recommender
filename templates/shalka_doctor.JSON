@@ -1,0 +1,77 @@
+[
+    {
+        "doctor": "Shalka Doctor",
+        "actor": "Richard E. Grant",
+        "description": "Richard E. Grant voiced the Doctor in the animated serial 'Scream of the Shalka'.",
+        "image": "images/Shalka_Doctor.webp",
+        "years_active": "2003",
+        "seasons": [
+            {
+                "season": 1,
+                "episodes": [
+                    {
+                        "serial_title": "Scream of the Shalka",
+                        "description": "The Doctor arrives in the village of Lannet, where an alien race known as the Shalka are attempting to take over the Earth.",
+                        "number_of_episodes": 6,
+                        "episodes": [
+                            {
+                                "title": "Episode 1",
+                                "directed_by": "Wilson Milam",
+                                "written_by": "Paul Cornell",
+                                "original_air_date": "2003-11-13",
+                                "missing": false,
+                                "enemies": ["Shalka"],
+                                "companions": ["Alison Cheney"]
+                            },
+                            {
+                                "title": "Episode 2",
+                                "directed_by": "Wilson Milam",
+                                "written_by": "Paul Cornell",
+                                "original_air_date": "2003-11-20",
+                                "missing": false,
+                                "enemies": ["Shalka"],
+                                "companions": ["Alison Cheney"]
+                            },
+                            {
+                                "title": "Episode 3",
+                                "directed_by": "Wilson Milam",
+                                "written_by": "Paul Cornell",
+                                "original_air_date": "2003-11-27",
+                                "missing": false,
+                                "enemies": ["Shalka"],
+                                "companions": ["Alison Cheney"]
+                            },
+                            {
+                                "title": "Episode 4",
+                                "directed_by": "Wilson Milam",
+                                "written_by": "Paul Cornell",
+                                "original_air_date": "2003-12-04",
+                                "missing": false,
+                                "enemies": ["Shalka"],
+                                "companions": ["Alison Cheney"]
+                            },
+                            {
+                                "title": "Episode 5",
+                                "directed_by": "Wilson Milam",
+                                "written_by": "Paul Cornell",
+                                "original_air_date": "2003-12-11",
+                                "missing": false,
+                                "enemies": ["Shalka"],
+                                "companions": ["Alison Cheney"]
+                            },
+                            {
+                                "title": "Episode 6",
+                                "directed_by": "Wilson Milam",
+                                "written_by": "Paul Cornell",
+                                "original_air_date": "2003-12-18",
+                                "missing": false,
+                                "enemies": ["Shalka"],
+                                "companions": ["Alison Cheney"]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

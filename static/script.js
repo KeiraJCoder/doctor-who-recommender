@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let fifteenthDoctorData = [];
   let warDoctorData = [];
   let fugitiveDoctorData = [];
+  let shalkaDoctorData = [];
   let brainOfMorbiusDoctorsData = [];
   let williamHartnellActorsData = [];
   let evilDoctorData = [];
@@ -294,6 +295,21 @@ document.addEventListener("DOMContentLoaded", () => {
    };
  })
  .catch(error => console.error("Error loading Fugitive Doctor data:", error));
+  // Fetch and process data for the Shalka Doctor
+  fetch('templates/shalka_doctor.JSON')
+    .then(response => response.json())
+    .then(data => {
+      shalkaDoctorData = processDoctorData(data[0], 'shalka');
+      storylines = extractStorylines(data[0], storylines);
+      populateStorylineDropdown('storyline', storylines);
+      doctorDetails['shalka'] = {
+        name: data[0].actor,
+        description: data[0].description,
+        image: data[0].image,
+        years_active: data[0].years_active
+      };
+    })
+    .catch(error => console.error("Error loading Shalka Doctor data:", error));
 
  // Fetch and process data for the Brain of Morbius Doctors
  fetch('templates/brain_of_morbius.JSON')
@@ -321,6 +337,7 @@ document.addEventListener("DOMContentLoaded", () => {
        years_active: doctor.years_active,
        seasons: doctor.seasons || []
      };
+     
    });
  })
  .catch(error => console.error("Error loading Brain of Morbius data:", error));
@@ -557,6 +574,8 @@ document.addEventListener("DOMContentLoaded", () => {
       filteredData = warDoctorData;
     } else if (doctor === "fugitive") {
       filteredData = fugitiveDoctorData;
+    } else if (doctor === "shalka") {
+      filteredData = shalkaDoctorData;
     } else if (doctor.startsWith("morbius")) {
       filteredData = brainOfMorbiusDoctorsData.find(d => d.id === doctor).seasons.flatMap(season =>
         season.episodes.flatMap(story => story.episodes.map(episode => ({
@@ -743,6 +762,8 @@ document.addEventListener("DOMContentLoaded", () => {
       relevantData = warDoctorData;
     } else if (doctor === "fugitive") {
       relevantData = fugitiveDoctorData;
+    }  else if (doctor === "shalka") {
+        relevantData = shalkaDoctorData;
     } else if (doctor.startsWith("morbius")) {
       relevantData = brainOfMorbiusDoctorsData.find(d => d.id === doctor).seasons.flatMap(season =>
         season.episodes.flatMap(story => story.episodes.map(episode => ({
